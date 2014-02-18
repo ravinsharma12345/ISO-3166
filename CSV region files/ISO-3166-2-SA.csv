@@ -1,0 +1,14 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Saudi Arabia";SA;SAU;199;"?a'il";Region;"06";17981
+"Saudi Arabia";SA;SAU;199;"?Asir";Region;"14";17984
+"Saudi Arabia";SA;SAU;199;"Al Bāḩah";Region;"11";17980
+"Saudi Arabia";SA;SAU;199;"Al Jawf";Region;"12";17982
+"Saudi Arabia";SA;SAU;199;"Al Madinah";Region;"03";17979
+"Saudi Arabia";SA;SAU;199;"Al Qasim";Region;"05";17988
+"Saudi Arabia";SA;SAU;199;"Al Ḩudūd ash Shamālīyah";Region;"08";17985
+"Saudi Arabia";SA;SAU;199;"Ar Riyāḑ";Region;"01";17978
+"Saudi Arabia";SA;SAU;199;"Ash Sharqiyah";Region;"04";17989
+"Saudi Arabia";SA;SAU;199;"Jizan";Region;"09";17986
+"Saudi Arabia";SA;SAU;199;"Makkah";Region;"02";17987
+"Saudi Arabia";SA;SAU;199;"Najran";Region;"10";17983
+"Saudi Arabia";SA;SAU;199;"Tabuk";Region;"07";17977

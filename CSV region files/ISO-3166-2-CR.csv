@@ -1,0 +1,8 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Costa Rica";CR;CRI;56;"Alajuela";Province;"A";13119
+"Costa Rica";CR;CRI;56;"Cartago";Province;"C";13115
+"Costa Rica";CR;CRI;56;"Guanacaste";Province;"G";13116
+"Costa Rica";CR;CRI;56;"Heredia";Province;"H";13118
+"Costa Rica";CR;CRI;56;"Limón";Province;"L";13114
+"Costa Rica";CR;CRI;56;"Puntarenas";Province;"P";13113
+"Costa Rica";CR;CRI;56;"San José";Province;"SJ";13117

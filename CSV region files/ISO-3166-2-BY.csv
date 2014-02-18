@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Belarus";BY;BLR;24;"Brestskaya voblasts";Region;"BR";12669
+"Belarus";BY;BLR;24;"Homyel'skaya voblasts";Region;"HO";12670
+"Belarus";BY;BLR;24;"Horad Minsk";city;"HM";12674
+"Belarus";BY;BLR;24;"Horad Minsk";Municipality;"X1~";48130
+"Belarus";BY;BLR;24;"Hrodzenskaya voblasts";Region;"HR";12672
+"Belarus";BY;BLR;24;"Mahilyowskaya voblasts";Region;"MA";12671
+"Belarus";BY;BLR;24;"Minskaya voblasts";Region;"MI";12673
+"Belarus";BY;BLR;24;"Vitsyebskaya voblasts";Region;"VI";12668

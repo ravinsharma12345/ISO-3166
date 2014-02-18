@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Niger";NE;NER;164;"Agadez";Region;"1";15782
+"Niger";NE;NER;164;"Diffa";Region;"2";15783
+"Niger";NE;NER;164;"Dosso";Region;"3";15784
+"Niger";NE;NER;164;"Maradi";Region;"4";15785
+"Niger";NE;NER;164;"Niamey";Capital District;"8";15786
+"Niger";NE;NER;164;"Tahoua";Region;"5";15787
+"Niger";NE;NER;164;"Tillabéri";Region;"6";15788
+"Niger";NE;NER;164;"Zinder";Region;"7";15789

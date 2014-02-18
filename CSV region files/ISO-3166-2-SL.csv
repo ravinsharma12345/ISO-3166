@@ -1,0 +1,5 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Sierra Leone";SL;SLE;203;"Eastern";province;"E";18044
+"Sierra Leone";SL;SLE;203;"Northern";province;"N";18033
+"Sierra Leone";SL;SLE;203;"Southern";province;"S";18045
+"Sierra Leone";SL;SLE;203;"Western Area (Freetown)";area;"W";18034

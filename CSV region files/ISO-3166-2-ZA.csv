@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"South Africa";ZA;ZAF;210;"Eastern Cape";Province;"EC";18103
+"South Africa";ZA;ZAF;210;"Free State";Province;"FS";18104
+"South Africa";ZA;ZAF;210;"Gauteng";Province;"GT";18109
+"South Africa";ZA;ZAF;210;"Kwazulu-Natal";Province;"NL";18105
+"South Africa";ZA;ZAF;210;"Limpopo";Province;"LP";18106
+"South Africa";ZA;ZAF;210;"Mpumalanga";Province;"MP";18102
+"South Africa";ZA;ZAF;210;"North-West";Province;"NW";18101
+"South Africa";ZA;ZAF;210;"Northern Cape";Province;"NC";18107
+"South Africa";ZA;ZAF;210;"Western Cape";Province;"WC";18108

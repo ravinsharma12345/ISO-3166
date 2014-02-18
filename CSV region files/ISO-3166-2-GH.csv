@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Ghana";GH;GHA;86;"Ashanti";Region;"AH";14403
+"Ghana";GH;GHA;86;"Brong-Ahafo";Region;"BA";14400
+"Ghana";GH;GHA;86;"Central";Region;"CP";14404
+"Ghana";GH;GHA;86;"Eastern";Region;"EP";14405
+"Ghana";GH;GHA;86;"Greater Accra";Region;"AA";14399
+"Ghana";GH;GHA;86;"Northern";Region;"NP";14402
+"Ghana";GH;GHA;86;"Upper East";Region;"UE";14406
+"Ghana";GH;GHA;86;"Upper West";Region;"UW";14397
+"Ghana";GH;GHA;86;"Volta";Region;"TV";14401
+"Ghana";GH;GHA;86;"Western";Region;"WP";14398

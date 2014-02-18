@@ -1,0 +1,29 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Bulgaria";BG;BGR;37;"Blagoevgrad";Region;"01";12829
+"Bulgaria";BG;BGR;37;"Burgas";Region;"02";12813
+"Bulgaria";BG;BGR;37;"Dobrich";Region;"08";12830
+"Bulgaria";BG;BGR;37;"Gabrovo";Region;"07";12823
+"Bulgaria";BG;BGR;37;"Haskovo";Region;"26";12824
+"Bulgaria";BG;BGR;37;"Kardzhali";Region;"09";12825
+"Bulgaria";BG;BGR;37;"Kjustendil";Region;"10";12831
+"Bulgaria";BG;BGR;37;"Lovech";Region;"11";12826
+"Bulgaria";BG;BGR;37;"Montana";Region;"12";12811
+"Bulgaria";BG;BGR;37;"Pazardzhik";Region;"13";12827
+"Bulgaria";BG;BGR;37;"Pernik";Region;"14";12832
+"Bulgaria";BG;BGR;37;"Pleven";Region;"15";12828
+"Bulgaria";BG;BGR;37;"Plovdiv";Region;"16";12814
+"Bulgaria";BG;BGR;37;"Razgrad";Region;"17";12810
+"Bulgaria";BG;BGR;37;"Ruse";Region;"18";12815
+"Bulgaria";BG;BGR;37;"Silistra";Region;"19";12833
+"Bulgaria";BG;BGR;37;"Sliven";Region;"20";12816
+"Bulgaria";BG;BGR;37;"Smolyan";Region;"21";12809
+"Bulgaria";BG;BGR;37;"Sofia";Region;"23";12834
+"Bulgaria";BG;BGR;37;"Sofia-Grad";Region;"22";12817
+"Bulgaria";BG;BGR;37;"Stara Zagora";Region;"24";12818
+"Bulgaria";BG;BGR;37;"Targovishte";Region;"25";12835
+"Bulgaria";BG;BGR;37;"Varna";Region;"03";12820
+"Bulgaria";BG;BGR;37;"Veliko Tarnovo";Region;"04";12808
+"Bulgaria";BG;BGR;37;"Vidin";Region;"05";12821
+"Bulgaria";BG;BGR;37;"Vratsa";Region;"06";12822
+"Bulgaria";BG;BGR;37;"Yambol";Region;"28";12812
+"Bulgaria";BG;BGR;37;"Šumen";Region;"27";12819

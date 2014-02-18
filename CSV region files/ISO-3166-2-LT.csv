@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Lithuania";LT;LTU;131;"Alytaus Apskritis";County;"AL";15209
+"Lithuania";LT;LTU;131;"Kauno Apskritis";County;"KU";15205
+"Lithuania";LT;LTU;131;"Klaipedos Apskritis";County;"KL";15208
+"Lithuania";LT;LTU;131;"Marijampoles Apskritis";County;"MR";15206
+"Lithuania";LT;LTU;131;"Panevežio Apskritis";County;"PN";15202
+"Lithuania";LT;LTU;131;"Taurages Apskritis";County;"TA";15210
+"Lithuania";LT;LTU;131;"Telšiu Apskritis";County;"TE";15207
+"Lithuania";LT;LTU;131;"Utenos Apskritis";County;"UT";15203
+"Lithuania";LT;LTU;131;"Vilniaus Apskritis";County;"VL";15201
+"Lithuania";LT;LTU;131;"Šiauliu Apskritis";County;"SA";15204

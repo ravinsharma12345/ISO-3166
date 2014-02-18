@@ -1,0 +1,14 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Belgium";BE;BEL;25;"Antwerpen";Province;"VAN";12683
+"Belgium";BE;BEL;25;"Brabant Wallon";Province;"WBR";12679
+"Belgium";BE;BEL;25;"Brussels";Capital Region;"BRU";12682
+"Belgium";BE;BEL;25;"Flemish Region";region;"VLG";48264
+"Belgium";BE;BEL;25;"Hainaut";Province;"WHT";12678
+"Belgium";BE;BEL;25;"Limburg";Province;"VLI";12680
+"Belgium";BE;BEL;25;"Liège";Province;"WLG";12684
+"Belgium";BE;BEL;25;"Luxembourg";Province;"WLX";12676
+"Belgium";BE;BEL;25;"Namur";Province;"WNA";12685
+"Belgium";BE;BEL;25;"Oost-Vlaanderen";Province;"VOV";12677
+"Belgium";BE;BEL;25;"Vlaams Brabant";Province;"VBR";12675
+"Belgium";BE;BEL;25;"Wallonia";region;"WAL";48265
+"Belgium";BE;BEL;25;"West-Vlaanderen";Province;"VWV";12681

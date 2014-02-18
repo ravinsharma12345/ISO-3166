@@ -1,0 +1,20 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Uruguay";UY;URY;242;"Artigas";Department;"AR";18696
+"Uruguay";UY;URY;242;"Durazno";Department;"DU";18699
+"Uruguay";UY;URY;242;"Flores";Department;"FS";18695
+"Uruguay";UY;URY;242;"Florida";Department;"FD";18700
+"Uruguay";UY;URY;242;"Lavalleja";Department;"LA";18709
+"Uruguay";UY;URY;242;"Maldonado";Department;"MA";18701
+"Uruguay";UY;URY;242;"Montevideo";Department;"MO";18702
+"Uruguay";UY;URY;242;"Paysandú";Department;"PA";18694
+"Uruguay";UY;URY;242;"Rivera";Department;"RV";18693
+"Uruguay";UY;URY;242;"Rocha";Department;"RO";18704
+"Uruguay";UY;URY;242;"Río Negro";Department;"RN";18703
+"Uruguay";UY;URY;242;"Salto";Department;"SA";18705
+"Uruguay";UY;URY;242;"San José";Department;"SJ";18692
+"Uruguay";UY;URY;242;"Soriano";Department;"SO";18706
+"Uruguay";UY;URY;242;"Tacuarembó";Department;"TA";18691
+"Uruguay";UY;URY;242;"Treinta y Tres";Department;"TT";18707
+"Uruguay";UY;URY;242;"";Department;"X1~";18697
+"Uruguay";UY;URY;242;"";Department;"X2~";18708
+"Uruguay";UY;URY;242;"";Department;"X3~";18698

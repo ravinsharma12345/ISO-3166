@@ -1,0 +1,206 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE
+"Afghanistan";AF;AFG;2
+"Albania";AL;ALB;4
+"Algeria";DZ;DZA;5
+"Andorra";AD;AND;7
+"Angola";AO;AGO;8
+"Antigua and Barbuda";AG;ATG;11
+"Argentina";AR;ARG;12
+"Armenia";AM;ARM;13
+"Australia";AU;AUS;15
+"Austria";AT;AUT;16
+"Azerbaijan";AZ;AZE;17
+"Bahamas";BS;BHS;18
+"Bahrain";BH;BHR;21
+"Bangladesh";BD;BGD;22
+"Barbados";BB;BRB;23
+"Belarus";BY;BLR;24
+"Belgium";BE;BEL;25
+"Belize";BZ;BLZ;26
+"Benin";BJ;BEN;27
+"Bermuda";BM;BMU;28
+"Bhutan";BT;BTN;29
+"Bolivia; Plurinational State Of";BO;BOL;30
+"Bonaire; Sint Eustatius and Saba";BQ;BES;700
+"Bosnia and Herzegovina";BA;BIH;31
+"Botswana";BW;BWA;32
+"Brazil";BR;BRA;34
+"Brunei Darussalam";BN;BRN;36
+"Bulgaria";BG;BGR;37
+"Burkina Faso";BF;BFA;38
+"Burundi";BI;BDI;39
+"Cambodia";KH;KHM;40
+"Cameroon";CM;CMR;41
+"Canada";CA;CAN;42
+"Cape Verde";CV;CPV;43
+"Cayman Islands";KY;CYM;44
+"Cayman Islands";KY;CYM;44
+"Cayman Islands";KY;CYM;44
+"Central African Republic";CF;CAF;45
+"Chad";TD;TCD;46
+"Chile";CL;CHL;47
+"China";CN;CHN;48
+"Colombia";CO;COL;51
+"Comoros";KM;COM;52
+"Congo";CG;COG;53
+"Congo; The Democratic Republic Of The";CD;COD;54
+"Costa Rica";CR;CRI;56
+"Croatia";HR;HRV;58
+"Cuba";CU;CUB;59
+"Cyprus";CY;CYP;60
+"Czech Republic";CZ;CZE;61
+"Côte D'Ivoire";CI;CIV;57
+"Denmark";DK;DNK;62
+"Djibouti";DJ;DJI;63
+"Dominica";DM;DMA;64
+"Dominican Republic";DO;DOM;65
+"Ecuador";EC;ECU;66
+"Egypt";EG;EGY;67
+"El Salvador";SV;SLV;68
+"Equatorial Guinea";GQ;GNQ;69
+"Eritrea";ER;ERI;70
+"Estonia";EE;EST;71
+"Ethiopia";ET;ETH;73
+"Fiji";FJ;FJI;76
+"Finland";FI;FIN;77
+"France";FR;FRA;78
+"French Southern Territories";TF;ATF;82
+"Gabon";GA;GAB;83
+"Gambia";GM;GMB;84
+"Georgia";GE;GEO;1
+"Germany";DE;DEU;85
+"Ghana";GH;GHA;86
+"Greece";GR;GRC;88
+"Greenland";GL;GRL;89
+"Grenada";GD;GRD;90
+"Guatemala";GT;GTM;93
+"Guinea";GN;GIN;95
+"Guinea-Bissau";GW;GNB;96
+"Guyana";GY;GUY;97
+"Haiti";HT;HTI;98
+"Honduras";HN;HND;101
+"Hungary";HU;HUN;103
+"Iceland";IS;ISL;104
+"India";IN;IND;105
+"Indonesia";ID;IDN;106
+"Iran; Islamic Republic Of";IR;IRN;107
+"Iraq";IQ;IRQ;108
+"Ireland";IE;IRL;109
+"Israel";IL;ISR;111
+"Italy";IT;ITA;112
+"Jamaica";JM;JAM;113
+"Japan";JP;JPN;114
+"Jordan";JO;JOR;116
+"Kazakhstan";KZ;KAZ;117
+"Kenya";KE;KEN;118
+"Kiribati";KI;KIR;119
+"Korea; Democratic People's Republic Of";KP;PRK;121
+"Korea; Republic of";KR;KOR;120
+"Kuwait";KW;KWT;122
+"Kyrgyzstan";KG;KGZ;123
+"Lao People's Democratic Republic";LA;LAO;124
+"Latvia";LV;LVA;125
+"Lebanon";LB;LBN;126
+"Lesotho";LS;LSO;127
+"Liberia";LR;LBR;128
+"Libya";LY;LBY;129
+"Liechtenstein";LI;LIE;130
+"Lithuania";LT;LTU;131
+"Luxembourg";LU;LUX;132
+"Macao";MO;MAC;133
+"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134
+"Madagascar";MG;MDG;135
+"Malawi";MW;MWI;136
+"Malaysia";MY;MYS;137
+"Maldives";MV;MDV;138
+"Mali";ML;MLI;139
+"Marshall Islands";MH;MHL;141
+"Mauritania";MR;MRT;143
+"Mauritius";MU;MUS;144
+"Mexico";MX;MEX;146
+"Micronesia; Federated States Of";FM;FSM;147
+"Moldova; Republic of";MD;MDA;148
+"Monaco";MC;MCO;149
+"Mongolia";MN;MNG;150
+"Montenegro";ME;MNE;151
+"Morocco";MA;MAR;153
+"Mozambique";MZ;MOZ;154
+"Myanmar";MM;MMR;155
+"Namibia";NA;NAM;156
+"Nauru";NR;NRU;157
+"Nepal";NP;NPL;158
+"Netherlands";NL;NLD;159
+"New Zealand";NZ;NZL;162
+"Nicaragua";NI;NIC;163
+"Niger";NE;NER;164
+"Nigeria";NG;NGA;165
+"Norway";NO;NOR;169
+"Oman";OM;OMN;170
+"Pakistan";PK;PAK;171
+"Palau";PW;PLW;172
+"Palestinian Territory; Occupied";PS;PSE;173
+"Panama";PA;PAN;175
+"Papua New Guinea";PG;PNG;176
+"Paraguay";PY;PRY;177
+"Peru";PE;PER;178
+"Philippines";PH;PHL;180
+"Poland";PL;POL;183
+"Portugal";PT;PRT;184
+"Qatar";QA;QAT;186
+"Romania";RO;ROU;189
+"Russian Federation";RU;RUS;190
+"Rwanda";RW;RWA;191
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192
+"Saint Kitts And Nevis";KN;KNA;193
+"Saint Vincent And The Grenadines";VC;VCT;195
+"Samoa";WS;WSM;196
+"San Marino";SM;SMR;197
+"Sao Tome and Principe";ST;STP;198
+"Saudi Arabia";SA;SAU;199
+"Senegal";SN;SEN;200
+"Serbia";RS;SRB;201
+"Seychelles";SC;SYC;202
+"Sierra Leone";SL;SLE;203
+"Singapore";SG;SGP;205
+"Slovakia";SK;SVK;206
+"Slovenia";SI;SVN;207
+"Solomon Islands";SB;SLB;208
+"Somalia";SO;SOM;209
+"South Africa";ZA;ZAF;210
+"South Sudan";SS;SSD;703
+"Spain";ES;ESP;212
+"Sri Lanka";LK;LKA;213
+"Sudan";SD;SDN;214
+"Suriname";SR;SUR;215
+"Swaziland";SZ;SWZ;217
+"Sweden";SE;SWE;218
+"Switzerland";CH;CHE;219
+"Syrian Arab Republic";SY;SYR;220
+"Taiwan; Province Of China";TW;TWN;221
+"Tajikistan";TJ;TJK;222
+"Tajikistan";TJ;TJK;222
+"Tanzania; United Republic of";TZ;TZA;223
+"Thailand";TH;THA;224
+"Timor-Leste";TL;TLS;226
+"Togo";TG;TGO;227
+"Tonga";TO;TON;229
+"Trinidad and Tobago";TT;TTO;230
+"Tunisia";TN;TUN;231
+"Turkey";TR;TUR;232
+"Turkmenistan";TM;TKM;233
+"Tuvalu";TV;TUV;235
+"Uganda";UG;UGA;236
+"Ukraine";UA;UKR;237
+"United Arab Emirates";AE;ARE;238
+"United Kingdom";GB;GBR;239
+"United States";US;USA;240
+"United States Minor Outlying Islands";UM;UMI;241
+"Uruguay";UY;URY;242
+"Uzbekistan";UZ;UZB;243
+"Vanuatu";VU;VUT;244
+"Venezuela; Bolivarian Republic of";VE;VEN;245
+"Viet Nam";VN;VNM;247
+"Western Sahara";EH;ESH;251
+"Yemen";YE;YEM;252
+"Zambia";ZM;ZMB;255
+"Zimbabwe";ZW;ZWE;256

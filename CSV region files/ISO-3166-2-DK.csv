@@ -1,0 +1,22 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Denmark";DK;DNK;62;"Bornholm";county;"040";13256
+"Denmark";DK;DNK;62;"Capital";Region;"84";19434
+"Denmark";DK;DNK;62;"Central Jutland";Region;"82";19435
+"Denmark";DK;DNK;62;"Frederiksberg City";city;"147";13275
+"Denmark";DK;DNK;62;"Frederiksborg";county;"020";13257
+"Denmark";DK;DNK;62;"Fyn";county;"042";13265
+"Denmark";DK;DNK;62;"København";county;"015";13266
+"Denmark";DK;DNK;62;"København City";city;"101";13258
+"Denmark";DK;DNK;62;"Nordjylland";county;"080";13267
+"Denmark";DK;DNK;62;"North Jutland";Region;"81";19436
+"Denmark";DK;DNK;62;"Ribe";county;"055";13268
+"Denmark";DK;DNK;62;"Ringkøbing";county;"065";13259
+"Denmark";DK;DNK;62;"Roskilde";county;"025";13269
+"Denmark";DK;DNK;62;"South Denmark";Region;"83";19438
+"Denmark";DK;DNK;62;"Storstrøm";county;"035";13261
+"Denmark";DK;DNK;62;"Sønderjylland";county;"050";13260
+"Denmark";DK;DNK;62;"Vejle";county;"060";13262
+"Denmark";DK;DNK;62;"Vestsjælland";county;"030";13263
+"Denmark";DK;DNK;62;"Viborg";county;"076";13264
+"Denmark";DK;DNK;62;"Zeeland";Region;"85";19437
+"Denmark";DK;DNK;62;"Århus";county;"070";13274

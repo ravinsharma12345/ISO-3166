@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Cameroon";CM;CMR;41;"Adamaoua";Region;"AD";12932
+"Cameroon";CM;CMR;41;"Centre";Region;"CE";12928
+"Cameroon";CM;CMR;41;"East";Region;"ES";12933
+"Cameroon";CM;CMR;41;"Far North";Region;"EN";12934
+"Cameroon";CM;CMR;41;"Littoral";Region;"LT";12929
+"Cameroon";CM;CMR;41;"North";Region;"NO";12931
+"Cameroon";CM;CMR;41;"North-West";Region;"NW";12927
+"Cameroon";CM;CMR;41;"South";Region;"SU";12935
+"Cameroon";CM;CMR;41;"South-West";Region;"SW";12926
+"Cameroon";CM;CMR;41;"West";Region;"OU";12930

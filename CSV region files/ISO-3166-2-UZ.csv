@@ -1,0 +1,15 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Uzbekistan";UZ;UZB;243;"Andijon";region;"AN";18715
+"Uzbekistan";UZ;UZB;243;"Buxoro";region;"BU";18717
+"Uzbekistan";UZ;UZB;243;"Farg‘ona";region;"FA";18714
+"Uzbekistan";UZ;UZB;243;"Jizzax";region;"JI";18723
+"Uzbekistan";UZ;UZB;243;"Namangan";region;"NG";18719
+"Uzbekistan";UZ;UZB;243;"Navoiy";region;"NW";18712
+"Uzbekistan";UZ;UZB;243;"Qashqadaryo";region;"QA";18718
+"Uzbekistan";UZ;UZB;243;"Qoraqalpog‘iston Respublikasi";republic;"QR";18713
+"Uzbekistan";UZ;UZB;243;"Samarqand";region;"SA";18720
+"Uzbekistan";UZ;UZB;243;"Sirdaryo";region;"SI";18711
+"Uzbekistan";UZ;UZB;243;"Surxondaryo";region;"SU";18710
+"Uzbekistan";UZ;UZB;243;"Toshkent";region;"TO";18721
+"Uzbekistan";UZ;UZB;243;"Toshkent City";city;"TK";20580
+"Uzbekistan";UZ;UZB;243;"Xorazm";region;"XO";18724

@@ -1,0 +1,7 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Singapore";SG;SGP;205;"Central Singapore";District;"01";48250
+"Singapore";SG;SGP;205;"North East";District;"02";48251
+"Singapore";SG;SGP;205;"North West";District;"03";48252
+"Singapore";SG;SGP;205;"Singapore - No State";;"X1~";48078
+"Singapore";SG;SGP;205;"South East";District;"04";48253
+"Singapore";SG;SGP;205;"South West";District;"05";48254

@@ -1,0 +1,15 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Senegal";SN;SEN;200;"Dakar";region;"DK";17998
+"Senegal";SN;SEN;200;"Diourbel";region;"DB";17991
+"Senegal";SN;SEN;200;"Fatick";region;"FK";17997
+"Senegal";SN;SEN;200;"Kaffrine";region;"KA";48218
+"Senegal";SN;SEN;200;"Kaolack";region;"KL";17999
+"Senegal";SN;SEN;200;"Kolda";region;"KD";17993
+"Senegal";SN;SEN;200;"Kédougou";region;"KE";48219
+"Senegal";SN;SEN;200;"Louga";region;"LG";17996
+"Senegal";SN;SEN;200;"Matam";region;"MT";17994
+"Senegal";SN;SEN;200;"Saint-Louis";region;"SL";17992
+"Senegal";SN;SEN;200;"Sédhiou";region;"SE";48220
+"Senegal";SN;SEN;200;"Tambacounda";region;"TC";18000
+"Senegal";SN;SEN;200;"Thiès";region;"TH";17995
+"Senegal";SN;SEN;200;"Ziguinchor";region;"ZG";17990

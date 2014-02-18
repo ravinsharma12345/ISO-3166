@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Zambia";ZM;ZMB;255;"Central";Province;"02";20690
+"Zambia";ZM;ZMB;255;"Copperbelt";Province;"08";18800
+"Zambia";ZM;ZMB;255;"Eastern";Province;"03";21381
+"Zambia";ZM;ZMB;255;"Luapula";Province;"04";18803
+"Zambia";ZM;ZMB;255;"Lusaka";Province;"09";18801
+"Zambia";ZM;ZMB;255;"North-Western";Province;"06";18804
+"Zambia";ZM;ZMB;255;"Northern";Province;"05";18798
+"Zambia";ZM;ZMB;255;"Southern";Province;"07";18802
+"Zambia";ZM;ZMB;255;"Western";Province;"01";18796

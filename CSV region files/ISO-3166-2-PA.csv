@@ -1,0 +1,14 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Panama";PA;PAN;175;"Bocas del Toro";province;"1";15928
+"Panama";PA;PAN;175;"Chiriquí";province;"4";15920
+"Panama";PA;PAN;175;"Coclé";province;"2";15929
+"Panama";PA;PAN;175;"Colón";province;"3";15921
+"Panama";PA;PAN;175;"Comarca de San Blas";Comarca;"0";15925
+"Panama";PA;PAN;175;"Darién";province;"5";15922
+"Panama";PA;PAN;175;"Emberá";indigenous region;"EM";15926
+"Panama";PA;PAN;175;"Herrera";province;"6";15923
+"Panama";PA;PAN;175;"Los Santos";province;"7";15917
+"Panama";PA;PAN;175;"Ngöbe-Buglé";indigenous region;"NB";15919
+"Panama";PA;PAN;175;"Panamá";province;"8";15916
+"Panama";PA;PAN;174;"Kuna Yala";indigenous region;"KY";48238
+"Panama";PA;PAN;175;"Veraguas";province;"9";15927

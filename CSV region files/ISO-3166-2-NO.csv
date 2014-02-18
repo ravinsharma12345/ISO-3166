@@ -1,0 +1,22 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Norway";NO;NOR;169;"Akershus";County;"02";15866
+"Norway";NO;NOR;169;"Aust-Agder";County;"09";15853
+"Norway";NO;NOR;169;"Buskerud";County;"06";15854
+"Norway";NO;NOR;169;"Finnmark";County;"20";15852
+"Norway";NO;NOR;169;"Hedmark";County;"04";15855
+"Norway";NO;NOR;169;"Hordaland";County;"12";15867
+"Norway";NO;NOR;169;"Jan Mayen (Arctic Region) (See also country code SJ)";;"22";19038
+"Norway";NO;NOR;169;"Møre og Romsdal";County;"15";15856
+"Norway";NO;NOR;169;"Nord-Trøndelag";County;"17";15851
+"Norway";NO;NOR;169;"Nordland";County;"18";15857
+"Norway";NO;NOR;169;"Oppland";County;"05";15858
+"Norway";NO;NOR;169;"Oslo";County;"03";15859
+"Norway";NO;NOR;169;"Rogaland";County;"11";15860
+"Norway";NO;NOR;169;"Sogn og Fjordane";County;"14";15861
+"Norway";NO;NOR;169;"Svalbard (Arctic Region) (See also country code SJ)";;"21";19039
+"Norway";NO;NOR;169;"Sør-Trøndelag";County;"16";15849
+"Norway";NO;NOR;169;"Telemark";County;"08";15862
+"Norway";NO;NOR;169;"Troms";County;"19";15863
+"Norway";NO;NOR;169;"Vest-Agder";County;"10";15848
+"Norway";NO;NOR;169;"Vestfold";County;"07";15864
+"Norway";NO;NOR;169;"Østfold";County;"01";15850

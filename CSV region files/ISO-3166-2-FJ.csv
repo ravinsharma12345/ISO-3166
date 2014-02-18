@@ -1,0 +1,6 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Fiji";FJ;FJI;76;"Central";division;"C";13683
+"Fiji";FJ;FJI;76;"Eastern";division;"E";13682
+"Fiji";FJ;FJI;76;"Northern";division;"N";13684
+"Fiji";FJ;FJI;76;"Rotuma";dependency;"R";18998
+"Fiji";FJ;FJI;76;"Western";division;"W";13681

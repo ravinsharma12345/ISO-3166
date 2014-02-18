@@ -1,0 +1,35 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"China";CN;CHN;48;"Anhui";province;"34";13012
+"China";CN;CHN;48;"Aomen (zh) ***";special administrative region;"92";13034
+"China";CN;CHN;48;"Beijing";municipality;"11";13013
+"China";CN;CHN;48;"Chongqing";municipality;"50";13014
+"China";CN;CHN;48;"Fujian";province;"35";13035
+"China";CN;CHN;48;"Gansu";province;"62";13015
+"China";CN;CHN;48;"Guangdong";province;"44";13016
+"China";CN;CHN;48;"Guangxi";autonomous region;"45";13036
+"China";CN;CHN;48;"Guizhou";province;"52";13017
+"China";CN;CHN;48;"Hainan";province;"46";13018
+"China";CN;CHN;48;"Hebei";province;"13";13019
+"China";CN;CHN;48;"Heilongjiang";province;"23";13028
+"China";CN;CHN;48;"Henan";province;"41";13029
+"China";CN;CHN;48;"Hubei";province;"42";13020
+"China";CN;CHN;48;"Hunan";province;"43";13030
+"China";CN;CHN;48;"Jiangsu";province;"32";13031
+"China";CN;CHN;48;"Jiangxi";province;"36";13021
+"China";CN;CHN;48;"Jilin";province;"22";13022
+"China";CN;CHN;48;"Liaoning";province;"21";13023
+"China";CN;CHN;48;"Nei Mongol (mn)";autonomous region;"15";13024
+"China";CN;CHN;48;"Ningxia";autonomous region;"64";13025
+"China";CN;CHN;48;"Qinghai";province;"63";13026
+"China";CN;CHN;48;"Shaanxi";province;"61";13027
+"China";CN;CHN;48;"Shandong";province;"37";13011
+"China";CN;CHN;48;"Shanghai";municipality;"31";13037
+"China";CN;CHN;48;"Shanxi";province;"14";13010
+"China";CN;CHN;48;"Sichuan";province;"51";13038
+"China";CN;CHN;48;"Taiwan *";province;"71";18995
+"China";CN;CHN;48;"Tianjin";municipality;"12";13009
+"China";CN;CHN;48;"Xianggang (zh) **";special administrative region;"91";13039
+"China";CN;CHN;48;"Xinjiang";autonomous region;"65";13008
+"China";CN;CHN;48;"Xizang";autonomous region;"54";13032
+"China";CN;CHN;48;"Yunnan";province;"53";13033
+"China";CN;CHN;48;"Zhejiang";province;"33";13007

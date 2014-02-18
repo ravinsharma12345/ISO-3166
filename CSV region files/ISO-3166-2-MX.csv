@@ -1,0 +1,33 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Mexico";MX;MEX;146;"Aguascalientes";state;"AGU";15423
+"Mexico";MX;MEX;146;"Baja California";state;"BCN";15412
+"Mexico";MX;MEX;146;"Baja California Sur";state;"BCS";15413
+"Mexico";MX;MEX;146;"Campeche";state;"CAM";15424
+"Mexico";MX;MEX;146;"Chiapas";state;"CHP";15414
+"Mexico";MX;MEX;146;"Chihuahua";state;"CHH";15425
+"Mexico";MX;MEX;146;"Coahuila";state;"COA";15415
+"Mexico";MX;MEX;146;"Colima";state;"COL";15416
+"Mexico";MX;MEX;146;"Distrito Federal";federal district;"DIF";15426
+"Mexico";MX;MEX;146;"Durango";state;"DUR";15417
+"Mexico";MX;MEX;146;"Guanajuato";state;"GUA";15418
+"Mexico";MX;MEX;146;"Guerrero";state;"GRO";15427
+"Mexico";MX;MEX;146;"Hidalgo";state;"HID";15419
+"Mexico";MX;MEX;146;"Jalisco";state;"JAL";15420
+"Mexico";MX;MEX;146;"Michoacán";state;"MIC";15421
+"Mexico";MX;MEX;146;"Morelos";state;"MOR";15422
+"Mexico";MX;MEX;146;"México";state;"MEX";15428
+"Mexico";MX;MEX;146;"Nayarit";state;"NAY";15429
+"Mexico";MX;MEX;146;"Nuevo León";state;"NLE";15403
+"Mexico";MX;MEX;146;"Oaxaca";state;"OAX";15430
+"Mexico";MX;MEX;146;"Puebla";state;"PUE";15404
+"Mexico";MX;MEX;146;"Querétaro";state;"QUE";15405
+"Mexico";MX;MEX;146;"Quintana Roo";state;"ROO";15432
+"Mexico";MX;MEX;146;"San Luis Potosí";state;"SLP";15406
+"Mexico";MX;MEX;146;"Sinaloa";state;"SIN";15407
+"Mexico";MX;MEX;146;"Sonora";state;"SON";15433
+"Mexico";MX;MEX;146;"Tabasco";state;"TAB";15408
+"Mexico";MX;MEX;146;"Tamaulipas";state;"TAM";15431
+"Mexico";MX;MEX;146;"Tlaxcala";state;"TLA";15409
+"Mexico";MX;MEX;146;"Veracruz";state;"VER";15410
+"Mexico";MX;MEX;146;"Yucatán";state;"YUC";15402
+"Mexico";MX;MEX;146;"Zacatecas";state;"ZAC";15411

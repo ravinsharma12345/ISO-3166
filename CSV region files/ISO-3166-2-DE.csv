@@ -1,0 +1,17 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Germany";DE;DEU;85;"Baden-Württemberg";State;"BW";14337
+"Germany";DE;DEU;85;"Bayern";State;"BY";14044
+"Germany";DE;DEU;85;"Berlin";State;"BE";14338
+"Germany";DE;DEU;85;"Brandenburg";State;"BB";14045
+"Germany";DE;DEU;85;"Bremen";State;"HB";14339
+"Germany";DE;DEU;85;"Hamburg";State;"HH";14046
+"Germany";DE;DEU;85;"Hessen";State;"HE";14340
+"Germany";DE;DEU;85;"Mecklenburg-Vorpommern";State;"MV";14047
+"Germany";DE;DEU;85;"Niedersachsen";State;"NI";14341
+"Germany";DE;DEU;85;"Nordrhein-Westfalen";State;"NW";14048
+"Germany";DE;DEU;85;"Rheinland-Pfalz";State;"RP";14342
+"Germany";DE;DEU;85;"Saarland";State;"SL";14049
+"Germany";DE;DEU;85;"Sachsen";State;"SN";14343
+"Germany";DE;DEU;85;"Sachsen-Anhalt";State;"ST";14050
+"Germany";DE;DEU;85;"Schleswig-Holstein";State;"SH";14344
+"Germany";DE;DEU;85;"Thüringen";State;"TH";14051

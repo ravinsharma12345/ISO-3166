@@ -1,0 +1,18 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Kazakhstan";KZ;KAZ;117;"Almaty";city;"ALA";14993
+"Kazakhstan";KZ;KAZ;117;"Almaty oblysy";region;"ALM";20264
+"Kazakhstan";KZ;KAZ;117;"Aqmola oblysy";region;"AKM";14991
+"Kazakhstan";KZ;KAZ;117;"Aqtöbe oblysy";region;"AKT";14992
+"Kazakhstan";KZ;KAZ;117;"Astana";city;"AST";20265
+"Kazakhstan";KZ;KAZ;117;"Atyrau oblysy";region;"ATY";14994
+"Kazakhstan";KZ;KAZ;117;"Batys Qazaqstan oblysy";region;"ZAP";14988
+"Kazakhstan";KZ;KAZ;117;"Bayqongyr";city;"BAY";21376
+"Kazakhstan";KZ;KAZ;117;"Mangghystau oblysy";region;"MAN";14995
+"Kazakhstan";KZ;KAZ;117;"Ongtüstik Qazaqstan oblysy";region;"YUZ";14999
+"Kazakhstan";KZ;KAZ;117;"Pavlodar oblysy";region;"PAV";14998
+"Kazakhstan";KZ;KAZ;117;"Qaraghandy oblysy";region;"KAR";14997
+"Kazakhstan";KZ;KAZ;117;"Qostanay oblysy";region;"KUS";15000
+"Kazakhstan";KZ;KAZ;117;"Qyzylorda oblysy";region;"KZY";14990
+"Kazakhstan";KZ;KAZ;117;"Shyghys Qazaqstan oblysy";region;"VOS";14996
+"Kazakhstan";KZ;KAZ;117;"Soltüstik Qazaqstan oblysy";region;"SEV";14989
+"Kazakhstan";KZ;KAZ;117;"Zhambyl oblysy";region;"ZHA";14987

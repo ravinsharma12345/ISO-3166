@@ -1,0 +1,101 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Philippines";PH;PHL;180;"Abra";province;"ABR";17214
+"Philippines";PH;PHL;180;"Agusan del Norte";province;"AGN";16310
+"Philippines";PH;PHL;180;"Agusan del Sur";province;"AGS";17293
+"Philippines";PH;PHL;180;"Aklan";province;"AKL";16347
+"Philippines";PH;PHL;180;"Albay";province;"ALB";16303
+"Philippines";PH;PHL;180;"Antique";province;"ANT";16348
+"Philippines";PH;PHL;180;"Apayao";province;"APA";17215
+"Philippines";PH;PHL;180;"Aurora";province;"AUR";17115
+"Philippines";PH;PHL;180;"Autonomous Region in Muslim Mindanao (ARMM)";region;"14";17207
+"Philippines";PH;PHL;180;"Basilan";province;"BAS";17237
+"Philippines";PH;PHL;180;"Bataan";province;"BAN";16312
+"Philippines";PH;PHL;180;"Batanes";province;"BTN";16307
+"Philippines";PH;PHL;180;"Batangas";province;"BTG";17233
+"Philippines";PH;PHL;180;"Benguet";province;"BEN";16315
+"Philippines";PH;PHL;180;"Bicol (Region V)";region;"05";17201
+"Philippines";PH;PHL;180;"Biliran";province;"BIL";17217
+"Philippines";PH;PHL;180;"Bohol";province;"BOH";17303
+"Philippines";PH;PHL;180;"Bukidnon";province;"BUK";16333
+"Philippines";PH;PHL;180;"Bulacan";province;"BUL";17295
+"Philippines";PH;PHL;180;"Cagayan";province;"CAG";17291
+"Philippines";PH;PHL;180;"Cagayan Valley (Region II)";region;"02";16298
+"Philippines";PH;PHL;180;"CALABARZON (Region IV-A)";region;"40";48239
+"Philippines";PH;PHL;180;"Camarines Norte";province;"CAN";16304
+"Philippines";PH;PHL;180;"Camarines Sur";province;"CAS";17289
+"Philippines";PH;PHL;180;"Camiguin";province;"CAM";16334
+"Philippines";PH;PHL;180;"Capiz";province;"CAP";17239
+"Philippines";PH;PHL;180;"Caraga (Region XIII)";region;"13";16299
+"Philippines";PH;PHL;180;"Catanduanes";province;"CAT";16305
+"Philippines";PH;PHL;180;"Cavite";province;"CAV";16340
+"Philippines";PH;PHL;180;"Cebu";province;"CEB";17304
+"Philippines";PH;PHL;180;"Central Luzon (Region III)";region;"03";17202
+"Philippines";PH;PHL;180;"Central Visayas (Region VII)";region;"07";17203
+"Philippines";PH;PHL;180;"Compostela Valley";province;"COM";17230
+"Philippines";PH;PHL;180;"Cordillera Administrative Region (CAR)";region;"15";17204
+"Philippines";PH;PHL;180;"Cotabato";province;"NCO";17298
+"Philippines";PH;PHL;180;"Davao (Region XI)";region;"11";48240
+"Philippines";PH;PHL;180;"Davao del Norte";province;"DAV";16336
+"Philippines";PH;PHL;180;"Davao del Sur";province;"DAS";17231
+"Philippines";PH;PHL;180;"Davao Oriental";province;"DAO";16337
+"Philippines";PH;PHL;180;"Dinagat Islands";province;"DIN";16521
+"Philippines";PH;PHL;180;"Dinagat Islands";;"X1~";48135
+"Philippines";PH;PHL;180;"Eastern Samar";province;"EAS";16318
+"Philippines";PH;PHL;180;"Eastern Visayas (Region VIII)";region;"08";17205
+"Philippines";PH;PHL;180;"Guimaras";province;"GUI";16349
+"Philippines";PH;PHL;180;"Ifugao";province;"IFU";16316
+"Philippines";PH;PHL;180;"Ilocos (Region I)";region;"01";17206
+"Philippines";PH;PHL;180;"Ilocos Norte";province;"ILN";16321
+"Philippines";PH;PHL;180;"Ilocos Sur";province;"ILS";17220
+"Philippines";PH;PHL;180;"Iloilo";province;"ILI";17240
+"Philippines";PH;PHL;180;"Isabela";province;"ISA";16308
+"Philippines";PH;PHL;180;"Kalinga";province;"KAL";17216
+"Philippines";PH;PHL;180;"La Union";province;"LUN";16322
+"Philippines";PH;PHL;180;"Laguna";province;"LAG";16341
+"Philippines";PH;PHL;180;"Lanao del Norte";province;"LAN";17300
+"Philippines";PH;PHL;180;"Lanao del Sur";province;"LAS";16301
+"Philippines";PH;PHL;180;"Leyte";province;"LEY";16765
+"Philippines";PH;PHL;180;"Maguindanao";province;"MAG";17287
+"Philippines";PH;PHL;180;"Marinduque";province;"MAD";17234
+"Philippines";PH;PHL;180;"Masbate";province;"MAS";17290
+"Philippines";PH;PHL;180;"MIMAROPA (Region IV-B)";region;"41";48241
+"Philippines";PH;PHL;180;"Mindoro Occidental";province;"MDC";16342
+"Philippines";PH;PHL;180;"Mindoro Oriental";province;"MDR";17235
+"Philippines";PH;PHL;180;"Misamis Occidental";province;"MSC";17229
+"Philippines";PH;PHL;180;"Misamis Oriental";province;"MSR";16335
+"Philippines";PH;PHL;180;"Mountain Province";province;"MOU";16317
+"Philippines";PH;PHL;180;"National Capital Region";region;"00";17208
+"Philippines";PH;PHL;180;"Negros Occidental";province;"NEC";16350
+"Philippines";PH;PHL;180;"Negros Oriental";province;"NER";17305
+"Philippines";PH;PHL;180;"Northern Mindanao (Region X)";region;"10";17209
+"Philippines";PH;PHL;180;"Northern Samar";province;"NSA";17218
+"Philippines";PH;PHL;180;"Nueva Ecija";province;"NUE";16313
+"Philippines";PH;PHL;180;"Nueva Vizcaya";province;"NUV";17292
+"Philippines";PH;PHL;180;"Palawan";province;"PLW";16343
+"Philippines";PH;PHL;180;"Pampanga";province;"PAM";16314
+"Philippines";PH;PHL;180;"Pangasinan";province;"PAN";16323
+"Philippines";PH;PHL;180;"Quezon";province;"QUE";17595
+"Philippines";PH;PHL;180;"Quirino";province;"QUI";16144
+"Philippines";PH;PHL;180;"Rizal";province;"RIZ";17583
+"Philippines";PH;PHL;180;"Romblon";province;"ROM";17082
+"Philippines";PH;PHL;180;"Sarangani";province;"SAR";17232
+"Philippines";PH;PHL;180;"Shariff Kabunsuan";;"X2~";21362
+"Philippines";PH;PHL;180;"Siquijor";province;"SIG";17306
+"Philippines";PH;PHL;180;"Soccsksargen (Region XII)";region;"12";48242
+"Philippines";PH;PHL;180;"Sorsogon";province;"SOR";16306
+"Philippines";PH;PHL;180;"South Cotabato";province;"SCO";16338
+"Philippines";PH;PHL;180;"Southern Leyte";province;"SLE";17219
+"Philippines";PH;PHL;180;"Sultan Kudarat";province;"SUK";17302
+"Philippines";PH;PHL;180;"Sulu";province;"SLU";16302
+"Philippines";PH;PHL;180;"Surigao del Norte";province;"SUN";16311
+"Philippines";PH;PHL;180;"Surigao del Sur";province;"SUR";17294
+"Philippines";PH;PHL;180;"Tarlac";province;"TAR";17296
+"Philippines";PH;PHL;180;"Tawi-Tawi";province;"TAW";17288
+"Philippines";PH;PHL;180;"Western Samar";province;"WSA";16320
+"Philippines";PH;PHL;180;"Western Visayas (Region VI)";region;"06";17213
+"Philippines";PH;PHL;180;"Zambales";province;"ZMB";17297
+"Philippines";PH;PHL;180;"Zamboanga del Norte";province;"ZAN";16346
+"Philippines";PH;PHL;180;"Zamboanga del Sur";province;"ZAS";17238
+"Philippines";PH;PHL;180;"Zamboanga Peninsula (Region IX)";region;"09";48243
+"Philippines";PH;PHL;180;"Zamboanga Sibuguey [Zamboanga Sibugay]";province;"ZSI";17672
+"Philippines";PH;PHL;180;"";;"MNL";48079

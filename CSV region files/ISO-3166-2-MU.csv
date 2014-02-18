@@ -1,0 +1,18 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Mauritius";MU;MUS;144;"Agalega Islands";dependency;"AG";19026
+"Mauritius";MU;MUS;144;"Beau Bassin-Rose Hill";city;"BR";19027
+"Mauritius";MU;MUS;144;"Black River";district;"BL";15392
+"Mauritius";MU;MUS;144;"Cargados Carajos Shoals [Saint Brandon Islands]";dependency;"CC";19028
+"Mauritius";MU;MUS;144;"Curepipe";city;"CU";19029
+"Mauritius";MU;MUS;144;"Flacq";district;"FL";15395
+"Mauritius";MU;MUS;144;"Grand Port";district;"GP";15393
+"Mauritius";MU;MUS;144;"Moka";district;"MO";15394
+"Mauritius";MU;MUS;144;"Pamplemousses";district;"PA";15396
+"Mauritius";MU;MUS;144;"Plaines Wilhems";district;"PW";15391
+"Mauritius";MU;MUS;144;"Port Louis City";district;"PL";15397
+"Mauritius";MU;MUS;144;"Port Louis District";city;"PU";19030
+"Mauritius";MU;MUS;144;"Quatre Bornes";city;"QB";19033
+"Mauritius";MU;MUS;144;"Rivière du Rempart";district;"RR";15399
+"Mauritius";MU;MUS;144;"Rodrigues Island";dependency;"RO";15398
+"Mauritius";MU;MUS;144;"Savanne";district;"SA";15390
+"Mauritius";MU;MUS;144;"Vacoas-Phoenix";city;"VP";19032

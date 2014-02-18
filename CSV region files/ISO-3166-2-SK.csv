@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Slovakia";SK;SVK;206;"Banskobystrický kraj";Region;"BC";18060
+"Slovakia";SK;SVK;206;"Bratislavský kraj";Region;"BL";18053
+"Slovakia";SK;SVK;206;"Košický kraj";Region;"KI";18059
+"Slovakia";SK;SVK;206;"Nitriansky kraj";Region;"NI";18054
+"Slovakia";SK;SVK;206;"Prešovský kraj";Region;"PV";18055
+"Slovakia";SK;SVK;206;"Trenciansky kraj";Region;"TC";18052
+"Slovakia";SK;SVK;206;"Trnavský kraj";Region;"TA";18056
+"Slovakia";SK;SVK;206;"Žilinský kraj";Region;"ZI";18057

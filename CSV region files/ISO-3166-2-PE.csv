@@ -1,0 +1,28 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Peru";PE;PER;178;"Amazonas";department;"AMA";15982
+"Peru";PE;PER;178;"Ancash";department;"ANC";15981
+"Peru";PE;PER;178;"Apurímac";department;"APU";15983
+"Peru";PE;PER;178;"Arequipa";department;"ARE";15972
+"Peru";PE;PER;178;"Ayacucho";department;"AYA";15984
+"Peru";PE;PER;178;"Cajamarca";department;"CAJ";15985
+"Peru";PE;PER;178;"Cusco [Cuzco]";department;"CUS";15989
+"Peru";PE;PER;178;"El Callao";constitutional province;"CAL";15992
+"Peru";PE;PER;178;"Huancavelica";department;"HUV";15986
+"Peru";PE;PER;178;"Huánuco";department;"HUC";15987
+"Peru";PE;PER;178;"Ica";department;"ICA";15971
+"Peru";PE;PER;178;"Junín";department;"JUN";15988
+"Peru";PE;PER;178;"La Libertad";department;"LAL";15990
+"Peru";PE;PER;178;"Lambayeque";department;"LAM";15973
+"Peru";PE;PER;178;"Lima";department;"LIM";15969
+"Peru";PE;PER;178;"Loreto";department;"LOR";15974
+"Peru";PE;PER;178;"Madre de Dios";department;"MDD";15970
+"Peru";PE;PER;178;"Moquegua";department;"MOQ";15975
+"Peru";PE;PER;178;"Municipalidad Metropolitana de Lima";municipality;"LMA";42646
+"Peru";PE;PER;178;"Municipalidad Metropolitana de Lima";municipality;"X1~";48136
+"Peru";PE;PER;178;"Pasco";department;"PAS";15991
+"Peru";PE;PER;178;"Piura";department;"PIU";15976
+"Peru";PE;PER;178;"Puno";department;"PUN";15977
+"Peru";PE;PER;178;"San Martín";department;"SAM";15994
+"Peru";PE;PER;178;"Tacna";department;"TAC";15978
+"Peru";PE;PER;178;"Tumbes";department;"TUM";15979
+"Peru";PE;PER;178;"Ucayali";department;"UCA";15993

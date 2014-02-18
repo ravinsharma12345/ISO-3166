@@ -1,0 +1,8 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Turkmenistan";TM;TKM;233;"Ahal";region;"A";18569
+"Turkmenistan";TM;TKM;233;"Balkan";region;"B";18568
+"Turkmenistan";TM;TKM;233;"Dasoguz";region;"D";18571
+"Turkmenistan";TM;TKM;233;"Lebap";region;"L";18572
+"Turkmenistan";TM;TKM;233;"Mary";region;"M";18566
+"Turkmenistan";TM;TKM;233;"";City;"S";18567
+"Turkmenistan";TM;TKM;233;"";City;"X~";48134

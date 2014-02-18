@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Zimbabwe";ZW;ZWE;256;"Bulawayo";City;"BU";21380
+"Zimbabwe";ZW;ZWE;256;"Harare";City;"HA";21379
+"Zimbabwe";ZW;ZWE;256;"Manicaland";Province;"MA";21280
+"Zimbabwe";ZW;ZWE;256;"Mashonaland Central";Province;"MC";21282
+"Zimbabwe";ZW;ZWE;256;"Mashonaland East";Province;"ME";21283
+"Zimbabwe";ZW;ZWE;256;"Mashonaland West";Province;"MW";21284
+"Zimbabwe";ZW;ZWE;256;"Masvingo";Province;"MV";21287
+"Zimbabwe";ZW;ZWE;256;"Matabeleland North";Province;"MN";21285
+"Zimbabwe";ZW;ZWE;256;"Matabeleland South";Province;"MS";21286
+"Zimbabwe";ZW;ZWE;256;"Midlands";Province;"MI";21281

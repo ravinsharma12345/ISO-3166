@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Antigua and Barbuda";AG;ATG;11;"Barbuda";Dependency;"10";12426
+"Antigua and Barbuda";AG;ATG;11;"Redonda";Dependency;"11";12425
+"Antigua and Barbuda";AG;ATG;11;"Redonda";Dependency;"X2~";48127
+"Antigua and Barbuda";AG;ATG;11;"Saint George";Parish;"03";12427
+"Antigua and Barbuda";AG;ATG;11;"Saint John’s";Parish;"04";12431
+"Antigua and Barbuda";AG;ATG;11;"Saint Mary";Parish;"05";12428
+"Antigua and Barbuda";AG;ATG;11;"Saint Paul";Parish;"06";12429
+"Antigua and Barbuda";AG;ATG;11;"Saint Peter";Parish;"07";12432
+"Antigua and Barbuda";AG;ATG;11;"Saint Philip";Parish;"08";12430

@@ -1,0 +1,212 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Slovenia";SI;SVN;207;"Ajdovšcina";;"001";20197
+"Slovenia";SI;SVN;207;"Apače";commune;"195";48197
+"Slovenia";SI;SVN;207;"Beltinci";;"002";20198
+"Slovenia";SI;SVN;207;"Benedikt";;"148";20199
+"Slovenia";SI;SVN;207;"Bistrica ob Sotli";;"149";20200
+"Slovenia";SI;SVN;207;"Bled";;"003";20201
+"Slovenia";SI;SVN;207;"Bloke";;"150";20202
+"Slovenia";SI;SVN;207;"Bohinj";;"004";20203
+"Slovenia";SI;SVN;207;"Borovnica";;"005";20204
+"Slovenia";SI;SVN;207;"Bovec";;"006";20205
+"Slovenia";SI;SVN;207;"Braslovce";;"151";20206
+"Slovenia";SI;SVN;207;"Brda";;"007";20207
+"Slovenia";SI;SVN;207;"Brezovica";;"008";20208
+"Slovenia";SI;SVN;207;"Brežice";;"009";19899
+"Slovenia";SI;SVN;207;"Cankova";;"152";19900
+"Slovenia";SI;SVN;207;"Celje";;"011";19901
+"Slovenia";SI;SVN;207;"Cerklje na Gorenjskem";;"012";19902
+"Slovenia";SI;SVN;207;"Cerknica";;"013";19903
+"Slovenia";SI;SVN;207;"Cerkno";;"014";19904
+"Slovenia";SI;SVN;207;"Cerkvenjak";;"153";19905
+"Slovenia";SI;SVN;207;"Cirkulane";commune;"197";48198
+"Slovenia";SI;SVN;207;"Crenšovci";;"015";19906
+"Slovenia";SI;SVN;207;"Crna na Koroškem";;"016";19907
+"Slovenia";SI;SVN;207;"Crnomelj";;"017";19908
+"Slovenia";SI;SVN;207;"Destrnik";;"018";19909
+"Slovenia";SI;SVN;207;"Divaca";;"019";19910
+"Slovenia";SI;SVN;207;"Dobje";;"154";19911
+"Slovenia";SI;SVN;207;"Dobrepolje";;"020";19912
+"Slovenia";SI;SVN;207;"Dobrna";;"155";19913
+"Slovenia";SI;SVN;207;"Dobrova-Polhov Gradec";;"021";19914
+"Slovenia";SI;SVN;207;"Dobrovnik/Dobronak";;"156";19915
+"Slovenia";SI;SVN;207;"Dol pri Ljubljani";;"022";19916
+"Slovenia";SI;SVN;207;"Dolenjske Toplice";;"157";19917
+"Slovenia";SI;SVN;207;"Domžale";;"023";19918
+"Slovenia";SI;SVN;207;"Dornava";;"024";19919
+"Slovenia";SI;SVN;207;"Dravograd";;"025";19920
+"Slovenia";SI;SVN;207;"Duplek";;"026";19921
+"Slovenia";SI;SVN;207;"Gorenja vas-Poljane";;"027";19922
+"Slovenia";SI;SVN;207;"Gorišnica";;"028";19923
+"Slovenia";SI;SVN;207;"Gorje";commune;"207";48212
+"Slovenia";SI;SVN;207;"Gornja Radgona";;"029";19924
+"Slovenia";SI;SVN;207;"Gornji Grad";;"030";19925
+"Slovenia";SI;SVN;207;"Gornji Petrovci";;"031";19926
+"Slovenia";SI;SVN;207;"Grad";;"158";19927
+"Slovenia";SI;SVN;207;"Grosuplje";;"032";19928
+"Slovenia";SI;SVN;207;"Hajdina";;"159";19929
+"Slovenia";SI;SVN;207;"Hoce-Slivnica";;"160";19930
+"Slovenia";SI;SVN;207;"Hodoš/Hodos";;"161";19931
+"Slovenia";SI;SVN;207;"Horjul";;"162";19932
+"Slovenia";SI;SVN;207;"Hrastnik";;"034";19933
+"Slovenia";SI;SVN;207;"Hrpelje-Kozina";;"035";19934
+"Slovenia";SI;SVN;207;"Idrija";;"036";19935
+"Slovenia";SI;SVN;207;"Ig";;"037";19936
+"Slovenia";SI;SVN;207;"Ilirska Bistrica";;"038";19937
+"Slovenia";SI;SVN;207;"Ivancna Gorica";;"039";19938
+"Slovenia";SI;SVN;207;"Izola/Isola";;"040";19939
+"Slovenia";SI;SVN;207;"Jesenice";;"041";19940
+"Slovenia";SI;SVN;207;"Jezersko";;"163";19941
+"Slovenia";SI;SVN;207;"Juršinci";;"042";19942
+"Slovenia";SI;SVN;207;"Kamnik";;"043";19943
+"Slovenia";SI;SVN;207;"Kanal";;"044";19944
+"Slovenia";SI;SVN;207;"Kidricevo";;"045";19945
+"Slovenia";SI;SVN;207;"Kobarid";;"046";19946
+"Slovenia";SI;SVN;207;"Kobilje";;"047";19947
+"Slovenia";SI;SVN;207;"Kocevje";;"048";19948
+"Slovenia";SI;SVN;207;"Komen";;"049";19949
+"Slovenia";SI;SVN;207;"Komenda";;"164";19950
+"Slovenia";SI;SVN;207;"Koper/Capodistria";;"050";19951
+"Slovenia";SI;SVN;207;"Kosanjevica na Krki";commune;"196";48199
+"Slovenia";SI;SVN;207;"Kostel";;"165";19952
+"Slovenia";SI;SVN;207;"Kozje";;"051";19953
+"Slovenia";SI;SVN;207;"Kranj";;"052";19954
+"Slovenia";SI;SVN;207;"Kranjska Gora";;"053";19955
+"Slovenia";SI;SVN;207;"Križevci";;"166";19956
+"Slovenia";SI;SVN;207;"Krško";;"054";19957
+"Slovenia";SI;SVN;207;"Kungota";;"055";19958
+"Slovenia";SI;SVN;207;"Kuzma";;"056";19959
+"Slovenia";SI;SVN;207;"Laško";;"057";19960
+"Slovenia";SI;SVN;207;"Lenart";;"058";19961
+"Slovenia";SI;SVN;207;"Lendava/Lendva";;"059";19962
+"Slovenia";SI;SVN;207;"Litija";;"060";19963
+"Slovenia";SI;SVN;207;"Ljubljana";;"061";19964
+"Slovenia";SI;SVN;207;"Ljubno";;"062";19965
+"Slovenia";SI;SVN;207;"Ljutomer";;"063";19966
+"Slovenia";SI;SVN;207;"Log-Dragomer";commune;"208";48213
+"Slovenia";SI;SVN;207;"Logatec";;"064";19967
+"Slovenia";SI;SVN;207;"Lovrenc na Pohorju";;"167";19970
+"Slovenia";SI;SVN;207;"Loška dolina";;"065";19968
+"Slovenia";SI;SVN;207;"Loški Potok";;"066";19969
+"Slovenia";SI;SVN;207;"Luce";;"067";19971
+"Slovenia";SI;SVN;207;"Lukovica";;"068";19972
+"Slovenia";SI;SVN;207;"Majšperk";;"069";19973
+"Slovenia";SI;SVN;207;"Makole";commune;"198";48200
+"Slovenia";SI;SVN;207;"Maribor";;"070";19974
+"Slovenia";SI;SVN;207;"Markovci";;"168";19975
+"Slovenia";SI;SVN;207;"Medvode";;"071";19976
+"Slovenia";SI;SVN;207;"Mengeš";;"072";19977
+"Slovenia";SI;SVN;207;"Metlika";;"073";19978
+"Slovenia";SI;SVN;207;"Mežica";;"074";19979
+"Slovenia";SI;SVN;207;"Miklavž na Dravskem polju";;"169";19980
+"Slovenia";SI;SVN;207;"Miren-Kostanjevica";;"075";19981
+"Slovenia";SI;SVN;207;"Mirna Pec";;"170";19982
+"Slovenia";SI;SVN;207;"Mislinja";;"076";19983
+"Slovenia";SI;SVN;207;"Mokronog-Trebelno";commune;"199";48201
+"Slovenia";SI;SVN;207;"Moravce";;"077";19984
+"Slovenia";SI;SVN;207;"Moravske Toplice";;"078";19985
+"Slovenia";SI;SVN;207;"Mozirje";;"079";19986
+"Slovenia";SI;SVN;207;"Murska Sobota";;"080";19987
+"Slovenia";SI;SVN;207;"Muta";;"081";19988
+"Slovenia";SI;SVN;207;"Naklo";;"082";19989
+"Slovenia";SI;SVN;207;"Nazarje";;"083";19990
+"Slovenia";SI;SVN;207;"Nova Gorica";;"084";19991
+"Slovenia";SI;SVN;207;"Novo mesto";;"085";19992
+"Slovenia";SI;SVN;207;"Odranci";;"086";19993
+"Slovenia";SI;SVN;207;"Oplotnica";;"171";19994
+"Slovenia";SI;SVN;207;"Ormož";;"087";19995
+"Slovenia";SI;SVN;207;"Osilnica";;"088";19996
+"Slovenia";SI;SVN;207;"Pesnica";;"089";19997
+"Slovenia";SI;SVN;207;"Piran/Pirano";;"090";19998
+"Slovenia";SI;SVN;207;"Pivka";;"091";19999
+"Slovenia";SI;SVN;207;"Podcetrtek";;"092";20000
+"Slovenia";SI;SVN;207;"Podlehnik";;"172";20001
+"Slovenia";SI;SVN;207;"Podvelka";;"093";20002
+"Slovenia";SI;SVN;207;"Poljčane";commune;"200";48202
+"Slovenia";SI;SVN;207;"Polzela";;"173";20003
+"Slovenia";SI;SVN;207;"Postojna";;"094";20004
+"Slovenia";SI;SVN;207;"Prebold";;"174";20005
+"Slovenia";SI;SVN;207;"Preddvor";;"095";20006
+"Slovenia";SI;SVN;207;"Prevalje";;"175";20007
+"Slovenia";SI;SVN;207;"Ptuj";;"096";20008
+"Slovenia";SI;SVN;207;"Puconci";;"097";20009
+"Slovenia";SI;SVN;207;"Race-Fram";;"098";20010
+"Slovenia";SI;SVN;207;"Radece";;"099";20011
+"Slovenia";SI;SVN;207;"Radenci";;"100";20012
+"Slovenia";SI;SVN;207;"Radlje ob Dravi";;"101";20013
+"Slovenia";SI;SVN;207;"Radovljica";;"102";20014
+"Slovenia";SI;SVN;207;"Ravne na Koroškem";;"103";20015
+"Slovenia";SI;SVN;207;"Razkrižje";;"176";20016
+"Slovenia";SI;SVN;207;"Renče-Vogrsko";commune;"201";48203
+"Slovenia";SI;SVN;207;"Rečica ob Savinji";commune;"209";48204
+"Slovenia";SI;SVN;207;"Ribnica";;"104";20017
+"Slovenia";SI;SVN;207;"Ribnica na Pohorju";;"177";20018
+"Slovenia";SI;SVN;207;"Rogatec";;"107";20021
+"Slovenia";SI;SVN;207;"Rogaška Slatina";;"106";20019
+"Slovenia";SI;SVN;207;"Rogašovci";;"105";20020
+"Slovenia";SI;SVN;207;"Ruše";;"108";20022
+"Slovenia";SI;SVN;207;"Selnica ob Dravi";;"178";20023
+"Slovenia";SI;SVN;207;"Semic";;"109";20024
+"Slovenia";SI;SVN;207;"Sevnica";;"110";20025
+"Slovenia";SI;SVN;207;"Sežana";;"111";20026
+"Slovenia";SI;SVN;207;"Slovenj Gradec";;"112";20027
+"Slovenia";SI;SVN;207;"Slovenska Bistrica";;"113";20028
+"Slovenia";SI;SVN;207;"Slovenske Konjice";;"114";20029
+"Slovenia";SI;SVN;207;"Sodražica";;"179";20030
+"Slovenia";SI;SVN;207;"Solcava";;"180";20031
+"Slovenia";SI;SVN;207;"Središče ob Dravi";commune;"202";48206
+"Slovenia";SI;SVN;207;"Starše";;"115";20032
+"Slovenia";SI;SVN;207;"Straža";commune;"203";48207
+"Slovenia";SI;SVN;207;"Sveta Ana";;"181";20033
+"Slovenia";SI;SVN;207;"Sveta Trojica v Slovenskih Goricah";commune;"204";48208
+"Slovenia";SI;SVN;207;"Sveti Andraž v Slovenskih goricah";;"182";20034
+"Slovenia";SI;SVN;207;"Sveti Jurij";;"116";20035
+"Slovenia";SI;SVN;207;"Sveti Jurij v Slovenskih Goricah";commune;"210";48205
+"Slovenia";SI;SVN;207;"Sveti Tomaž";commune;"205";48209
+"Slovenia";SI;SVN;207;"Tabor";;"184";20050
+"Slovenia";SI;SVN;207;"Tišina";;"010";20051
+"Slovenia";SI;SVN;207;"Tolmin";;"128";20052
+"Slovenia";SI;SVN;207;"Trbovlje";;"129";20053
+"Slovenia";SI;SVN;207;"Trebnje";;"130";20054
+"Slovenia";SI;SVN;207;"Trnovska vas";;"185";20055
+"Slovenia";SI;SVN;207;"Trzin";;"186";20057
+"Slovenia";SI;SVN;207;"Tržic";;"131";20056
+"Slovenia";SI;SVN;207;"Turnišce";;"132";20058
+"Slovenia";SI;SVN;207;"Velenje";;"133";20059
+"Slovenia";SI;SVN;207;"Velika Polana";;"187";20060
+"Slovenia";SI;SVN;207;"Velike Lašce";;"134";20061
+"Slovenia";SI;SVN;207;"Veržej";;"188";20062
+"Slovenia";SI;SVN;207;"Videm";;"135";20063
+"Slovenia";SI;SVN;207;"Vipava";;"136";20064
+"Slovenia";SI;SVN;207;"Vitanje";;"137";20065
+"Slovenia";SI;SVN;207;"Vodice";;"138";20066
+"Slovenia";SI;SVN;207;"Vojnik";;"139";20067
+"Slovenia";SI;SVN;207;"Vransko";;"189";20068
+"Slovenia";SI;SVN;207;"Vrhnika";;"140";20069
+"Slovenia";SI;SVN;207;"Vuzenica";;"141";20070
+"Slovenia";SI;SVN;207;"Zagorje ob Savi";;"142";20071
+"Slovenia";SI;SVN;207;"Zavrc";;"143";20072
+"Slovenia";SI;SVN;207;"Zrece";;"144";20073
+"Slovenia";SI;SVN;207;"Šalovci";;"033";20036
+"Slovenia";SI;SVN;207;"Šempeter-Vrtojba";;"183";20037
+"Slovenia";SI;SVN;207;"Šencur";;"117";20038
+"Slovenia";SI;SVN;207;"Šentilj";;"118";20039
+"Slovenia";SI;SVN;207;"Šentjernej";;"119";20040
+"Slovenia";SI;SVN;207;"Šentjur pri Celju";;"120";20041
+"Slovenia";SI;SVN;207;"Šentrupert";commune;"211";48210
+"Slovenia";SI;SVN;207;"Škocjan";;"121";20042
+"Slovenia";SI;SVN;207;"Škofja Loka";;"122";20043
+"Slovenia";SI;SVN;207;"Škofljica";;"123";20044
+"Slovenia";SI;SVN;207;"Šmarje pri Jelšah";;"124";20045
+"Slovenia";SI;SVN;207;"Šmarješke Toplice";commune;"206";48211
+"Slovenia";SI;SVN;207;"Šmartno ob Paki";;"125";20046
+"Slovenia";SI;SVN;207;"Šmartno pri Litiji";;"194";20047
+"Slovenia";SI;SVN;207;"Šmartno pri Litiji";commune;"194";48196
+"Slovenia";SI;SVN;207;"Šoštanj";;"126";20048
+"Slovenia";SI;SVN;207;"Štore";;"127";20049
+"Slovenia";SI;SVN;207;"Žalec";;"190";20074
+"Slovenia";SI;SVN;207;"Železniki";;"146";20075
+"Slovenia";SI;SVN;207;"Žetale";;"191";20076
+"Slovenia";SI;SVN;207;"Žiri";;"147";20077
+"Slovenia";SI;SVN;207;"Žirovnica";;"192";20078
+"Slovenia";SI;SVN;207;"Žužemberk";;"193";20079

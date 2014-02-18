@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Iceland";IS;ISL;104;"Austurland";Region;"7";14670
+"Iceland";IS;ISL;104;"Höfuðborgarsvæði utan Reykjavíkur";Region;"1";14666
+"Iceland";IS;ISL;104;"Norðurland eystra";Region;"6";14669
+"Iceland";IS;ISL;104;"Norðurland vestra";Region;"5";14664
+"Iceland";IS;ISL;104;"Reykjavík";City;"0";19009
+"Iceland";IS;ISL;104;"Suðurland";Region;"8";14668
+"Iceland";IS;ISL;104;"Suðurnes";Region;"2";14667
+"Iceland";IS;ISL;104;"Vestfirðir";Region;"4";14663
+"Iceland";IS;ISL;104;"Vesturland";Region;"3";14662

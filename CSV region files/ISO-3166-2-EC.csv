@@ -1,0 +1,27 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Ecuador";EC;ECU;66;"Azuay";Province;"A";13570
+"Ecuador";EC;ECU;66;"Bolívar";Province;"B";13571
+"Ecuador";EC;ECU;66;"Carchi";Province;"C";13572
+"Ecuador";EC;ECU;66;"Cañar";Province;"F";13578
+"Ecuador";EC;ECU;66;"Chimborazo";Province;"H";13579
+"Ecuador";EC;ECU;66;"Cotopaxi";Province;"X";13573
+"Ecuador";EC;ECU;66;"El Oro";Province;"O";13574
+"Ecuador";EC;ECU;66;"Esmeraldas";Province;"E";13580
+"Ecuador";EC;ECU;66;"Galápagos";Province;"W";13575
+"Ecuador";EC;ECU;66;"Guayas";Province;"G";13576
+"Ecuador";EC;ECU;66;"Imbabura";Province;"I";13581
+"Ecuador";EC;ECU;66;"Loja";Province;"L";13577
+"Ecuador";EC;ECU;66;"Los Ríos";Province;"R";13582
+"Ecuador";EC;ECU;66;"Manabí";Province;"M";13583
+"Ecuador";EC;ECU;66;"Morona-Santiago";Province;"S";13584
+"Ecuador";EC;ECU;66;"Napo";Province;"N";13569
+"Ecuador";EC;ECU;66;"Orellana";Province;"D";13585
+"Ecuador";EC;ECU;66;"Pastaza";Province;"Y";13568
+"Ecuador";EC;ECU;66;"Pichincha";Province;"P";13586
+"Ecuador";EC;ECU;66;"Santa Elena";Province;"X1~";48131
+"Ecuador";EC;ECU;66;"Santa Elena";Province;"SE";21342
+"Ecuador";EC;ECU;66;"Santo Domingo de los Tsachilas";Province;"SD";21343
+"Ecuador";EC;ECU;66;"Santo Domingo de los Tsachilas";Province;"X2~";48132
+"Ecuador";EC;ECU;66;"Sucumbíos";Province;"U";13567
+"Ecuador";EC;ECU;66;"Tungurahua";Province;"T";13587
+"Ecuador";EC;ECU;66;"Zamora-Chinchipe";Province;"Z";13566

@@ -1,0 +1,12 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Mozambique";MZ;MOZ;154;"Cabo Delgado";province;"P";15599
+"Mozambique";MZ;MOZ;154;"Gaza";province;"G";15602
+"Mozambique";MZ;MOZ;154;"Inhambane";province;"I";15589
+"Mozambique";MZ;MOZ;154;"Manica";province;"B";15590
+"Mozambique";MZ;MOZ;154;"Maputo";province;"L";15591
+"Mozambique";MZ;MOZ;154;"Maputo City";city;"MPM";15603
+"Mozambique";MZ;MOZ;154;"Nampula";province;"N";15604
+"Mozambique";MZ;MOZ;154;"Niassa";province;"A";15592
+"Mozambique";MZ;MOZ;154;"Sofala";province;"S";15605
+"Mozambique";MZ;MOZ;154;"Tete";province;"T";15593
+"Mozambique";MZ;MOZ;154;"Zambézia";province;"Q";15606

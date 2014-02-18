@@ -1,0 +1,7 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Gambia";GM;GMB;84;"Banjul";city;"B";13880
+"Gambia";GM;GMB;84;"Lower River";division;"L";13887
+"Gambia";GM;GMB;84;"MacCarthy Island";division;"M";13877
+"Gambia";GM;GMB;84;"North Bank";division;"N";13885
+"Gambia";GM;GMB;84;"Upper River";division;"U";13881
+"Gambia";GM;GMB;84;"Western";division;"W";13882

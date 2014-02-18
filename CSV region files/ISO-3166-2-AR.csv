@@ -1,0 +1,25 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Argentina";AR;ARG;12;"Buenos Aires";province;"B";12439
+"Argentina";AR;ARG;12;"Catamarca";province;"K";12438
+"Argentina";AR;ARG;12;"Chaco";province;"H";12440
+"Argentina";AR;ARG;12;"Chubut";province;"U";12454
+"Argentina";AR;ARG;12;"Ciudad Autónoma de Buenos Aires";federal district;"C";12437
+"Argentina";AR;ARG;12;"Corrientes";province;"W";12442
+"Argentina";AR;ARG;12;"Córdoba";province;"X";12441
+"Argentina";AR;ARG;12;"Entre Ríos";province;"E";12443
+"Argentina";AR;ARG;12;"Formosa";province;"P";12455
+"Argentina";AR;ARG;12;"Jujuy";province;"Y";12444
+"Argentina";AR;ARG;12;"La Pampa";province;"L";12445
+"Argentina";AR;ARG;12;"La Rioja";province;"F";12436
+"Argentina";AR;ARG;12;"Mendoza";province;"M";12446
+"Argentina";AR;ARG;12;"Misiones";province;"N";12456
+"Argentina";AR;ARG;12;"Neuquén";province;"Q";12447
+"Argentina";AR;ARG;12;"Río Negro";province;"R";12448
+"Argentina";AR;ARG;12;"Salta";province;"A";12435
+"Argentina";AR;ARG;12;"San Juan";province;"J";12449
+"Argentina";AR;ARG;12;"San Luis";province;"D";12450
+"Argentina";AR;ARG;12;"Santa Cruz";province;"Z";12434
+"Argentina";AR;ARG;12;"Santa Fe";province;"S";12451
+"Argentina";AR;ARG;12;"Santiago del Estero";province;"G";12433
+"Argentina";AR;ARG;12;"Tierra del Fuego";province;"V";12452
+"Argentina";AR;ARG;12;"Tucumán";province;"T";12453

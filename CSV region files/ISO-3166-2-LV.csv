@@ -1,0 +1,146 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Latvia";LV;LVA;125;"Aglonas novads (Aglona)";District;"001";48896
+"Latvia";LV;LVA;125;"Aizkraukles Aprinkis";district;"AI";15106
+"Latvia";LV;LVA;125;"Aizkraukles novads (Aizkraukle)";District;"002";48728
+"Latvia";LV;LVA;125;"Aizputes novads (Aizpute)";District;"003";48729
+"Latvia";LV;LVA;125;"Aknīstes novads (Aknīste)";District;"004";48730
+"Latvia";LV;LVA;125;"Alojas novads (Aloja)";District;"005";48731
+"Latvia";LV;LVA;125;"Alsungas novads (Alsunga)";District;"006";48732
+"Latvia";LV;LVA;125;"Aluksnes Aprinkis";district;"AL";15107
+"Latvia";LV;LVA;125;"Alūksnes novads (Alūksne)";District;"007";48733
+"Latvia";LV;LVA;125;"Amatas novads (Amata)";District;"008";48734
+"Latvia";LV;LVA;125;"Apes novads (Ape)";District;"009";48735
+"Latvia";LV;LVA;125;"Auces novads (Auce)";District;"010";48736
+"Latvia";LV;LVA;125;"Babītes novads (Babīte)";District;"012";48738
+"Latvia";LV;LVA;125;"Baldones novads (Baldone)";District;"013";48739
+"Latvia";LV;LVA;125;"Baltinavas novads (Baltinava)";District;"014";48740
+"Latvia";LV;LVA;125;"Balvu Aprinkis";district;"BL";15108
+"Latvia";LV;LVA;125;"Balvu novads (Balvi)";District;"015";48741
+"Latvia";LV;LVA;125;"Bauskas Aprinkis";district;"BU";15109
+"Latvia";LV;LVA;125;"Bauskas novads (Bauska)";District;"016";48742
+"Latvia";LV;LVA;125;"Beverīnas novads (Beverīna)";District;"017";48743
+"Latvia";LV;LVA;125;"Brocēnu novads (Brocēni)";District;"018";48744
+"Latvia";LV;LVA;125;"Burtnieku novads (Burtnieki)";District;"019";48745
+"Latvia";LV;LVA;125;"Carnikavas novads (Carnikava)";District;"020";48746
+"Latvia";LV;LVA;125;"Cesu Aprinkis";district;"CE";15110
+"Latvia";LV;LVA;125;"Cesvaines novads (Cesvaine)";District;"021";48747
+"Latvia";LV;LVA;125;"Ciblas novads (Cibla)";District;"023";48749
+"Latvia";LV;LVA;125;"Cēsu novads (Cēsis)";District;"022";48748
+"Latvia";LV;LVA;125;"Dagdas novads (Dagda)";District;"024";48750
+"Latvia";LV;LVA;125;"Daugavpils";city;"DGV";15111
+"Latvia";LV;LVA;125;"Daugavpils Aprinkis";district;"DA";15112
+"Latvia";LV;LVA;125;"Daugavpils novads (Daugavpils)";District;"025";48751
+"Latvia";LV;LVA;125;"Dobeles Aprinkis";district;"DO";15113
+"Latvia";LV;LVA;125;"Dobeles novads (Dobele)";District;"026";48752
+"Latvia";LV;LVA;125;"Dundagas novads (Dundaga)";District;"027";48753
+"Latvia";LV;LVA;125;"Durbes novads (Durbe)";District;"028";48754
+"Latvia";LV;LVA;125;"Engures novads (Engure)";District;"029";48755
+"Latvia";LV;LVA;125;"Garkalnes novads (Garkalne)";District;"031";48757
+"Latvia";LV;LVA;125;"Grobiņas novads (Grobiņa)";District;"032";48758
+"Latvia";LV;LVA;125;"Gulbenes Aprinkis";district;"GU";15124
+"Latvia";LV;LVA;125;"Gulbenes novads (Gulbene)";District;"033";48759
+"Latvia";LV;LVA;125;"Iecavas novads (Iecava)";District;"034";48760
+"Latvia";LV;LVA;125;"Ikšķiles novads (Ikšķile)";District;"035";48761
+"Latvia";LV;LVA;125;"Ilūkstes novads (Ilūkste)";District;"036";48762
+"Latvia";LV;LVA;125;"Inčukalna novads (Inčukalns)";District;"037";48763
+"Latvia";LV;LVA;125;"Jaunjelgavas novads (Jaunjelgava)";District;"038";48764
+"Latvia";LV;LVA;125;"Jaunpiebalgas novads (Jaunpiebalga)";District;"039";48765
+"Latvia";LV;LVA;125;"Jaunpils novads (Jaunpils)";District;"040";48766
+"Latvia";LV;LVA;125;"Jekabpils Aprinkis";district;"JK";15114
+"Latvia";LV;LVA;125;"Jelgava";city;"JEL";15125
+"Latvia";LV;LVA;125;"Jelgavas Aprinkis";district;"JL";15126
+"Latvia";LV;LVA;125;"Jelgavas novads (Jelgava)";District;"041";48767
+"Latvia";LV;LVA;125;"Jurmala";city;"JUR";15127
+"Latvia";LV;LVA;125;"Jēkabpils";City;"JKB";48838
+"Latvia";LV;LVA;125;"Jēkabpils novads (Jēkabpils)";District;"042";48768
+"Latvia";LV;LVA;125;"Kandavas novads (Kandava)";District;"043";48769
+"Latvia";LV;LVA;125;"Kocēnu novads";District;"045";48771
+"Latvia";LV;LVA;125;"Kokneses novads (Koknese)";District;"046";48772
+"Latvia";LV;LVA;125;"Kraslavas Aprinkis";district;"KR";15115
+"Latvia";LV;LVA;125;"Krimuldas novads (Krimulda)";District;"048";48774
+"Latvia";LV;LVA;125;"Krustpils novads (Krustpils)";District;"049";48775
+"Latvia";LV;LVA;125;"Krāslavas novads (Krāslava)";District;"047";48773
+"Latvia";LV;LVA;125;"Kuldigas Aprinkis";district;"KU";15116
+"Latvia";LV;LVA;125;"Kuldīgas novads (Kuldīga)";District;"050";48776
+"Latvia";LV;LVA;125;"Kārsavas novads (Kārsava)";District;"044";48770
+"Latvia";LV;LVA;125;"Lielvārdes novads (Lielvārde)";District;"053";48779
+"Latvia";LV;LVA;125;"Liepaja";city;"LPX";15128
+"Latvia";LV;LVA;125;"Liepajas Aprinkis";district;"LE";15117
+"Latvia";LV;LVA;125;"Limbažu Aprinkis";district;"LM";15118
+"Latvia";LV;LVA;125;"Limbažu novads (Limbaži)";District;"054";48781
+"Latvia";LV;LVA;125;"Lubānas novads (Lubāna)";District;"057";48784
+"Latvia";LV;LVA;125;"Ludzas Aprinkis";district;"LU";15123
+"Latvia";LV;LVA;125;"Ludzas novads (Ludza)";District;"058";48785
+"Latvia";LV;LVA;125;"Līgatnes novads (Līgatne)";District;"055";48782
+"Latvia";LV;LVA;125;"Līvānu novads (Līvāni)";District;"056";48783
+"Latvia";LV;LVA;125;"Madonas Aprinkis";district;"MA";15119
+"Latvia";LV;LVA;125;"Madonas novads (Madona)";District;"059";48786
+"Latvia";LV;LVA;125;"Mazsalacas novads (Mazsalaca)";District;"060";48787
+"Latvia";LV;LVA;125;"Mālpils novads (Mālpils)";District;"061";48788
+"Latvia";LV;LVA;125;"Mārupes novads (Mārupe)";District;"062";48789
+"Latvia";LV;LVA;125;"Mērsraga novads";District;"063";48790
+"Latvia";LV;LVA;125;"Naukšēnu novads (Naukšēni)";District;"064";48791
+"Latvia";LV;LVA;125;"Neretas novads (Nereta)";District;"065";48792
+"Latvia";LV;LVA;125;"Nīcas novads (Nīca)";District;"066";48793
+"Latvia";LV;LVA;125;"Ogres Aprinkis";district;"OG";15098
+"Latvia";LV;LVA;125;"Ogres novads (Ogre)";District;"067";48794
+"Latvia";LV;LVA;125;"Olaines novads (Olaine)";District;"068";48795
+"Latvia";LV;LVA;125;"Ozolnieku novads (Ozolnieki)";District;"069";48796
+"Latvia";LV;LVA;125;"Preilu Aprinkis";district;"PR";15122
+"Latvia";LV;LVA;125;"Preiļu novads (Preiļi)";District;"073";48800
+"Latvia";LV;LVA;125;"Priekules novads (Priekule)";District;"074";48801
+"Latvia";LV;LVA;125;"Priekuļu novads (Priekuļi)";District;"075";48802
+"Latvia";LV;LVA;125;"Pārgaujas novads (Pārgauja)";District;"070";48797
+"Latvia";LV;LVA;125;"Pāvilostas novads (Pāvilosta)";District;"071";48798
+"Latvia";LV;LVA;125;"Pļaviņu novads (Pļaviņas)";District;"072";48799
+"Latvia";LV;LVA;125;"Raunas novads (Rauna)";District;"076";48803
+"Latvia";LV;LVA;125;"Rezekne";city;"REZ";15099
+"Latvia";LV;LVA;125;"Rezeknes Aprinkis";district;"RE";15100
+"Latvia";LV;LVA;125;"Riebiņu novads (Riebiņi)";District;"078";48805
+"Latvia";LV;LVA;125;"Riga";city;"RIX";15121
+"Latvia";LV;LVA;125;"Rigas Aprinkis";district;"RI";15101
+"Latvia";LV;LVA;125;"Rojas novads (Roja)";District;"079";48806
+"Latvia";LV;LVA;125;"Ropažu novads (Ropaži)";District;"080";48807
+"Latvia";LV;LVA;125;"Rucavas novads (Rucava)";District;"081";48808
+"Latvia";LV;LVA;125;"Rugāju novads (Rugāji)";District;"082";48809
+"Latvia";LV;LVA;125;"Rundāles novads (Rundāle)";District;"083";48810
+"Latvia";LV;LVA;125;"Rēzeknes novads (Rēzekne)";District;"077";48804
+"Latvia";LV;LVA;125;"Rūjienas novads (Rūjiena)";District;"084";48811
+"Latvia";LV;LVA;125;"Salacgrīvas novads (Salacgrīva)";District;"086";48813
+"Latvia";LV;LVA;125;"Salas novads (Sala)";District;"085";48812
+"Latvia";LV;LVA;125;"Salaspils novads (Salaspils)";District;"087";48814
+"Latvia";LV;LVA;125;"Saldus Aprinkis";district;"SA";15102
+"Latvia";LV;LVA;125;"Saldus novads (Saldus)";District;"088";48815
+"Latvia";LV;LVA;125;"Saulkrastu novads (Saulkrasti)";District;"089";48816
+"Latvia";LV;LVA;125;"Siguldas novads (Sigulda)";District;"091";48818
+"Latvia";LV;LVA;125;"Skrundas novads (Skrunda)";District;"093";48820
+"Latvia";LV;LVA;125;"Skrīveru novads (Skrīveri)";District;"092";48819
+"Latvia";LV;LVA;125;"Smiltenes novads (Smiltene)";District;"094";48821
+"Latvia";LV;LVA;125;"Stopiņu novads (Stopiņi)";District;"095";48822
+"Latvia";LV;LVA;125;"Strenču novads (Strenči)";District;"096";48823
+"Latvia";LV;LVA;125;"Sējas novads (Sēja)";District;"090";48817
+"Latvia";LV;LVA;125;"Talsu Aprinkis";district;"TA";15129
+"Latvia";LV;LVA;125;"Talsu novads (Talsi)";District;"097";48824
+"Latvia";LV;LVA;125;"Tukuma Aprinkis";district;"TU";15103
+"Latvia";LV;LVA;125;"Tukuma novads (Tukums)";District;"099";48826
+"Latvia";LV;LVA;125;"Tērvetes novads (Tērvete)";District;"098";48825
+"Latvia";LV;LVA;125;"Vaiņodes novads (Vaiņode)";District;"100";48827
+"Latvia";LV;LVA;125;"Valkas Aprinkis";district;"VK";15104
+"Latvia";LV;LVA;125;"Valkas novads (Valka)";District;"101";48828
+"Latvia";LV;LVA;125;"Valmiera";city;"VMR";48839
+"Latvia";LV;LVA;125;"Valmieras Aprinkis";district;"VM";15130
+"Latvia";LV;LVA;125;"Varakļānu novads (Varakļāni)";District;"102";48829
+"Latvia";LV;LVA;125;"Vecpiebalgas novads (Vecpiebalga)";District;"104";48831
+"Latvia";LV;LVA;125;"Vecumnieku novads (Vecumnieki)";District;"105";48832
+"Latvia";LV;LVA;125;"Ventspils";city;"VEN";15105
+"Latvia";LV;LVA;125;"Ventspils Aprinkis";district;"VE";15097
+"Latvia";LV;LVA;125;"Ventspils novads (Ventspils)";District;"106";48833
+"Latvia";LV;LVA;125;"Viesītes novads (Viesīte)";District;"107";48834
+"Latvia";LV;LVA;125;"Viļakas novads (Viļaka)";District;"108";48835
+"Latvia";LV;LVA;125;"Viļānu novads (Viļāni)";District;"109";48836
+"Latvia";LV;LVA;125;"Vārkavas novads (Vārkava)";District;"103";48830
+"Latvia";LV;LVA;125;"Zilupes novads (Zilupe)";District;"110";48837
+"Latvia";LV;LVA;125;"Ādažu novads (Ādaži)";District;"011";48737
+"Latvia";LV;LVA;125;"Ērgļu novads (Ērgļi)";District;"030";48756
+"Latvia";LV;LVA;125;"Ķeguma novads (Ķegums)";District;"051";48777
+"Latvia";LV;LVA;125;"Ķekavas novads (Ķekava)";District;"052";48778

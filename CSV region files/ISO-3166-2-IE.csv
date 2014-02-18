@@ -1,0 +1,32 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Ireland";IE;IRL;109;"Carlow";County;"CW";14798
+"Ireland";IE;IRL;109;"Cavan";County;"CN";14795
+"Ireland";IE;IRL;109;"Clare";County;"CE";14799
+"Ireland";IE;IRL;109;"Connaught ";province;"C";48469
+"Ireland";IE;IRL;109;"Cork";County;"CO";48897
+"Ireland";IE;IRL;109;"Cork";County;"C";14800
+"Ireland";IE;IRL;109;"Donegal";County;"DL";14796
+"Ireland";IE;IRL;109;"Dublin";County;"D";14801
+"Ireland";IE;IRL;109;"Galway";County;"G";14797
+"Ireland";IE;IRL;109;"Kerry";County;"KY";14802
+"Ireland";IE;IRL;109;"Kildare";County;"KE";14788
+"Ireland";IE;IRL;109;"Kilkenny";County;"KK";14803
+"Ireland";IE;IRL;109;"Laois";County;"LS";14807
+"Ireland";IE;IRL;109;"Leinster ";province;"L";48470
+"Ireland";IE;IRL;109;"Leitrim";County;"LM";14804
+"Ireland";IE;IRL;109;"Limerick";County;"LK";14805
+"Ireland";IE;IRL;109;"Longford";County;"LD";14787
+"Ireland";IE;IRL;109;"Louth";County;"LH";14806
+"Ireland";IE;IRL;109;"Mayo";County;"MO";14808
+"Ireland";IE;IRL;109;"Meath";County;"MH";14789
+"Ireland";IE;IRL;109;"Monaghan";County;"MN";14786
+"Ireland";IE;IRL;109;"Munster ";province;"M";48471
+"Ireland";IE;IRL;109;"Offaly";County;"OY";14790
+"Ireland";IE;IRL;109;"Roscommon";County;"RN";14809
+"Ireland";IE;IRL;109;"Sligo";County;"SO";14791
+"Ireland";IE;IRL;109;"Tipperary";County;"TA";14792
+"Ireland";IE;IRL;109;"Ulster ";province;"U";48472
+"Ireland";IE;IRL;109;"Waterford";County;"WD";14784
+"Ireland";IE;IRL;109;"Westmeath";County;"WH";14793
+"Ireland";IE;IRL;109;"Wexford";County;"WX";14783
+"Ireland";IE;IRL;109;"Wicklow";County;"WW";14794

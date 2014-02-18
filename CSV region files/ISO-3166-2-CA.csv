@@ -1,0 +1,14 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Canada";CA;CAN;42;"Alberta";province;"AB";12940
+"Canada";CA;CAN;42;"British Columbia";province;"BC";12938
+"Canada";CA;CAN;42;"Manitoba";province;"MB";12941
+"Canada";CA;CAN;42;"New Brunswick";province;"NB";12937
+"Canada";CA;CAN;42;"Newfoundland and Labrador";province;"NL";12942
+"Canada";CA;CAN;42;"Northwest Territories";territory;"NT";12939
+"Canada";CA;CAN;42;"Nova Scotia";province;"NS";12943
+"Canada";CA;CAN;42;"Nunavut";territory;"NU";12944
+"Canada";CA;CAN;42;"Ontario";province;"ON";12948
+"Canada";CA;CAN;42;"Prince Edward Island";province;"PE";12945
+"Canada";CA;CAN;42;"Quebec";province;"QC";12946
+"Canada";CA;CAN;42;"Saskatchewan";province;"SK";12936
+"Canada";CA;CAN;42;"Yukon Territory";territory;"YT";12947

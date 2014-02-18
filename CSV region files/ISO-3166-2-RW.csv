@@ -1,0 +1,6 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Rwanda";RW;RWA;191;"Est";province;"02";19063
+"Rwanda";RW;RWA;191;"Nord";province;"03";19064
+"Rwanda";RW;RWA;191;"Ouest";province;"04";19065
+"Rwanda";RW;RWA;191;"Sud";province;"05";17912
+"Rwanda";RW;RWA;191;"Ville de Kigali";province;"01";17923

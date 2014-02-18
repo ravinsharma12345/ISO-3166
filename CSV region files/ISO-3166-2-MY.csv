@@ -1,0 +1,17 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Malaysia";MY;MYS;137;"Johor";state;"01";15290
+"Malaysia";MY;MYS;137;"Kedah";state;"02";15299
+"Malaysia";MY;MYS;137;"Kelantan";state;"03";15291
+"Malaysia";MY;MYS;137;"Melaka";state;"04";15293
+"Malaysia";MY;MYS;137;"Negeri Sembilan";state;"05";15301
+"Malaysia";MY;MYS;137;"Pahang";state;"06";15294
+"Malaysia";MY;MYS;137;"Perak";state;"08";15295
+"Malaysia";MY;MYS;137;"Perlis";state;"09";15302
+"Malaysia";MY;MYS;137;"Pulau Pinang";state;"07";15296
+"Malaysia";MY;MYS;137;"Sabah";state;"12";15297
+"Malaysia";MY;MYS;137;"Sarawak";state;"13";15303
+"Malaysia";MY;MYS;137;"Selangor";state;"10";15298
+"Malaysia";MY;MYS;137;"Terengganu";state;"11";15289
+"Malaysia";MY;MYS;137;"Wilayah Persekutuan Kuala Lumpur";federal territory;"14";15300
+"Malaysia";MY;MYS;137;"Wilayah Persekutuan Labuan";federal territory;"15";15292
+"Malaysia";MY;MYS;137;"Wilayah Persekutuan Putrajaya";federal territory;"16";19025

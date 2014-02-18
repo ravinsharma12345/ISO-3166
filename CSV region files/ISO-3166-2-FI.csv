@@ -1,0 +1,26 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Finland";FI;FIN;77;"Ahvenanmaan lääni";;"AL";13703
+"Finland";FI;FIN;77;"Ahvenanmaan maakunta";region;"01";48686
+"Finland";FI;FIN;77;"Etelä-Karjala";region;"02";48687
+"Finland";FI;FIN;77;"Etelä-Pohjanmaa";region;"03";48688
+"Finland";FI;FIN;77;"Etelä-Savo";region;"04";48689
+"Finland";FI;FIN;77;"Etelä-Suomen lääni";;"ES";20230
+"Finland";FI;FIN;77;"Itä-Suomen lääni";;"IS";13706
+"Finland";FI;FIN;77;"Kainuu";region;"05";48690
+"Finland";FI;FIN;77;"Kanta-Häme";region;"06";48691
+"Finland";FI;FIN;77;"Keski-Pohjanmaa";region;"07";48692
+"Finland";FI;FIN;77;"Keski-Suomi";region;"08";48693
+"Finland";FI;FIN;77;"Kymenlaakso";region;"09";48694
+"Finland";FI;FIN;77;"Lapin lääni";;"LL";13690
+"Finland";FI;FIN;77;"Lappi";region;"10";48695
+"Finland";FI;FIN;77;"Länsi-Suomen lääni";;"LS";20233
+"Finland";FI;FIN;77;"Oulun lääni";;"OL";20234
+"Finland";FI;FIN;77;"Pirkanmaa";region;"11";48696
+"Finland";FI;FIN;77;"Pohjanmaa";region;"12";48697
+"Finland";FI;FIN;77;"Pohjois-Karjala";region;"13";48698
+"Finland";FI;FIN;77;"Pohjois-Pohjanmaa";region;"14";48699
+"Finland";FI;FIN;77;"Pohjois-Savo";region;"15";48700
+"Finland";FI;FIN;77;"Päijät-Häme";region;"16";48701
+"Finland";FI;FIN;77;"Satakunta";region;"17";48702
+"Finland";FI;FIN;77;"Uusimaa";region;"18";48703
+"Finland";FI;FIN;77;"Varsinais-Suomi";region;"19";48704

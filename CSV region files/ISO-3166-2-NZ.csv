@@ -1,0 +1,21 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"New Zealand";NZ;NZL;162;"Auckland";Regional Council;"AUK";15748
+"New Zealand";NZ;NZL;162;"Bay of Plenty";Regional Council;"BOP";15753
+"New Zealand";NZ;NZL;162;"Canterbury";Regional Council;"CAN";15754
+"New Zealand";NZ;NZL;162;"Chatham  Islands Territory";Special Island Authority;"X1~";48138
+"New Zealand";NZ;NZL;162;"Chatham  Islands Territory";Special Island Authority;"CIT";19036
+"New Zealand";NZ;NZL;162;"Gisborne District";Unitary Authority;"GIS";15749
+"New Zealand";NZ;NZL;162;"Hawkes's Bay";Regional Council;"HKB";15755
+"New Zealand";NZ;NZL;162;"Manawatu-Wanganui";Regional Council;"MWT";15750
+"New Zealand";NZ;NZL;162;"Marlborough District";Unitary Authority;"MBH";15756
+"New Zealand";NZ;NZL;162;"Nelson City";Unitary Authority;"NSN";15757
+"New Zealand";NZ;NZL;162;"North Island";island;"N";48235
+"New Zealand";NZ;NZL;162;"Northland";Regional Council;"NTL";15747
+"New Zealand";NZ;NZL;162;"Otago";Regional Council;"OTA";15758
+"New Zealand";NZ;NZL;162;"South Island";island;"S";48236
+"New Zealand";NZ;NZL;162;"Southland";Regional Council;"STL";15759
+"New Zealand";NZ;NZL;162;"Taranaki";Regional Council;"TKI";15751
+"New Zealand";NZ;NZL;162;"Tasman District";Unitary Authority;"TAS";15760
+"New Zealand";NZ;NZL;162;"Waikato";Regional Council;"WKO";15746
+"New Zealand";NZ;NZL;162;"Wellington";Regional Council;"WGN";15761
+"New Zealand";NZ;NZL;162;"West Coast";Regional Council;"WTC";15762

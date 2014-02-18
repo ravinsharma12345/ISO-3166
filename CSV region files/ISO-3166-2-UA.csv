@@ -1,0 +1,28 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Ukraine";UA;UKR;237;"Cherkas'ka Oblast'";region;"71";18594
+"Ukraine";UA;UKR;237;"Chernihivs'ka Oblast'";region;"74";18595
+"Ukraine";UA;UKR;237;"Chernivets'ka Oblast'";region;"77";18596
+"Ukraine";UA;UKR;237;"Dnipropetrovs'ka Oblast'";region;"12";18603
+"Ukraine";UA;UKR;237;"Donets'ka Oblast'";region;"14";18597
+"Ukraine";UA;UKR;237;"Ivano-Frankivs'ka Oblast'";region;"26";18598
+"Ukraine";UA;UKR;237;"Kharkivs'ka Oblast'";region;"63";18599
+"Ukraine";UA;UKR;237;"Khersons'ka Oblast'";region;"65";18600
+"Ukraine";UA;UKR;237;"Khmel'nyts'ka Oblast'";region;"68";18604
+"Ukraine";UA;UKR;237;"Kirovohrads'ka Oblast'";region;"35";18601
+"Ukraine";UA;UKR;237;"Kyïv";region;"30";18607
+"Ukraine";UA;UKR;237;"Kyïvs'ka Oblast'";region;"32";18608
+"Ukraine";UA;UKR;237;"L'vivs'ka Oblast'";region;"46";18609
+"Ukraine";UA;UKR;237;"Luhans'ka Oblast'";region;"09";18605
+"Ukraine";UA;UKR;237;"Mykolaïvs'ka Oblast'";region;"48";18610
+"Ukraine";UA;UKR;237;"Odes'ka Oblast'";region;"51";18606
+"Ukraine";UA;UKR;237;"Poltavs'ka Oblast'";region;"53";18611
+"Ukraine";UA;UKR;237;"Respublika Krym";Autonomous Republic;"43";18602
+"Ukraine";UA;UKR;237;"Rivnens'ka Oblast'";region;"56";18612
+"Ukraine";UA;UKR;237;"Sevastopol'";region;"40";18613
+"Ukraine";UA;UKR;237;"Sums'ka Oblast'";region;"59";18614
+"Ukraine";UA;UKR;237;"Ternopil's'ka Oblast'";region;"61";18615
+"Ukraine";UA;UKR;237;"Vinnyts'ka Oblast'";region;"05";18593
+"Ukraine";UA;UKR;237;"Volyns'ka Oblast'";region;"07";18617
+"Ukraine";UA;UKR;237;"Zakarpats'ka Oblast'";region;"21";18618
+"Ukraine";UA;UKR;237;"Zaporiz'ka Oblast'";region;"23";18616
+"Ukraine";UA;UKR;237;"Zhytomyrs'ka Oblast'";region;"18";18592

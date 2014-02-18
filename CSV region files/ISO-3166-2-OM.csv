@@ -1,0 +1,12 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Oman";OM;OMN;170;"Ad Dakhiliyah";Region;"DA";15871
+"Oman";OM;OMN;170;"Al Batinah";Region;"BA";15873
+"Oman";OM;OMN;170;"Al Buraymi";Governorate;"X1~";48137
+"Oman";OM;OMN;170;"Al Buraymi";Governorate;"BU";21361
+"Oman";OM;OMN;170;"Al Wustá";Region;"WU";15872
+"Oman";OM;OMN;170;"Ash Sharqiyah";Region;"SH";15870
+"Oman";OM;OMN;170;"Az̧ Z̧āhirah";Region;"ZA";15868
+"Oman";OM;OMN;170;"Dhofar";Governorate;"JA";15869
+"Oman";OM;OMN;170;"Masqat";Governorate;"MA";15875
+"Oman";OM;OMN;170;"Musandam";Governorate;"MU";15874
+"Oman";OM;OMN;170;"Z̧ufār";governorate;"ZU";48237

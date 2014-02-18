@@ -1,0 +1,19 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Netherlands";NL;NLD;159;"Aruba (see also separate entry under AW)";country;"AW";48857
+"Netherlands";NL;NLD;159;"Bonaire (see also separate entry under BQ)";Special municipality;"BQ1";48860
+"Netherlands";NL;NLD;159;"Curaçao (see also separate entry under CW)";country;"CW";48858
+"Netherlands";NL;NLD;159;"Drenthe";Province;"DR";15727
+"Netherlands";NL;NLD;159;"Flevoland";Province;"FL";15731
+"Netherlands";NL;NLD;159;"Friesland";Province;"FR";15730
+"Netherlands";NL;NLD;159;"Gelderland";Province;"GE";15726
+"Netherlands";NL;NLD;159;"Groningen";Province;"GR";15732
+"Netherlands";NL;NLD;159;"Limburg";Province;"LI";15735
+"Netherlands";NL;NLD;159;"Noord-Brabant";Province;"NB";15729
+"Netherlands";NL;NLD;159;"Noord-Holland";Province;"NH";15736
+"Netherlands";NL;NLD;159;"Overijssel";Province;"OV";15733
+"Netherlands";NL;NLD;159;"Saba (see also separate entry under BQ)";Special municipality;"BQ2";48861
+"Netherlands";NL;NLD;159;"Sint Eustatius (see also separate entry under BQ)";Special municipality;"BQ3";48862
+"Netherlands";NL;NLD;159;"Sint Maarten (see also separate entry under SX)";country;"SX";48859
+"Netherlands";NL;NLD;159;"Utrecht";Province;"UT";15725
+"Netherlands";NL;NLD;159;"Zeeland";Province;"ZE";15728
+"Netherlands";NL;NLD;159;"Zuid-Holland";Province;"ZH";15734

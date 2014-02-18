@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Kenya";KE;KEN;118;"Central";province;"200";15009
+"Kenya";KE;KEN;118;"Coast";province;"300";15005
+"Kenya";KE;KEN;118;"Eastern";province;"400";15006
+"Kenya";KE;KEN;118;"Nairobi";province;"110";15010
+"Kenya";KE;KEN;118;"North-Eastern";province;"500";15004
+"Kenya";KE;KEN;118;"Nyanza";province;"600";15001
+"Kenya";KE;KEN;118;"Rift Valley";province;"700";15007
+"Kenya";KE;KEN;118;"Western";province;"900";15003

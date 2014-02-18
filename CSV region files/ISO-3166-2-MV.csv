@@ -1,0 +1,30 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Maldives";MV;MDV;138;"Alif";administrative atoll;"02";15307
+"Maldives";MV;MDV;138;"Alif Dhaal";;"X1~";48268
+"Maldives";MV;MDV;138;"Alif Dhaal";;"00";15308
+"Maldives";MV;MDV;138;"Baa";administrative atoll;"20";15309
+"Maldives";MV;MDV;138;"Central";Province;"CE";48272
+"Maldives";MV;MDV;138;"Dhaalu";administrative atoll;"17";15310
+"Maldives";MV;MDV;138;"Faafu";administrative atoll;"14";15311
+"Maldives";MV;MDV;138;"Gaaf Alif";administrative atoll;"27";15312
+"Maldives";MV;MDV;138;"Gaafu Dhaalu";administrative atoll;"28";15313
+"Maldives";MV;MDV;138;"Gnaviyani";administrative atoll;"29";15306
+"Maldives";MV;MDV;138;"Haa Alif";administrative atoll;"07";15314
+"Maldives";MV;MDV;138;"Haa Dhaalu";administrative atoll;"23";15315
+"Maldives";MV;MDV;138;"Kaafu";administrative atoll;"26";15305
+"Maldives";MV;MDV;138;"Laamu";administrative atoll;"05";15316
+"Maldives";MV;MDV;138;"Lhaviyani";administrative atoll;"03";15321
+"Maldives";MV;MDV;138;"Male";capital;"MLE";15317
+"Maldives";MV;MDV;138;"Meemu";administrative atoll;"12";15324
+"Maldives";MV;MDV;138;"Noonu";administrative atoll;"25";15323
+"Maldives";MV;MDV;138;"North";Province;"NO";48275
+"Maldives";MV;MDV;138;"North Central";Province;"NC";48274
+"Maldives";MV;MDV;138;"Raa";administrative atoll;"13";15318
+"Maldives";MV;MDV;138;"Seenu";administrative atoll;"01";15319
+"Maldives";MV;MDV;138;"Shaviyani";administrative atoll;"24";15322
+"Maldives";MV;MDV;138;"South";Province;"SU";48269
+"Maldives";MV;MDV;138;"South Central";Province;"SC";48273
+"Maldives";MV;MDV;138;"Thaa";administrative atoll;"08";15304
+"Maldives";MV;MDV;138;"Upper North";Province;"UN";48271
+"Maldives";MV;MDV;138;"Upper South";Province;"US";48270
+"Maldives";MV;MDV;138;"Vaavu";administrative atoll;"04";15320

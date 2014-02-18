@@ -1,0 +1,20 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Nepal";NP;NPL;158;"Bagmati";zone;"BA";20177
+"Nepal";NP;NPL;158;"Bheri";zone;"BH";20178
+"Nepal";NP;NPL;158;"Dhawalagiri";zone;"DH";20179
+"Nepal";NP;NPL;158;"Gandaki";zone;"GA";20180
+"Nepal";NP;NPL;158;"Janakpur";zone;"JA";20181
+"Nepal";NP;NPL;158;"Karnali";zone;"KA";20182
+"Nepal";NP;NPL;158;"Kosi [Koshi]";zone;"KO";20183
+"Nepal";NP;NPL;158;"Lumbini";zone;"LU";20184
+"Nepal";NP;NPL;158;"Madhya Pashchimanchal";development regions;"2";48537
+"Nepal";NP;NPL;158;"Madhyamanchal";development regions;"1";48536
+"Nepal";NP;NPL;158;"Mahakali";zone;"MA";20185
+"Nepal";NP;NPL;158;"Mechi";zone;"ME";20186
+"Nepal";NP;NPL;158;"Narayani";zone;"NA";20187
+"Nepal";NP;NPL;158;"Pashchimanchal";development regions;"3";48538
+"Nepal";NP;NPL;158;"Purwanchal";development regions;"4";48539
+"Nepal";NP;NPL;158;"Rapti";zone;"RA";20188
+"Nepal";NP;NPL;158;"Sagarmatha";zone;"SA";20189
+"Nepal";NP;NPL;158;"Seti";zone;"SE";20190
+"Nepal";NP;NPL;158;"Sudur Pashchimanchal";development regions;"5";48540

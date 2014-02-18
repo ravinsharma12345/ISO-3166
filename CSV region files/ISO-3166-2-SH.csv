@@ -1,0 +1,7 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Ascension";dependency;"AC";17926
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Ascension";geographical entities;"AC";48879
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Saint Helena";geographical entities;"HL";48880
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Saint Helena";administrative area;"SH";17930
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Tristan da Cunha";geographical entities;"TA";48881
+"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Tristan da Cunha";dependency;"TA";17925

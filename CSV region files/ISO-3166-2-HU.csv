@@ -1,0 +1,45 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Hungary";HU;HUN;103;"Baranya";county;"BA";14646
+"Hungary";HU;HUN;103;"Borsod-Abaúj-Zemplén";county;"BZ";14660
+"Hungary";HU;HUN;103;"Budapest";capital city;"BU";14649
+"Hungary";HU;HUN;103;"Bács-Kiskun";county;"BK";14647
+"Hungary";HU;HUN;103;"Békés";county;"BE";14648
+"Hungary";HU;HUN;103;"Békéscsaba";city of county right;"BC";19442
+"Hungary";HU;HUN;103;"Csongrád";county;"CS";14650
+"Hungary";HU;HUN;103;"Debrecen";city of county right;"DE";19443
+"Hungary";HU;HUN;103;"Dunaújváros";city of county right;"DU";19444
+"Hungary";HU;HUN;103;"Eger";city of county right;"EG";19445
+"Hungary";HU;HUN;103;"Erd";County;"ER";21352
+"Hungary";HU;HUN;103;"Erd";County;"X1~";48133
+"Hungary";HU;HUN;103;"Fejér";county;"FE";14645
+"Hungary";HU;HUN;103;"Gyor";city of county right;"GY";19446
+"Hungary";HU;HUN;103;"Gyor-Moson-Sopron";county;"GS";14651
+"Hungary";HU;HUN;103;"Hajdú-Bihar";county;"HB";14661
+"Hungary";HU;HUN;103;"Heves";county;"HE";14652
+"Hungary";HU;HUN;103;"Hódmezovásárhely";city of county right;"HV";19447
+"Hungary";HU;HUN;103;"Jász-Nagykun-Szolnok";county;"JN";14653
+"Hungary";HU;HUN;103;"Kaposvár";city of county right;"KV";19448
+"Hungary";HU;HUN;103;"Kecskemét";city of county right;"KM";19449
+"Hungary";HU;HUN;103;"Komárom-Esztergom";county;"KE";14644
+"Hungary";HU;HUN;103;"Miskolc";city of county right;"MI";19450
+"Hungary";HU;HUN;103;"Nagykanizsa";city of county right;"NK";19451
+"Hungary";HU;HUN;103;"Nyíregyháza";city of county right;"NY";19452
+"Hungary";HU;HUN;103;"Nógrád";county;"NO";14654
+"Hungary";HU;HUN;103;"Pest";county;"PE";14643
+"Hungary";HU;HUN;103;"Pécs";city of county right;"PS";19453
+"Hungary";HU;HUN;103;"Salgótarján";city of county right;"ST";19454
+"Hungary";HU;HUN;103;"Somogy";county;"SO";14655
+"Hungary";HU;HUN;103;"Sopron";city of county right;"SN";19455
+"Hungary";HU;HUN;103;"Szabolcs-Szatmár-Bereg";county;"SZ";14656
+"Hungary";HU;HUN;103;"Szeged";city of county right;"SD";19456
+"Hungary";HU;HUN;103;"Szekszárd";city of county right;"SS";19458
+"Hungary";HU;HUN;103;"Szolnok";city of county right;"SK";19459
+"Hungary";HU;HUN;103;"Szombathely";city of county right;"SH";19460
+"Hungary";HU;HUN;103;"Székesfehérvár";city of county right;"SF";19457
+"Hungary";HU;HUN;103;"Tatabánya";city of county right;"TB";19461
+"Hungary";HU;HUN;103;"Tolna";county;"TO";14642
+"Hungary";HU;HUN;103;"Vas";county;"VA";14657
+"Hungary";HU;HUN;103;"Veszprém";county;"VE";14658
+"Hungary";HU;HUN;103;"Veszprém City";city of county right;"VM";19462
+"Hungary";HU;HUN;103;"Zala";county;"ZA";14641
+"Hungary";HU;HUN;103;"Zalaegerszeg";city of county right;"ZE";19463

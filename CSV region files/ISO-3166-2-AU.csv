@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Australia";AU;AUS;15;"Australian Capital Territory";territory;"ACT";12471
+"Australia";AU;AUS;15;"New South Wales";state;"NSW";12477
+"Australia";AU;AUS;15;"Northern Territory";territory;"NT";12475
+"Australia";AU;AUS;15;"Queensland";state;"QLD";12476
+"Australia";AU;AUS;15;"South Australia";state;"SA";12472
+"Australia";AU;AUS;15;"Tasmania";state;"TAS";12474
+"Australia";AU;AUS;15;"Victoria";state;"VIC";12473
+"Australia";AU;AUS;15;"Western Australia";state;"WA";12470

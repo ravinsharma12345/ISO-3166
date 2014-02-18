@@ -1,0 +1,12 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Ethiopia";ET;ETH;73;"Adis Abeba";administration;"AA";13661
+"Ethiopia";ET;ETH;73;"Afar";state;"AF";13662
+"Ethiopia";ET;ETH;73;"Amara";state;"AM";13658
+"Ethiopia";ET;ETH;73;"Binshangul Gumuz";state;"BE";13663
+"Ethiopia";ET;ETH;73;"Dire Dawa";administration;"DD";13667
+"Ethiopia";ET;ETH;73;"Gambela Hizboch";state;"GA";13666
+"Ethiopia";ET;ETH;73;"Hareri Hizb";state;"HA";13665
+"Ethiopia";ET;ETH;73;"Oromiya";state;"OR";13668
+"Ethiopia";ET;ETH;73;"Sumale";state;"SO";13664
+"Ethiopia";ET;ETH;73;"Tigray";state;"TI";13659
+"Ethiopia";ET;ETH;73;"YeDebub Biheroch Bihereseboch na Hizboch";state;"SN";13657

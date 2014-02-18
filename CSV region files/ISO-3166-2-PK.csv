@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Pakistan";PK;PAK;171;"Azad Kashmir";Pakistan administered area;"JK";15882
+"Pakistan";PK;PAK;171;"Baluchistan (en)";province;"BA";15881
+"Pakistan";PK;PAK;171;"Federally Administered Tribal Areas";territory;"TA";15878
+"Pakistan";PK;PAK;171;"Gilgit-Baltistan";administered areas;"GB";48707
+"Pakistan";PK;PAK;171;"Islamabad";federal capital territory;"IS";15883
+"Pakistan";PK;PAK;171;"Khyber Pakhtunkhwa";province;"KP";48709
+"Pakistan";PK;PAK;171;"North-West Frontier";province;"NW";15879
+"Pakistan";PK;PAK;171;"Northern Areas";Pakistan administered area;"NA";15877
+"Pakistan";PK;PAK;171;"Punjab";province;"PB";15876
+"Pakistan";PK;PAK;171;"Sindh";province;"SD";15880

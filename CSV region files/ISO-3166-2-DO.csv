@@ -1,0 +1,33 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Dominican Republic";DO;DOM;65;"Azua";province;"02";13506
+"Dominican Republic";DO;DOM;65;"Bahoruco";province;"03";13489
+"Dominican Republic";DO;DOM;65;"Barahona";province;"04";13477
+"Dominican Republic";DO;DOM;65;"Dajabón";province;"05";13490
+"Dominican Republic";DO;DOM;65;"Distrito Nacional (Santo Domingo)";province;"01";13520
+"Dominican Republic";DO;DOM;65;"Duarte";province;"06";13491
+"Dominican Republic";DO;DOM;65;"El Seybo [El Seibo]";province;"08";13492
+"Dominican Republic";DO;DOM;65;"Espaillat";province;"09";13493
+"Dominican Republic";DO;DOM;65;"Hato Mayor";province;"30";13510
+"Dominican Republic";DO;DOM;65;"Independencia";province;"10";13494
+"Dominican Republic";DO;DOM;65;"La Altagracia";province;"11";13511
+"Dominican Republic";DO;DOM;65;"La Estrelleta [Elías Piña]";province;"07";13509
+"Dominican Republic";DO;DOM;65;"La Romana";province;"12";13487
+"Dominican Republic";DO;DOM;65;"La Vega";province;"13";13512
+"Dominican Republic";DO;DOM;65;"María Trinidad Sánchez";province;"14";13496
+"Dominican Republic";DO;DOM;65;"Monseñor Nouel";province;"28";13513
+"Dominican Republic";DO;DOM;65;"Monte Cristi";province;"15";13497
+"Dominican Republic";DO;DOM;65;"Monte Plata";province;"29";13514
+"Dominican Republic";DO;DOM;65;"Pedernales";province;"16";13498
+"Dominican Republic";DO;DOM;65;"Peravia";province;"17";13499
+"Dominican Republic";DO;DOM;65;"Puerto Plata";province;"18";13515
+"Dominican Republic";DO;DOM;65;"Salcedo";province;"19";13500
+"Dominican Republic";DO;DOM;65;"Samaná";province;"20";13516
+"Dominican Republic";DO;DOM;65;"San Cristóbal";province;"21";13517
+"Dominican Republic";DO;DOM;65;"San Jose de Ocoa";province;"31";13502
+"Dominican Republic";DO;DOM;65;"San Juan";province;"22";13518
+"Dominican Republic";DO;DOM;65;"San Pedro de Macorís";province;"23";13503
+"Dominican Republic";DO;DOM;65;"Santiago";province;"25";13519
+"Dominican Republic";DO;DOM;65;"Santiago Rodríguez";province;"26";13504
+"Dominican Republic";DO;DOM;65;"Santo Domingo";;"32";13508
+"Dominican Republic";DO;DOM;65;"Sánchez Ramírez";province;"24";13501
+"Dominican Republic";DO;DOM;65;"Valverde";province;"27";13505

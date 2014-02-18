@@ -1,0 +1,22 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Sweden";SE;SWE;218;"Blekinge län [SE-10]";County;"K";18240
+"Sweden";SE;SWE;218;"Dalarnas län [SE-20]";County;"W";18248
+"Sweden";SE;SWE;218;"Gotlands län [SE-09]";County;"I";18249
+"Sweden";SE;SWE;218;"Gävleborgs län [SE-21]";County;"X";18241
+"Sweden";SE;SWE;218;"Hallands län [SE-13]";County;"N";18242
+"Sweden";SE;SWE;218;"Jämtlands län [SE-23]";County;"Z";18243
+"Sweden";SE;SWE;218;"Jönköpings län [SE-06]";County;"F";18250
+"Sweden";SE;SWE;218;"Kalmar län [SE-08]";County;"H";18244
+"Sweden";SE;SWE;218;"Kronobergs län [SE-07]";County;"G";18245
+"Sweden";SE;SWE;218;"Norrbottens län [SE-25]";County;"BD";18251
+"Sweden";SE;SWE;218;"Skåne län [SE-12]";County;"M";18247
+"Sweden";SE;SWE;218;"Stockholms län [SE-01]";County;"AB";18252
+"Sweden";SE;SWE;218;"Södermanlands län [SE-04]";County;"D";18231
+"Sweden";SE;SWE;218;"Uppsala län [SE-03]";County;"C";18232
+"Sweden";SE;SWE;218;"Värmlands län [SE-17]";County;"S";18233
+"Sweden";SE;SWE;218;"Västerbottens län [SE-24]";County;"AC";18254
+"Sweden";SE;SWE;218;"Västernorrlands län [SE-22]";County;"Y";18234
+"Sweden";SE;SWE;218;"Västmanlands län [SE-19]";County;"U";18253
+"Sweden";SE;SWE;218;"Västra Götalands län [SE-14]";County;"O";18235
+"Sweden";SE;SWE;218;"Örebro län [SE-18]";County;"T";18246
+"Sweden";SE;SWE;218;"Östergötlands län [SE-05]";County;"E";18230

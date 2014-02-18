@@ -1,0 +1,28 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Brazil";BR;BRA;34;"Acre";state;"AC";12793
+"Brazil";BR;BRA;34;"Alagoas";state;"AL";12784
+"Brazil";BR;BRA;34;"Amapá";state;"AP";12775
+"Brazil";BR;BRA;34;"Amazonas";state;"AM";12794
+"Brazil";BR;BRA;34;"Bahia";state;"BA";12776
+"Brazil";BR;BRA;34;"Ceará";state;"CE";12795
+"Brazil";BR;BRA;34;"Distrito Federal";federal district;"DF";12777
+"Brazil";BR;BRA;34;"Espírito Santo";state;"ES";12778
+"Brazil";BR;BRA;34;"Goiás";state;"GO";12796
+"Brazil";BR;BRA;34;"Maranhão";state;"MA";12779
+"Brazil";BR;BRA;34;"Mato Grosso";state;"MT";12780
+"Brazil";BR;BRA;34;"Mato Grosso do Sul";state;"MS";12774
+"Brazil";BR;BRA;34;"Minas Gerais";state;"MG";12781
+"Brazil";BR;BRA;34;"Paraná";state;"PR";12783
+"Brazil";BR;BRA;34;"Paraíba";state;"PB";12782
+"Brazil";BR;BRA;34;"Pará";state;"PA";12797
+"Brazil";BR;BRA;34;"Pernambuco";state;"PE";12773
+"Brazil";BR;BRA;34;"Piauí";state;"PI";12785
+"Brazil";BR;BRA;34;"Rio de Janeiro";state;"RJ";12786
+"Brazil";BR;BRA;34;"Rio Grande do Norte";state;"RN";12798
+"Brazil";BR;BRA;34;"Rio Grande do Sul";state;"RS";12787
+"Brazil";BR;BRA;34;"Rondônia";state;"RO";12772
+"Brazil";BR;BRA;34;"Roraima";state;"RR";12788
+"Brazil";BR;BRA;34;"Santa Catarina";state;"SC";12789
+"Brazil";BR;BRA;34;"Sergipe";state;"SE";12790
+"Brazil";BR;BRA;34;"São Paulo";state;"SP";12771
+"Brazil";BR;BRA;34;"Tocantins";state;"TO";12791

@@ -1,0 +1,27 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Switzerland";CH;CHE;219;"Aargau (de)";Canton;"AG";18257
+"Switzerland";CH;CHE;219;"Appenzell Ausserrhoden (de)";Canton;"AR";18274
+"Switzerland";CH;CHE;219;"Appenzell Innerrhoden (de)";Canton;"AI";18258
+"Switzerland";CH;CHE;219;"Basel-Landschaft (de)";Canton;"BL";18275
+"Switzerland";CH;CHE;219;"Basel-Stadt (de)";Canton;"BS";18259
+"Switzerland";CH;CHE;219;"Bern (de)";Canton;"BE";18276
+"Switzerland";CH;CHE;219;"Fribourg (fr)";Canton;"FR";18260
+"Switzerland";CH;CHE;219;"Genève (fr)";Canton;"GE";18277
+"Switzerland";CH;CHE;219;"Glarus (de)";Canton;"GL";18261
+"Switzerland";CH;CHE;219;"Graubünden (de)";Canton;"GR";18265
+"Switzerland";CH;CHE;219;"Jura (fr)";Canton;"JU";18262
+"Switzerland";CH;CHE;219;"Luzern (de)";Canton;"LU";18266
+"Switzerland";CH;CHE;219;"Neuchâtel (fr)";Canton;"NE";18263
+"Switzerland";CH;CHE;219;"Nidwalden (de)";Canton;"NW";18267
+"Switzerland";CH;CHE;219;"Obwalden (de)";Canton;"OW";18264
+"Switzerland";CH;CHE;219;"Sankt Gallen (de)";Canton;"SG";18268
+"Switzerland";CH;CHE;219;"Schaffhausen (de)";Canton;"SH";18279
+"Switzerland";CH;CHE;219;"Schwyz (de)";Canton;"SZ";18269
+"Switzerland";CH;CHE;219;"Solothurn (de)";Canton;"SO";18270
+"Switzerland";CH;CHE;219;"Thurgau (de)";Canton;"TG";18280
+"Switzerland";CH;CHE;219;"Ticino (it)";Canton;"TI";18271
+"Switzerland";CH;CHE;219;"Uri (de)";Canton;"UR";18278
+"Switzerland";CH;CHE;219;"Valais (fr)";Canton;"VS";18272
+"Switzerland";CH;CHE;219;"Vaud (fr)";Canton;"VD";18255
+"Switzerland";CH;CHE;219;"Zug (de)";Canton;"ZG";18273
+"Switzerland";CH;CHE;219;"Zürich (de)";Canton;"ZH";18256

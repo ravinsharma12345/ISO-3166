@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Mali";ML;MLI;139;"Bamako";district;"BKO";15327
+"Mali";ML;MLI;139;"Gao";region;"7";15329
+"Mali";ML;MLI;139;"Kayes";region;"1";15330
+"Mali";ML;MLI;139;"Kidal";region;"8";15328
+"Mali";ML;MLI;139;"Koulikoro";region;"2";15331
+"Mali";ML;MLI;139;"Mopti";region;"5";15326
+"Mali";ML;MLI;139;"Sikasso";region;"3";15333
+"Mali";ML;MLI;139;"Ségou";region;"4";15332
+"Mali";ML;MLI;139;"Tombouctou";region;"6";15325

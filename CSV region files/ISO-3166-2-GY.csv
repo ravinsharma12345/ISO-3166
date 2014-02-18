@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Guyana";GY;GUY;97;"Barima-Waini";Region;"BA";14605
+"Guyana";GY;GUY;97;"Cuyuni-Mazaruni";Region;"CU";14612
+"Guyana";GY;GUY;97;"Demerara-Mahaica";Region;"DE";14606
+"Guyana";GY;GUY;97;"East Berbice-Corentyne";Region;"EB";14611
+"Guyana";GY;GUY;97;"Essequibo Islands-West Demerara";Region;"ES";14607
+"Guyana";GY;GUY;97;"Mahaica-Berbice";Region;"MA";14608
+"Guyana";GY;GUY;97;"Pomeroon-Supenaam";Region;"PM";14604
+"Guyana";GY;GUY;97;"Potaro-Siparuni";Region;"PT";14609
+"Guyana";GY;GUY;97;"Upper Demerara-Berbice";Region;"UD";14603
+"Guyana";GY;GUY;97;"Upper Takutu-Upper Essequibo";Region;"UT";14610

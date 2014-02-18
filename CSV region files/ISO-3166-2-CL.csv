@@ -1,0 +1,16 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Chile";CL;CHL;47;"Aisén del General Carlos Ibáñez del Campo";Region;"AI";13004
+"Chile";CL;CHL;47;"Antofagasta";Region;"AN";12998
+"Chile";CL;CHL;47;"Araucanía";Region;"AR";12997
+"Chile";CL;CHL;47;"Arica y Parinacota";Region;"AP";21383
+"Chile";CL;CHL;47;"Atacama";Region;"AT";12999
+"Chile";CL;CHL;47;"Bío-Bío";Region;"BI";13005
+"Chile";CL;CHL;47;"Coquimbo";Region;"CO";12996
+"Chile";CL;CHL;47;"Libertador General Bernardo O'Higgins";Region;"LI";13000
+"Chile";CL;CHL;47;"Los Lagos";Region;"LL";13006
+"Chile";CL;CHL;47;"Los Ríos";Region;"LR";21384
+"Chile";CL;CHL;47;"Magallanes";Region;"MA";13001
+"Chile";CL;CHL;47;"Maule";Region;"ML";12995
+"Chile";CL;CHL;47;"Región Metropolitana de Santiago";Region;"RM";13002
+"Chile";CL;CHL;47;"Tarapacá";Region;"TA";12994
+"Chile";CL;CHL;47;"Valparaíso";Region;"VS";13003

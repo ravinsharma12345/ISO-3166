@@ -1,0 +1,11 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Solomon Islands";SB;SLB;208;"Capital Territory (Honiara)";capital territory;"CT";18079
+"Solomon Islands";SB;SLB;208;"Central";province;"CE";18074
+"Solomon Islands";SB;SLB;208;"Choiseul";province;"CH";18075
+"Solomon Islands";SB;SLB;208;"Guadalcanal";province;"GU";18076
+"Solomon Islands";SB;SLB;208;"Isabel";province;"IS";18081
+"Solomon Islands";SB;SLB;208;"Makira";province;"MK";18080
+"Solomon Islands";SB;SLB;208;"Malaita";province;"ML";18082
+"Solomon Islands";SB;SLB;208;"Rennell and Bellona";province;"RB";18078
+"Solomon Islands";SB;SLB;208;"Temotu";province;"TE";18073
+"Solomon Islands";SB;SLB;208;"Western";province;"WE";18077

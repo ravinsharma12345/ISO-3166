@@ -1,0 +1,70 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Spain";ES;ESP;212;"A Coruña";province;"C";18135
+"Spain";ES;ESP;212;"Albacete";province;"AB";18137
+"Spain";ES;ESP;212;"Alicante";province;"A";18136
+"Spain";ES;ESP;212;"Almería";province;"AL";18138
+"Spain";ES;ESP;212;"Andalucía";;"AN";19572
+"Spain";ES;ESP;212;"Asturias";province;"O";18122
+"Spain";ES;ESP;212;"Asturias; Principado de";autonomous community;"AS";47901
+"Spain";ES;ESP;212;"Badajoz";province;"BA";18140
+"Spain";ES;ESP;212;"Baleares";province;"PM";18123
+"Spain";ES;ESP;212;"Barcelona";province;"B";18141
+"Spain";ES;ESP;212;"Burgos";province;"BU";18124
+"Spain";ES;ESP;212;"Canarias";;"CN";19574
+"Spain";ES;ESP;212;"Cantabria";autonomous community;"CB";47898
+"Spain";ES;ESP;212;"Cantabria";province;"S";18125
+"Spain";ES;ESP;212;"Castellón";province;"CS";18144
+"Spain";ES;ESP;212;"Castilla y León";autonomous community;"CL";19575
+"Spain";ES;ESP;212;"Castilla-La Mancha";autonomous community;"CM";19576
+"Spain";ES;ESP;212;"Catalunya";autonomous community;"CT";19577
+"Spain";ES;ESP;212;"Ceuta";Autonomous city;"CE";42631
+"Spain";ES;ESP;212;"Ciudad Real";province;"CR";18126
+"Spain";ES;ESP;212;"Cuenca";province;"CU";18154
+"Spain";ES;ESP;212;"Cáceres";province;"CC";18142
+"Spain";ES;ESP;212;"Cádiz";province;"CA";18143
+"Spain";ES;ESP;212;"Córdoba";province;"CO";18127
+"Spain";ES;ESP;212;"Extremadura";autonomous community;"EX";19578
+"Spain";ES;ESP;212;"Galicia";autonomous community;"GA";19579
+"Spain";ES;ESP;212;"Girona";province;"GI";18128
+"Spain";ES;ESP;212;"Granada";province;"GR";18129
+"Spain";ES;ESP;212;"Guadalajara";province;"GU";18155
+"Spain";ES;ESP;212;"Guipúzcoa";province;"SS";18130
+"Spain";ES;ESP;212;"Huelva";province;"H";18156
+"Spain";ES;ESP;212;"Huesca";province;"HU";18131
+"Spain";ES;ESP;212;"Illes Balears";autonomous community;"IB";48287
+"Spain";ES;ESP;212;"Jaén";province;"J";18132
+"Spain";ES;ESP;212;"La Rioja";province;"LO";18157
+"Spain";ES;ESP;212;"Las Palmas";province;"GC";18133
+"Spain";ES;ESP;212;"León";province;"LE";18158
+"Spain";ES;ESP;212;"Lleida";province;"L";18134
+"Spain";ES;ESP;212;"Lugo";province;"LU";18145
+"Spain";ES;ESP;212;"Madrid";province;"M";18159
+"Spain";ES;ESP;212;"Madrid; Comunidad de";autonomous community;"MD";42628
+"Spain";ES;ESP;212;"Melilla";Autonomous city;"ML";42627
+"Spain";ES;ESP;212;"Murcia";province;"MU";18160
+"Spain";ES;ESP;212;"Murcia; Región de";autonomous community;"MC";47866
+"Spain";ES;ESP;212;"Málaga";province;"MA";18146
+"Spain";ES;ESP;212;"Navarra";province;"NA";18148
+"Spain";ES;ESP;212;"Navarra; Comunidad Foral de";autonomous community;"NC";42626
+"Spain";ES;ESP;212;"Ourense";province;"OR";18116
+"Spain";ES;ESP;212;"Palencia";province;"P";18149
+"Spain";ES;ESP;212;"País Vasco";autonomous community;"PV";19580
+"Spain";ES;ESP;212;"Pontevedra";province;"PO";18150
+"Spain";ES;ESP;212;"Salamanca";province;"SA";18161
+"Spain";ES;ESP;212;"Santa Cruz de Tenerife";province;"TF";18151
+"Spain";ES;ESP;212;"Segovia";province;"SG";18115
+"Spain";ES;ESP;212;"Sevilla";province;"SE";18152
+"Spain";ES;ESP;212;"Soria";province;"SO";18117
+"Spain";ES;ESP;212;"Tarragona";province;"T";18112
+"Spain";ES;ESP;212;"Teruel";province;"TE";18118
+"Spain";ES;ESP;212;"Toledo";province;"TO";18119
+"Spain";ES;ESP;212;"Valencia";province;"V";18111
+"Spain";ES;ESP;212;"Valenciana; Comunidad";autonomous community;"VC";42625
+"Spain";ES;ESP;212;"Valladolid";province;"VA";18120
+"Spain";ES;ESP;212;"Vizcaya";province;"BI";18113
+"Spain";ES;ESP;212;"Zamora";province;"ZA";18114
+"Spain";ES;ESP;212;"Zaragoza";province;"Z";18110
+"Spain";ES;ESP;212;"Álava";province;"VI";18121
+"Spain";ES;ESP;212;"Ávila";province;"AV";18139
+"Spain";ES;ESP;212;"";;"AR";19573
+"Spain";ES;ESP;212;"";autonomous community;"RI";42629

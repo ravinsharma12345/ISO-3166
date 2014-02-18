@@ -1,0 +1,32 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Malawi";MW;MWI;136;"Balaka";District;"BA";15279
+"Malawi";MW;MWI;136;"Blantyre";District;"BL";15261
+"Malawi";MW;MWI;136;"Central Region";region;"C";48232
+"Malawi";MW;MWI;136;"Chikwawa";District;"CK";15280
+"Malawi";MW;MWI;136;"Chiradzulu";District;"CR";15262
+"Malawi";MW;MWI;136;"Chitipa";District;"CT";15281
+"Malawi";MW;MWI;136;"Dedza";District;"DE";15263
+"Malawi";MW;MWI;136;"Dowa";District;"DO";15264
+"Malawi";MW;MWI;136;"Karonga";District;"KR";15285
+"Malawi";MW;MWI;136;"Kasungu";District;"KS";15265
+"Malawi";MW;MWI;136;"Likoma";District;"LK";19024
+"Malawi";MW;MWI;136;"Lilongwe";District;"LI";15286
+"Malawi";MW;MWI;136;"Machinga";District;"MH";15267
+"Malawi";MW;MWI;136;"Mangochi";District;"MG";15268
+"Malawi";MW;MWI;136;"Mchinji";District;"MC";15284
+"Malawi";MW;MWI;136;"Mulanje";District;"MU";15269
+"Malawi";MW;MWI;136;"Mwanza";District;"MW";15270
+"Malawi";MW;MWI;136;"Mzimba";District;"MZ";15283
+"Malawi";MW;MWI;136;"Neno";district;"NE";48231
+"Malawi";MW;MWI;136;"Nkhata Bay";District;"NB";15282
+"Malawi";MW;MWI;136;"Nkhotakota";District;"NK";15272
+"Malawi";MW;MWI;136;"Northern Region";region;"N";48233
+"Malawi";MW;MWI;136;"Nsanje";District;"NS";15273
+"Malawi";MW;MWI;136;"Ntcheu";District;"NU";15287
+"Malawi";MW;MWI;136;"Ntchisi";District;"NI";15274
+"Malawi";MW;MWI;136;"Phalombe";District;"PH";15275
+"Malawi";MW;MWI;136;"Rumphi";District;"RU";15288
+"Malawi";MW;MWI;136;"Salima";District;"SA";15276
+"Malawi";MW;MWI;136;"Southern Region";region;"S";48234
+"Malawi";MW;MWI;136;"Thyolo";District;"TH";15277
+"Malawi";MW;MWI;136;"Zomba";District;"ZO";15278

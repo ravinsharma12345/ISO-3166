@@ -1,0 +1,13 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Guinea-Bissau";GW;GNB;96;"Bafatá";region;"BA";14595
+"Guinea-Bissau";GW;GNB;96;"Biombo";region;"BM";14598
+"Guinea-Bissau";GW;GNB;96;"Bissau";autonomous sector;"BS";14597
+"Guinea-Bissau";GW;GNB;96;"Bolama";region;"BL";14601
+"Guinea-Bissau";GW;GNB;96;"Cacheu";region;"CA";14599
+"Guinea-Bissau";GW;GNB;96;"Gabú";region;"GA";14602
+"Guinea-Bissau";GW;GNB;96;"Leste";province;"L";48457
+"Guinea-Bissau";GW;GNB;96;"Norte";province;"N";48458
+"Guinea-Bissau";GW;GNB;96;"Oio";region;"OI";14596
+"Guinea-Bissau";GW;GNB;96;"Quinara";region;"QU";14594
+"Guinea-Bissau";GW;GNB;96;"Sul";province;"S";48459
+"Guinea-Bissau";GW;GNB;96;"Tombali";region;"TO";14600

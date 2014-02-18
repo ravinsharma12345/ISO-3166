@@ -1,0 +1,38 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Nigeria";NG;NGA;165;"Abia";state;"AB";21217
+"Nigeria";NG;NGA;165;"Abuja Federal Capital Territory";capital territory;"FC";15801
+"Nigeria";NG;NGA;165;"Adamawa";state;"AD";15802
+"Nigeria";NG;NGA;165;"Akwa Ibom";state;"AK";15803
+"Nigeria";NG;NGA;165;"Anambra";state;"AN";15804
+"Nigeria";NG;NGA;165;"Bauchi";state;"BA";15805
+"Nigeria";NG;NGA;165;"Bayelsa";state;"BY";15826
+"Nigeria";NG;NGA;165;"Benue";state;"BE";15817
+"Nigeria";NG;NGA;165;"Borno";state;"BO";15806
+"Nigeria";NG;NGA;165;"Cross River";state;"CR";15818
+"Nigeria";NG;NGA;165;"Delta";state;"DE";15799
+"Nigeria";NG;NGA;165;"Ebonyi";state;"EB";15819
+"Nigeria";NG;NGA;165;"Edo";state;"ED";15820
+"Nigeria";NG;NGA;165;"Ekiti";state;"EK";15807
+"Nigeria";NG;NGA;165;"Enugu";state;"EN";15821
+"Nigeria";NG;NGA;165;"Gombe";state;"GO";15822
+"Nigeria";NG;NGA;165;"Imo";state;"IM";15798
+"Nigeria";NG;NGA;165;"Jigawa";state;"JI";15823
+"Nigeria";NG;NGA;165;"Kaduna";state;"KD";15824
+"Nigeria";NG;NGA;165;"Kano";state;"KN";15828
+"Nigeria";NG;NGA;165;"Katsina";state;"KT";15825
+"Nigeria";NG;NGA;165;"Kebbi";state;"KE";15808
+"Nigeria";NG;NGA;165;"Kogi";state;"KO";15797
+"Nigeria";NG;NGA;165;"Kwara";state;"KW";15809
+"Nigeria";NG;NGA;165;"Lagos";state;"LA";15810
+"Nigeria";NG;NGA;165;"Nassarawa";state;"NA";15794
+"Nigeria";NG;NGA;165;"Niger";state;"NI";15811
+"Nigeria";NG;NGA;165;"Ogun";state;"OG";15812
+"Nigeria";NG;NGA;165;"Ondo";state;"ON";15795
+"Nigeria";NG;NGA;165;"Osun";state;"OS";15813
+"Nigeria";NG;NGA;165;"Oyo";state;"OY";15814
+"Nigeria";NG;NGA;165;"Plateau";state;"PL";15796
+"Nigeria";NG;NGA;165;"Rivers";state;"RI";15815
+"Nigeria";NG;NGA;165;"Sokoto";state;"SO";15816
+"Nigeria";NG;NGA;165;"Taraba";state;"TA";15793
+"Nigeria";NG;NGA;165;"Yobe";state;"YO";15827
+"Nigeria";NG;NGA;165;"Zamfara";state;"ZA";15792

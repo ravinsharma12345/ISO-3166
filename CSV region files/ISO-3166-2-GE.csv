@@ -1,0 +1,13 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Georgia";GE;GEO;1;"Abkhazia";autonomous republic;"AB";13902
+"Georgia";GE;GEO;1;"Ajaria";autonomous republic;"AJ";13896
+"Georgia";GE;GEO;1;"Guria";region;"GU";13897
+"Georgia";GE;GEO;1;"Imereti";region;"IM";13901
+"Georgia";GE;GEO;1;"Kakheti";region;"KA";13898
+"Georgia";GE;GEO;1;"Kvemo Kartli";region;"KK";13900
+"Georgia";GE;GEO;1;"Mtskheta-Mtianeti";region;"MM";13905
+"Georgia";GE;GEO;1;"Racha-Lechkhumi [and] Kvemo Svaneti";region;"RL";13899
+"Georgia";GE;GEO;1;"Samegrelo-Zemo Svaneti";region;"SZ";13906
+"Georgia";GE;GEO;1;"Samtskhe-Javakheti";region;"SJ";13903
+"Georgia";GE;GEO;1;"Shida Kartli";region;"SK";13904
+"Georgia";GE;GEO;1;"Tbilisi";city;"TB";13895

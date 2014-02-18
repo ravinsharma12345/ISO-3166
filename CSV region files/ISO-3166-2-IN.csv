@@ -1,0 +1,36 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"India";IN;IND;105;"Andaman and Nicobar Islands";union territory;"AN";14673
+"India";IN;IND;105;"Andhra Pradesh";state;"AP";14695
+"India";IN;IND;105;"Arunachal Pradesh";state;"AR";14674
+"India";IN;IND;105;"Assam";state;"AS";14675
+"India";IN;IND;105;"Bihar";state;"BR";14676
+"India";IN;IND;105;"Chandigarh";union territory;"CH";14697
+"India";IN;IND;105;"Chhattisgarh";state;"CT";14677
+"India";IN;IND;105;"Dadra and Nagar Haveli";union territory;"DN";14678
+"India";IN;IND;105;"Daman and Diu";union territory;"DD";14698
+"India";IN;IND;105;"Delhi";union territory;"DL";14679
+"India";IN;IND;105;"Goa";state;"GA";14699
+"India";IN;IND;105;"Gujarat";state;"GJ";14680
+"India";IN;IND;105;"Haryana";state;"HR";14681
+"India";IN;IND;105;"Himachal Pradesh";state;"HP";14672
+"India";IN;IND;105;"Jammu and Kashmir";state;"JK";14682
+"India";IN;IND;105;"Jharkhand";state;"JH";14700
+"India";IN;IND;105;"Karnataka";state;"KA";14683
+"India";IN;IND;105;"Kerala";state;"KL";14684
+"India";IN;IND;105;"Lakshadweep";union territory;"LD";14704
+"India";IN;IND;105;"Madhya Pradesh";state;"MP";14685
+"India";IN;IND;105;"Maharashtra";state;"MH";14686
+"India";IN;IND;105;"Manipur";state;"MN";14703
+"India";IN;IND;105;"Meghalaya";state;"ML";14687
+"India";IN;IND;105;"Mizoram";state;"MZ";14702
+"India";IN;IND;105;"Nagaland";state;"NL";14688
+"India";IN;IND;105;"Orissa";state;"OR";14689
+"India";IN;IND;105;"Pondicherry";union territory;"PY";14705
+"India";IN;IND;105;"Punjab";state;"PB";14690
+"India";IN;IND;105;"Rajasthan";state;"RJ";14691
+"India";IN;IND;105;"Sikkim";state;"SK";14701
+"India";IN;IND;105;"Tamil Nadu";state;"TN";14692
+"India";IN;IND;105;"Tripura";state;"TR";14693
+"India";IN;IND;105;"Uttar Pradesh";state;"UP";14694
+"India";IN;IND;105;"Uttaranchal";state;"UL";14671
+"India";IN;IND;105;"West Bengal";state;"WB";14696

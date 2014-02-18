@@ -1,0 +1,21 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Portugal";PT;PRT;184;"Aveiro";district;"01";19045
+"Portugal";PT;PRT;184;"Beja";district;"02";19046
+"Portugal";PT;PRT;184;"Braga";district;"03";19047
+"Portugal";PT;PRT;184;"Bragança";district;"04";19048
+"Portugal";PT;PRT;184;"Castelo Branco";district;"05";19049
+"Portugal";PT;PRT;184;"Coimbra";district;"06";19050
+"Portugal";PT;PRT;184;"Faro";district;"08";19052
+"Portugal";PT;PRT;184;"Guarda";district;"09";19053
+"Portugal";PT;PRT;184;"Leiria";district;"10";19054
+"Portugal";PT;PRT;184;"Lisboa";district;"11";19055
+"Portugal";PT;PRT;184;"Portalegre";district;"12";19056
+"Portugal";PT;PRT;184;"Porto";district;"13";19057
+"Portugal";PT;PRT;184;"Região Autónoma da Madeira";autonomous region;"30";17751
+"Portugal";PT;PRT;184;"Região Autónoma dos Açores";autonomous region;"20";17748
+"Portugal";PT;PRT;184;"Santarém";district;"14";19058
+"Portugal";PT;PRT;184;"Setúbal";district;"15";19059
+"Portugal";PT;PRT;184;"Viana do Castelo";district;"16";19060
+"Portugal";PT;PRT;184;"Vila Real";district;"17";19061
+"Portugal";PT;PRT;184;"Viseu";district;"18";19062
+"Portugal";PT;PRT;184;"Évora";district;"07";19051

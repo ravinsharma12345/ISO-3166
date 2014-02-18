@@ -1,0 +1,10 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Austria";AT;AUT;16;"Burgenland";State;"1";12480
+"Austria";AT;AUT;16;"Kärnten";State;"2";12481
+"Austria";AT;AUT;16;"Niederösterreich";State;"3";12485
+"Austria";AT;AUT;16;"Oberösterreich";State;"4";12482
+"Austria";AT;AUT;16;"Salzburg";State;"5";12479
+"Austria";AT;AUT;16;"Steiermark";State;"6";12483
+"Austria";AT;AUT;16;"Tirol";State;"7";12486
+"Austria";AT;AUT;16;"Vorarlberg";State;"8";12484
+"Austria";AT;AUT;16;"Wien";State;"9";12478

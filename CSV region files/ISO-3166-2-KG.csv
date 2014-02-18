@@ -1,0 +1,9 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Kyrgyzstan";KG;KGZ;123;"Batken";region;"B";15070
+"Kyrgyzstan";KG;KGZ;123;"Bishkek";city;"GB";15072
+"Kyrgyzstan";KG;KGZ;123;"Chü";region;"C";15078
+"Kyrgyzstan";KG;KGZ;123;"Jalal-Abad";region;"J";15077
+"Kyrgyzstan";KG;KGZ;123;"Naryn";region;"N";15071
+"Kyrgyzstan";KG;KGZ;123;"Osh";region;"O";15069
+"Kyrgyzstan";KG;KGZ;123;"Talas";region;"T";15075
+"Kyrgyzstan";KG;KGZ;123;"Ysyk-Köl";region;"Y";15074

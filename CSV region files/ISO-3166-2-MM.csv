@@ -1,0 +1,15 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Myanmar";MM;MMR;155;"Ayeyarwady";division;"07";15608
+"Myanmar";MM;MMR;155;"Bago";division;"02";15609
+"Myanmar";MM;MMR;155;"Chin";state;"14";15617
+"Myanmar";MM;MMR;155;"Kachin";state;"11";15610
+"Myanmar";MM;MMR;155;"Kayah";state;"12";15618
+"Myanmar";MM;MMR;155;"Kayin";state;"13";15611
+"Myanmar";MM;MMR;155;"Magway";division;"03";15612
+"Myanmar";MM;MMR;155;"Mandalay";division;"04";15620
+"Myanmar";MM;MMR;155;"Mon";state;"15";15613
+"Myanmar";MM;MMR;155;"Rakhine";state;"16";15619
+"Myanmar";MM;MMR;155;"Sagaing";division;"01";15614
+"Myanmar";MM;MMR;155;"Shan";state;"17";15615
+"Myanmar";MM;MMR;155;"Tanintharyi";division;"05";15607
+"Myanmar";MM;MMR;155;"Yangon";division;"06";15616
