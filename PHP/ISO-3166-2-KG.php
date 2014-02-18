@@ -1,11 +1,11 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['B'] = "Batken";
-$ISO-3166-2['GB'] = "Bishkek";
-$ISO-3166-2['C'] = "Chü";
-$ISO-3166-2['J'] = "Jalal-Abad";
-$ISO-3166-2['N'] = "Naryn";
-$ISO-3166-2['O'] = "Osh";
-$ISO-3166-2['T'] = "Talas";
-$ISO-3166-2['Y'] = "Ysyk-Köl";
+$ISO_3166_2 = array();
+$ISO_3166_2['B'] = "Batken";
+$ISO_3166_2['GB'] = "Bishkek";
+$ISO_3166_2['C'] = "Chü";
+$ISO_3166_2['J'] = "Jalal-Abad";
+$ISO_3166_2['N'] = "Naryn";
+$ISO_3166_2['O'] = "Osh";
+$ISO_3166_2['T'] = "Talas";
+$ISO_3166_2['Y'] = "Ysyk-Köl";
 ?>

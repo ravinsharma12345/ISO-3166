@@ -1,12 +1,12 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['1'] = "Burgenland";
-$ISO-3166-2['2'] = "Kärnten";
-$ISO-3166-2['3'] = "Niederösterreich";
-$ISO-3166-2['4'] = "Oberösterreich";
-$ISO-3166-2['5'] = "Salzburg";
-$ISO-3166-2['6'] = "Steiermark";
-$ISO-3166-2['7'] = "Tirol";
-$ISO-3166-2['8'] = "Vorarlberg";
-$ISO-3166-2['9'] = "Wien";
+$ISO_3166_2 = array();
+$ISO_3166_2['1'] = "Burgenland";
+$ISO_3166_2['2'] = "Kärnten";
+$ISO_3166_2['3'] = "Niederösterreich";
+$ISO_3166_2['4'] = "Oberösterreich";
+$ISO_3166_2['5'] = "Salzburg";
+$ISO_3166_2['6'] = "Steiermark";
+$ISO_3166_2['7'] = "Tirol";
+$ISO_3166_2['8'] = "Vorarlberg";
+$ISO_3166_2['9'] = "Wien";
 ?>

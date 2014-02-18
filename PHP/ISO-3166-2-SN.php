@@ -1,17 +1,17 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['DK'] = "Dakar";
-$ISO-3166-2['DB'] = "Diourbel";
-$ISO-3166-2['FK'] = "Fatick";
-$ISO-3166-2['KA'] = "Kaffrine";
-$ISO-3166-2['KL'] = "Kaolack";
-$ISO-3166-2['KD'] = "Kolda";
-$ISO-3166-2['KE'] = "Kédougou";
-$ISO-3166-2['LG'] = "Louga";
-$ISO-3166-2['MT'] = "Matam";
-$ISO-3166-2['SL'] = "Saint-Louis";
-$ISO-3166-2['SE'] = "Sédhiou";
-$ISO-3166-2['TC'] = "Tambacounda";
-$ISO-3166-2['TH'] = "Thiès";
-$ISO-3166-2['ZG'] = "Ziguinchor";
+$ISO_3166_2 = array();
+$ISO_3166_2['DK'] = "Dakar";
+$ISO_3166_2['DB'] = "Diourbel";
+$ISO_3166_2['FK'] = "Fatick";
+$ISO_3166_2['KA'] = "Kaffrine";
+$ISO_3166_2['KL'] = "Kaolack";
+$ISO_3166_2['KD'] = "Kolda";
+$ISO_3166_2['KE'] = "Kédougou";
+$ISO_3166_2['LG'] = "Louga";
+$ISO_3166_2['MT'] = "Matam";
+$ISO_3166_2['SL'] = "Saint-Louis";
+$ISO_3166_2['SE'] = "Sédhiou";
+$ISO_3166_2['TC'] = "Tambacounda";
+$ISO_3166_2['TH'] = "Thiès";
+$ISO_3166_2['ZG'] = "Ziguinchor";
 ?>

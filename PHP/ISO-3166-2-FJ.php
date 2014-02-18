@@ -1,8 +1,8 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['C'] = "Central";
-$ISO-3166-2['E'] = "Eastern";
-$ISO-3166-2['N'] = "Northern";
-$ISO-3166-2['R'] = "Rotuma";
-$ISO-3166-2['W'] = "Western";
+$ISO_3166_2 = array();
+$ISO_3166_2['C'] = "Central";
+$ISO_3166_2['E'] = "Eastern";
+$ISO_3166_2['N'] = "Northern";
+$ISO_3166_2['R'] = "Rotuma";
+$ISO_3166_2['W'] = "Western";
 ?>

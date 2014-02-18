@@ -1,7 +1,7 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['TRK'] = "Chuuk";
-$ISO-3166-2['KSA'] = "Kosrae";
-$ISO-3166-2['PNI'] = "Pohnpei";
-$ISO-3166-2['YAP'] = "Yap";
+$ISO_3166_2 = array();
+$ISO_3166_2['TRK'] = "Chuuk";
+$ISO_3166_2['KSA'] = "Kosrae";
+$ISO_3166_2['PNI'] = "Pohnpei";
+$ISO_3166_2['YAP'] = "Yap";
 ?>

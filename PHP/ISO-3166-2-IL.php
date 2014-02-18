@@ -1,9 +1,9 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['D'] = "HaDarom";
-$ISO-3166-2['HA'] = "Haifa";
-$ISO-3166-2['M'] = "HaMerkaz";
-$ISO-3166-2['Z'] = "HaZafon";
-$ISO-3166-2['TA'] = "Tel-Aviv";
-$ISO-3166-2['JM'] = "Yerushalayim";
+$ISO_3166_2 = array();
+$ISO_3166_2['D'] = "HaDarom";
+$ISO_3166_2['HA'] = "Haifa";
+$ISO_3166_2['M'] = "HaMerkaz";
+$ISO_3166_2['Z'] = "HaZafon";
+$ISO_3166_2['TA'] = "Tel-Aviv";
+$ISO_3166_2['JM'] = "Yerushalayim";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['GB'] = "Gorno-Badakhshan";
-$ISO-3166-2['KT'] = "Khatlon";
-$ISO-3166-2['SU'] = "Sughd";
+$ISO_3166_2 = array();
+$ISO_3166_2['GB'] = "Gorno-Badakhshan";
+$ISO_3166_2['KT'] = "Khatlon";
+$ISO_3166_2['SU'] = "Sughd";
 ?>

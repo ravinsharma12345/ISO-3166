@@ -1,13 +1,13 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['BA'] = "Barima-Waini";
-$ISO-3166-2['CU'] = "Cuyuni-Mazaruni";
-$ISO-3166-2['DE'] = "Demerara-Mahaica";
-$ISO-3166-2['EB'] = "East Berbice-Corentyne";
-$ISO-3166-2['ES'] = "Essequibo Islands-West Demerara";
-$ISO-3166-2['MA'] = "Mahaica-Berbice";
-$ISO-3166-2['PM'] = "Pomeroon-Supenaam";
-$ISO-3166-2['PT'] = "Potaro-Siparuni";
-$ISO-3166-2['UD'] = "Upper Demerara-Berbice";
-$ISO-3166-2['UT'] = "Upper Takutu-Upper Essequibo";
+$ISO_3166_2 = array();
+$ISO_3166_2['BA'] = "Barima-Waini";
+$ISO_3166_2['CU'] = "Cuyuni-Mazaruni";
+$ISO_3166_2['DE'] = "Demerara-Mahaica";
+$ISO_3166_2['EB'] = "East Berbice-Corentyne";
+$ISO_3166_2['ES'] = "Essequibo Islands-West Demerara";
+$ISO_3166_2['MA'] = "Mahaica-Berbice";
+$ISO_3166_2['PM'] = "Pomeroon-Supenaam";
+$ISO_3166_2['PT'] = "Potaro-Siparuni";
+$ISO_3166_2['UD'] = "Upper Demerara-Berbice";
+$ISO_3166_2['UT'] = "Upper Takutu-Upper Essequibo";
 ?>

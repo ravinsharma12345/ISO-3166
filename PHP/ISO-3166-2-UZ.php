@@ -1,17 +1,17 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AN'] = "Andijon";
-$ISO-3166-2['BU'] = "Buxoro";
-$ISO-3166-2['FA'] = "Farg‘ona";
-$ISO-3166-2['JI'] = "Jizzax";
-$ISO-3166-2['NG'] = "Namangan";
-$ISO-3166-2['NW'] = "Navoiy";
-$ISO-3166-2['QA'] = "Qashqadaryo";
-$ISO-3166-2['QR'] = "Qoraqalpog‘iston Respublikasi";
-$ISO-3166-2['SA'] = "Samarqand";
-$ISO-3166-2['SI'] = "Sirdaryo";
-$ISO-3166-2['SU'] = "Surxondaryo";
-$ISO-3166-2['TO'] = "Toshkent";
-$ISO-3166-2['TK'] = "Toshkent City";
-$ISO-3166-2['XO'] = "Xorazm";
+$ISO_3166_2 = array();
+$ISO_3166_2['AN'] = "Andijon";
+$ISO_3166_2['BU'] = "Buxoro";
+$ISO_3166_2['FA'] = "Farg‘ona";
+$ISO_3166_2['JI'] = "Jizzax";
+$ISO_3166_2['NG'] = "Namangan";
+$ISO_3166_2['NW'] = "Navoiy";
+$ISO_3166_2['QA'] = "Qashqadaryo";
+$ISO_3166_2['QR'] = "Qoraqalpog‘iston Respublikasi";
+$ISO_3166_2['SA'] = "Samarqand";
+$ISO_3166_2['SI'] = "Sirdaryo";
+$ISO_3166_2['SU'] = "Surxondaryo";
+$ISO_3166_2['TO'] = "Toshkent";
+$ISO_3166_2['TK'] = "Toshkent City";
+$ISO_3166_2['XO'] = "Xorazm";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['BE'] = "Belait";
-$ISO-3166-2['BM'] = "Brunei-Muara";
-$ISO-3166-2['TE'] = "Temburong";
-$ISO-3166-2['TU'] = "Tutong";
+$ISO_3166_2 = array();
+$ISO_3166_2['BE'] = "Belait";
+$ISO_3166_2['BM'] = "Brunei-Muara";
+$ISO_3166_2['TE'] = "Temburong";
+$ISO_3166_2['TU'] = "Tutong";
 ?>

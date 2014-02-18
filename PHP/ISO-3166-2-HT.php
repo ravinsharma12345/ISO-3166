@@ -1,13 +1,13 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AR'] = "Artibonite";
-$ISO-3166-2['CE'] = "Centre";
-$ISO-3166-2['GA'] = "Grande-Anse";
-$ISO-3166-2['NI'] = "Nippes";
-$ISO-3166-2['ND'] = "Nord";
-$ISO-3166-2['NE'] = "Nord-Est";
-$ISO-3166-2['NO'] = "Nord-Ouest";
-$ISO-3166-2['OU'] = "Ouest";
-$ISO-3166-2['SD'] = "Sud";
-$ISO-3166-2['SE'] = "Sud-Est";
+$ISO_3166_2 = array();
+$ISO_3166_2['AR'] = "Artibonite";
+$ISO_3166_2['CE'] = "Centre";
+$ISO_3166_2['GA'] = "Grande-Anse";
+$ISO_3166_2['NI'] = "Nippes";
+$ISO_3166_2['ND'] = "Nord";
+$ISO_3166_2['NE'] = "Nord-Est";
+$ISO_3166_2['NO'] = "Nord-Ouest";
+$ISO_3166_2['OU'] = "Ouest";
+$ISO_3166_2['SD'] = "Sud";
+$ISO_3166_2['SE'] = "Sud-Est";
 ?>

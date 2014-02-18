@@ -1,14 +1,14 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['DA'] = "Ad Dawhah";
-$ISO-3166-2['GH'] = "Al Ghuwayriyah";
-$ISO-3166-2['JU'] = "Al Jumayliyah";
-$ISO-3166-2['KH'] = "Al Khawr wa adh Dhakhīrah";
-$ISO-3166-2['WA'] = "Al Wakrah";
-$ISO-3166-2['RA'] = "Ar Rayyan";
-$ISO-3166-2['ZA'] = "Az̧ Z̧a‘āyin";
-$ISO-3166-2['JB'] = "Jariyan al Batnah";
-$ISO-3166-2['MS'] = "Madinat ash Shamal";
-$ISO-3166-2['X1~'] = "Umm Sa'id";
-$ISO-3166-2['US'] = "Umm Salal";
+$ISO_3166_2 = array();
+$ISO_3166_2['DA'] = "Ad Dawhah";
+$ISO_3166_2['GH'] = "Al Ghuwayriyah";
+$ISO_3166_2['JU'] = "Al Jumayliyah";
+$ISO_3166_2['KH'] = "Al Khawr wa adh Dhakhīrah";
+$ISO_3166_2['WA'] = "Al Wakrah";
+$ISO_3166_2['RA'] = "Ar Rayyan";
+$ISO_3166_2['ZA'] = "Az̧ Z̧a‘āyin";
+$ISO_3166_2['JB'] = "Jariyan al Batnah";
+$ISO_3166_2['MS'] = "Madinat ash Shamal";
+$ISO_3166_2['X1~'] = "Umm Sa'id";
+$ISO_3166_2['US'] = "Umm Salal";
 ?>

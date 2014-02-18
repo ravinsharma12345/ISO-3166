@@ -1,9 +1,9 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AS'] = "Ali Sabieh";
-$ISO-3166-2['AR'] = "Arta";
-$ISO-3166-2['DI'] = "Dikhil";
-$ISO-3166-2['DJ'] = "Djibouti";
-$ISO-3166-2['OB'] = "Obock";
-$ISO-3166-2['TA'] = "Tadjourah";
+$ISO_3166_2 = array();
+$ISO_3166_2['AS'] = "Ali Sabieh";
+$ISO_3166_2['AR'] = "Arta";
+$ISO_3166_2['DI'] = "Dikhil";
+$ISO_3166_2['DJ'] = "Djibouti";
+$ISO_3166_2['OB'] = "Obock";
+$ISO_3166_2['TA'] = "Tadjourah";
 ?>

@@ -1,14 +1,14 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AG'] = "Aragac?otn";
-$ISO-3166-2['AR'] = "Ararat";
-$ISO-3166-2['AV'] = "Armavir";
-$ISO-3166-2['ER'] = "Erevan";
-$ISO-3166-2['GR'] = "Gegark'unik'";
-$ISO-3166-2['KT'] = "Kotayk'";
-$ISO-3166-2['LO'] = "Lo?y";
-$ISO-3166-2['SU'] = "Syunik'";
-$ISO-3166-2['TV'] = "Tavuš";
-$ISO-3166-2['VD'] = "Vayoc Jor";
-$ISO-3166-2['SH'] = "Širak";
+$ISO_3166_2 = array();
+$ISO_3166_2['AG'] = "Aragac?otn";
+$ISO_3166_2['AR'] = "Ararat";
+$ISO_3166_2['AV'] = "Armavir";
+$ISO_3166_2['ER'] = "Erevan";
+$ISO_3166_2['GR'] = "Gegark'unik'";
+$ISO_3166_2['KT'] = "Kotayk'";
+$ISO_3166_2['LO'] = "Lo?y";
+$ISO_3166_2['SU'] = "Syunik'";
+$ISO_3166_2['TV'] = "Tavuš";
+$ISO_3166_2['VD'] = "Vayoc Jor";
+$ISO_3166_2['SH'] = "Širak";
 ?>

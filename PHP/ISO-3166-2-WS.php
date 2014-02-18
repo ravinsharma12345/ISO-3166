@@ -1,14 +1,14 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AA'] = "A'ana";
-$ISO-3166-2['AL'] = "Aiga-i-le-Tai";
-$ISO-3166-2['AT'] = "Atua";
-$ISO-3166-2['FA'] = "Fa'asaleleaga";
-$ISO-3166-2['GE'] = "Gaga'emauga";
-$ISO-3166-2['GI'] = "Gagaifomauga";
-$ISO-3166-2['PA'] = "Palauli";
-$ISO-3166-2['SA'] = "Satupa'itea";
-$ISO-3166-2['TU'] = "Tuamasaga";
-$ISO-3166-2['VF'] = "Va'a-o-Fonoti";
-$ISO-3166-2['VS'] = "Vaisigano";
+$ISO_3166_2 = array();
+$ISO_3166_2['AA'] = "A'ana";
+$ISO_3166_2['AL'] = "Aiga-i-le-Tai";
+$ISO_3166_2['AT'] = "Atua";
+$ISO_3166_2['FA'] = "Fa'asaleleaga";
+$ISO_3166_2['GE'] = "Gaga'emauga";
+$ISO_3166_2['GI'] = "Gagaifomauga";
+$ISO_3166_2['PA'] = "Palauli";
+$ISO_3166_2['SA'] = "Satupa'itea";
+$ISO_3166_2['TU'] = "Tuamasaga";
+$ISO_3166_2['VF'] = "Va'a-o-Fonoti";
+$ISO_3166_2['VS'] = "Vaisigano";
 ?>

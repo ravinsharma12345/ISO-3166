@@ -1,16 +1,16 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['VAN'] = "Antwerpen";
-$ISO-3166-2['WBR'] = "Brabant Wallon";
-$ISO-3166-2['BRU'] = "Brussels";
-$ISO-3166-2['VLG'] = "Flemish Region";
-$ISO-3166-2['WHT'] = "Hainaut";
-$ISO-3166-2['VLI'] = "Limburg";
-$ISO-3166-2['WLG'] = "Liège";
-$ISO-3166-2['WLX'] = "Luxembourg";
-$ISO-3166-2['WNA'] = "Namur";
-$ISO-3166-2['VOV'] = "Oost-Vlaanderen";
-$ISO-3166-2['VBR'] = "Vlaams Brabant";
-$ISO-3166-2['WAL'] = "Wallonia";
-$ISO-3166-2['VWV'] = "West-Vlaanderen";
+$ISO_3166_2 = array();
+$ISO_3166_2['VAN'] = "Antwerpen";
+$ISO_3166_2['WBR'] = "Brabant Wallon";
+$ISO_3166_2['BRU'] = "Brussels";
+$ISO_3166_2['VLG'] = "Flemish Region";
+$ISO_3166_2['WHT'] = "Hainaut";
+$ISO_3166_2['VLI'] = "Limburg";
+$ISO_3166_2['WLG'] = "Liège";
+$ISO_3166_2['WLX'] = "Luxembourg";
+$ISO_3166_2['WNA'] = "Namur";
+$ISO_3166_2['VOV'] = "Oost-Vlaanderen";
+$ISO_3166_2['VBR'] = "Vlaams Brabant";
+$ISO_3166_2['WAL'] = "Wallonia";
+$ISO_3166_2['VWV'] = "West-Vlaanderen";
 ?>

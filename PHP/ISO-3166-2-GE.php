@@ -1,15 +1,15 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AB'] = "Abkhazia";
-$ISO-3166-2['AJ'] = "Ajaria";
-$ISO-3166-2['GU'] = "Guria";
-$ISO-3166-2['IM'] = "Imereti";
-$ISO-3166-2['KA'] = "Kakheti";
-$ISO-3166-2['KK'] = "Kvemo Kartli";
-$ISO-3166-2['MM'] = "Mtskheta-Mtianeti";
-$ISO-3166-2['RL'] = "Racha-Lechkhumi [and] Kvemo Svaneti";
-$ISO-3166-2['SZ'] = "Samegrelo-Zemo Svaneti";
-$ISO-3166-2['SJ'] = "Samtskhe-Javakheti";
-$ISO-3166-2['SK'] = "Shida Kartli";
-$ISO-3166-2['TB'] = "Tbilisi";
+$ISO_3166_2 = array();
+$ISO_3166_2['AB'] = "Abkhazia";
+$ISO_3166_2['AJ'] = "Ajaria";
+$ISO_3166_2['GU'] = "Guria";
+$ISO_3166_2['IM'] = "Imereti";
+$ISO_3166_2['KA'] = "Kakheti";
+$ISO_3166_2['KK'] = "Kvemo Kartli";
+$ISO_3166_2['MM'] = "Mtskheta-Mtianeti";
+$ISO_3166_2['RL'] = "Racha-Lechkhumi [and] Kvemo Svaneti";
+$ISO_3166_2['SZ'] = "Samegrelo-Zemo Svaneti";
+$ISO_3166_2['SJ'] = "Samtskhe-Javakheti";
+$ISO_3166_2['SK'] = "Shida Kartli";
+$ISO_3166_2['TB'] = "Tbilisi";
 ?>

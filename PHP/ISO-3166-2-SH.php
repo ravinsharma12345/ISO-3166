@@ -1,9 +1,9 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AC'] = "Ascension";
-$ISO-3166-2['AC'] = "Ascension";
-$ISO-3166-2['HL'] = "Saint Helena";
-$ISO-3166-2['SH'] = "Saint Helena";
-$ISO-3166-2['TA'] = "Tristan da Cunha";
-$ISO-3166-2['TA'] = "Tristan da Cunha";
+$ISO_3166_2 = array();
+$ISO_3166_2['AC'] = "Ascension";
+$ISO_3166_2['AC'] = "Ascension";
+$ISO_3166_2['HL'] = "Saint Helena";
+$ISO_3166_2['SH'] = "Saint Helena";
+$ISO_3166_2['TA'] = "Tristan da Cunha";
+$ISO_3166_2['TA'] = "Tristan da Cunha";
 ?>

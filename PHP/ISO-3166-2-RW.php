@@ -1,8 +1,8 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['02'] = "Est";
-$ISO-3166-2['03'] = "Nord";
-$ISO-3166-2['04'] = "Ouest";
-$ISO-3166-2['05'] = "Sud";
-$ISO-3166-2['01'] = "Ville de Kigali";
+$ISO_3166_2 = array();
+$ISO_3166_2['02'] = "Est";
+$ISO_3166_2['03'] = "Nord";
+$ISO_3166_2['04'] = "Ouest";
+$ISO_3166_2['05'] = "Sud";
+$ISO_3166_2['01'] = "Ville de Kigali";
 ?>

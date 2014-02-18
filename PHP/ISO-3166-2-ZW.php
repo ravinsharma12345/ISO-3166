@@ -1,13 +1,13 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['BU'] = "Bulawayo";
-$ISO-3166-2['HA'] = "Harare";
-$ISO-3166-2['MA'] = "Manicaland";
-$ISO-3166-2['MC'] = "Mashonaland Central";
-$ISO-3166-2['ME'] = "Mashonaland East";
-$ISO-3166-2['MW'] = "Mashonaland West";
-$ISO-3166-2['MV'] = "Masvingo";
-$ISO-3166-2['MN'] = "Matabeleland North";
-$ISO-3166-2['MS'] = "Matabeleland South";
-$ISO-3166-2['MI'] = "Midlands";
+$ISO_3166_2 = array();
+$ISO_3166_2['BU'] = "Bulawayo";
+$ISO_3166_2['HA'] = "Harare";
+$ISO_3166_2['MA'] = "Manicaland";
+$ISO_3166_2['MC'] = "Mashonaland Central";
+$ISO_3166_2['ME'] = "Mashonaland East";
+$ISO_3166_2['MW'] = "Mashonaland West";
+$ISO_3166_2['MV'] = "Masvingo";
+$ISO_3166_2['MN'] = "Matabeleland North";
+$ISO_3166_2['MS'] = "Matabeleland South";
+$ISO_3166_2['MI'] = "Midlands";
 ?>

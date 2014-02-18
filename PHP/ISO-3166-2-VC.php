@@ -1,9 +1,9 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['01'] = "Charlotte";
-$ISO-3166-2['06'] = "Grenadines";
-$ISO-3166-2['02'] = "Saint Andrew";
-$ISO-3166-2['03'] = "Saint David";
-$ISO-3166-2['04'] = "Saint George";
-$ISO-3166-2['05'] = "Saint Patrick";
+$ISO_3166_2 = array();
+$ISO_3166_2['01'] = "Charlotte";
+$ISO_3166_2['06'] = "Grenadines";
+$ISO_3166_2['02'] = "Saint Andrew";
+$ISO_3166_2['03'] = "Saint David";
+$ISO_3166_2['04'] = "Saint George";
+$ISO_3166_2['05'] = "Saint Patrick";
 ?>

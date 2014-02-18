@@ -1,18 +1,18 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AI'] = "Aisén del General Carlos Ibáñez del Campo";
-$ISO-3166-2['AN'] = "Antofagasta";
-$ISO-3166-2['AR'] = "Araucanía";
-$ISO-3166-2['AP'] = "Arica y Parinacota";
-$ISO-3166-2['AT'] = "Atacama";
-$ISO-3166-2['BI'] = "Bío-Bío";
-$ISO-3166-2['CO'] = "Coquimbo";
-$ISO-3166-2['LI'] = "Libertador General Bernardo O'Higgins";
-$ISO-3166-2['LL'] = "Los Lagos";
-$ISO-3166-2['LR'] = "Los Ríos";
-$ISO-3166-2['MA'] = "Magallanes";
-$ISO-3166-2['ML'] = "Maule";
-$ISO-3166-2['RM'] = "Región Metropolitana de Santiago";
-$ISO-3166-2['TA'] = "Tarapacá";
-$ISO-3166-2['VS'] = "Valparaíso";
+$ISO_3166_2 = array();
+$ISO_3166_2['AI'] = "Aisén del General Carlos Ibáñez del Campo";
+$ISO_3166_2['AN'] = "Antofagasta";
+$ISO_3166_2['AR'] = "Araucanía";
+$ISO_3166_2['AP'] = "Arica y Parinacota";
+$ISO_3166_2['AT'] = "Atacama";
+$ISO_3166_2['BI'] = "Bío-Bío";
+$ISO_3166_2['CO'] = "Coquimbo";
+$ISO_3166_2['LI'] = "Libertador General Bernardo O'Higgins";
+$ISO_3166_2['LL'] = "Los Lagos";
+$ISO_3166_2['LR'] = "Los Ríos";
+$ISO_3166_2['MA'] = "Magallanes";
+$ISO_3166_2['ML'] = "Maule";
+$ISO_3166_2['RM'] = "Región Metropolitana de Santiago";
+$ISO_3166_2['TA'] = "Tarapacá";
+$ISO_3166_2['VS'] = "Valparaíso";
 ?>

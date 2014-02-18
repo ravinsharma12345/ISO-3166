@@ -1,12 +1,12 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['81'] = "Baker Island";
-$ISO-3166-2['84'] = "Howland Island";
-$ISO-3166-2['86'] = "Jarvis Island";
-$ISO-3166-2['67'] = "Johnston Atoll";
-$ISO-3166-2['89'] = "Kingman Reef";
-$ISO-3166-2['71'] = "Midway Islands";
-$ISO-3166-2['76'] = "Navassa Island";
-$ISO-3166-2['95'] = "Palmyra Atoll";
-$ISO-3166-2['79'] = "Wake Island";
+$ISO_3166_2 = array();
+$ISO_3166_2['81'] = "Baker Island";
+$ISO_3166_2['84'] = "Howland Island";
+$ISO_3166_2['86'] = "Jarvis Island";
+$ISO_3166_2['67'] = "Johnston Atoll";
+$ISO_3166_2['89'] = "Kingman Reef";
+$ISO_3166_2['71'] = "Midway Islands";
+$ISO_3166_2['76'] = "Navassa Island";
+$ISO_3166_2['95'] = "Palmyra Atoll";
+$ISO_3166_2['79'] = "Wake Island";
 ?>

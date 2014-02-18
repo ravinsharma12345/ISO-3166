@@ -1,5 +1,5 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['06~'] = "North Side";
-$ISO-3166-2['07~'] = "West Bay";
+$ISO_3166_2 = array();
+$ISO_3166_2['06~'] = "North Side";
+$ISO_3166_2['07~'] = "West Bay";
 ?>

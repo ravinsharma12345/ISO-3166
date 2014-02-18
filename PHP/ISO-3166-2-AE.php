@@ -1,10 +1,10 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AZ'] = "Abu Z¸aby [Abu Dhabi]";
-$ISO-3166-2['AJ'] = "Ajman";
-$ISO-3166-2['FU'] = "Al Fujayrah";
-$ISO-3166-2['SH'] = "Ash Shariqah [Sharjah]";
-$ISO-3166-2['DU'] = "Dubayy [Dubai]";
-$ISO-3166-2['RK'] = "Ra’s al Khaymah";
-$ISO-3166-2['UQ'] = "Umm al Qaywayn";
+$ISO_3166_2 = array();
+$ISO_3166_2['AZ'] = "Abu Z¸aby [Abu Dhabi]";
+$ISO_3166_2['AJ'] = "Ajman";
+$ISO_3166_2['FU'] = "Al Fujayrah";
+$ISO_3166_2['SH'] = "Ash Shariqah [Sharjah]";
+$ISO_3166_2['DU'] = "Dubayy [Dubai]";
+$ISO_3166_2['RK'] = "Ra’s al Khaymah";
+$ISO_3166_2['UQ'] = "Umm al Qaywayn";
 ?>

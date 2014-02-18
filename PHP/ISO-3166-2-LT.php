@@ -1,13 +1,13 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AL'] = "Alytaus Apskritis";
-$ISO-3166-2['KU'] = "Kauno Apskritis";
-$ISO-3166-2['KL'] = "Klaipedos Apskritis";
-$ISO-3166-2['MR'] = "Marijampoles Apskritis";
-$ISO-3166-2['PN'] = "Panevežio Apskritis";
-$ISO-3166-2['TA'] = "Taurages Apskritis";
-$ISO-3166-2['TE'] = "Telšiu Apskritis";
-$ISO-3166-2['UT'] = "Utenos Apskritis";
-$ISO-3166-2['VL'] = "Vilniaus Apskritis";
-$ISO-3166-2['SA'] = "Šiauliu Apskritis";
+$ISO_3166_2 = array();
+$ISO_3166_2['AL'] = "Alytaus Apskritis";
+$ISO_3166_2['KU'] = "Kauno Apskritis";
+$ISO_3166_2['KL'] = "Klaipedos Apskritis";
+$ISO_3166_2['MR'] = "Marijampoles Apskritis";
+$ISO_3166_2['PN'] = "Panevežio Apskritis";
+$ISO_3166_2['TA'] = "Taurages Apskritis";
+$ISO_3166_2['TE'] = "Telšiu Apskritis";
+$ISO_3166_2['UT'] = "Utenos Apskritis";
+$ISO_3166_2['VL'] = "Vilniaus Apskritis";
+$ISO_3166_2['SA'] = "Šiauliu Apskritis";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['BO'] = "Bonaire";
-$ISO-3166-2['SA'] = "Saba";
-$ISO-3166-2['SE'] = "Sint Eustatius";
+$ISO_3166_2 = array();
+$ISO_3166_2['BO'] = "Bonaire";
+$ISO_3166_2['SA'] = "Saba";
+$ISO_3166_2['SE'] = "Sint Eustatius";
 ?>

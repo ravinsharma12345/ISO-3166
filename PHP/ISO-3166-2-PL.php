@@ -1,19 +1,19 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['DS'] = "Dolnoslaskie";
-$ISO-3166-2['KP'] = "Kujawsko-pomorskie";
-$ISO-3166-2['LU'] = "Lubelskie";
-$ISO-3166-2['LB'] = "Lubuskie";
-$ISO-3166-2['LD'] = "Lódzkie";
-$ISO-3166-2['MA'] = "Malopolskie";
-$ISO-3166-2['MZ'] = "Mazowieckie";
-$ISO-3166-2['OP'] = "Opolskie";
-$ISO-3166-2['PK'] = "Podkarpackie";
-$ISO-3166-2['PD'] = "Podlaskie";
-$ISO-3166-2['PM'] = "Pomorskie";
-$ISO-3166-2['SL'] = "Slaskie";
-$ISO-3166-2['SK'] = "Swietokrzyskie";
-$ISO-3166-2['WN'] = "Warminsko-mazurskie";
-$ISO-3166-2['WP'] = "Wielkopolskie";
-$ISO-3166-2['ZP'] = "Zachodniopomorskie";
+$ISO_3166_2 = array();
+$ISO_3166_2['DS'] = "Dolnoslaskie";
+$ISO_3166_2['KP'] = "Kujawsko-pomorskie";
+$ISO_3166_2['LU'] = "Lubelskie";
+$ISO_3166_2['LB'] = "Lubuskie";
+$ISO_3166_2['LD'] = "Lódzkie";
+$ISO_3166_2['MA'] = "Malopolskie";
+$ISO_3166_2['MZ'] = "Mazowieckie";
+$ISO_3166_2['OP'] = "Opolskie";
+$ISO_3166_2['PK'] = "Podkarpackie";
+$ISO_3166_2['PD'] = "Podlaskie";
+$ISO_3166_2['PM'] = "Pomorskie";
+$ISO_3166_2['SL'] = "Slaskie";
+$ISO_3166_2['SK'] = "Swietokrzyskie";
+$ISO_3166_2['WN'] = "Warminsko-mazurskie";
+$ISO_3166_2['WP'] = "Wielkopolskie";
+$ISO_3166_2['ZP'] = "Zachodniopomorskie";
 ?>

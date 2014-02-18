@@ -1,13 +1,13 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['CT'] = "Capital Territory (Honiara)";
-$ISO-3166-2['CE'] = "Central";
-$ISO-3166-2['CH'] = "Choiseul";
-$ISO-3166-2['GU'] = "Guadalcanal";
-$ISO-3166-2['IS'] = "Isabel";
-$ISO-3166-2['MK'] = "Makira";
-$ISO-3166-2['ML'] = "Malaita";
-$ISO-3166-2['RB'] = "Rennell and Bellona";
-$ISO-3166-2['TE'] = "Temotu";
-$ISO-3166-2['WE'] = "Western";
+$ISO_3166_2 = array();
+$ISO_3166_2['CT'] = "Capital Territory (Honiara)";
+$ISO_3166_2['CE'] = "Central";
+$ISO_3166_2['CH'] = "Choiseul";
+$ISO_3166_2['GU'] = "Guadalcanal";
+$ISO_3166_2['IS'] = "Isabel";
+$ISO_3166_2['MK'] = "Makira";
+$ISO_3166_2['ML'] = "Malaita";
+$ISO_3166_2['RB'] = "Rennell and Bellona";
+$ISO_3166_2['TE'] = "Temotu";
+$ISO_3166_2['WE'] = "Western";
 ?>

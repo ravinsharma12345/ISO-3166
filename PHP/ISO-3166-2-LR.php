@@ -1,18 +1,18 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['BM'] = "Bomi";
-$ISO-3166-2['BG'] = "Bong";
-$ISO-3166-2['X1~'] = "Gbarpolu";
-$ISO-3166-2['GB'] = "Grand Bassa";
-$ISO-3166-2['CM'] = "Grand Cape Mount";
-$ISO-3166-2['GG'] = "Grand Gedeh";
-$ISO-3166-2['GK'] = "Grand Kru";
-$ISO-3166-2['LO'] = "Lofa";
-$ISO-3166-2['MG'] = "Margibi";
-$ISO-3166-2['MY'] = "Maryland";
-$ISO-3166-2['MO'] = "Montserrado";
-$ISO-3166-2['NI'] = "Nimba";
-$ISO-3166-2['X2~'] = "River Gee";
-$ISO-3166-2['RI'] = "Rivercess";
-$ISO-3166-2['SI'] = "Sinoe";
+$ISO_3166_2 = array();
+$ISO_3166_2['BM'] = "Bomi";
+$ISO_3166_2['BG'] = "Bong";
+$ISO_3166_2['X1~'] = "Gbarpolu";
+$ISO_3166_2['GB'] = "Grand Bassa";
+$ISO_3166_2['CM'] = "Grand Cape Mount";
+$ISO_3166_2['GG'] = "Grand Gedeh";
+$ISO_3166_2['GK'] = "Grand Kru";
+$ISO_3166_2['LO'] = "Lofa";
+$ISO_3166_2['MG'] = "Margibi";
+$ISO_3166_2['MY'] = "Maryland";
+$ISO_3166_2['MO'] = "Montserrado";
+$ISO_3166_2['NI'] = "Nimba";
+$ISO_3166_2['X2~'] = "River Gee";
+$ISO_3166_2['RI'] = "Rivercess";
+$ISO_3166_2['SI'] = "Sinoe";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['D'] = "Diekirch";
-$ISO-3166-2['G'] = "Grevenmacher";
-$ISO-3166-2['L'] = "Luxembourg (fr)";
+$ISO_3166_2 = array();
+$ISO_3166_2['D'] = "Diekirch";
+$ISO_3166_2['G'] = "Grevenmacher";
+$ISO_3166_2['L'] = "Luxembourg (fr)";
 ?>

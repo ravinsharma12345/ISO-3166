@@ -1,12 +1,12 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['CE'] = "Central";
-$ISO-3166-2['GH'] = "Ghanzi";
-$ISO-3166-2['KG'] = "Kgalagadi";
-$ISO-3166-2['KL'] = "Kgatleng";
-$ISO-3166-2['KW'] = "Kweneng";
-$ISO-3166-2['NE'] = "North-East";
-$ISO-3166-2['NW'] = "North-West";
-$ISO-3166-2['SE'] = "South-East";
-$ISO-3166-2['SO'] = "Southern";
+$ISO_3166_2 = array();
+$ISO_3166_2['CE'] = "Central";
+$ISO_3166_2['GH'] = "Ghanzi";
+$ISO_3166_2['KG'] = "Kgalagadi";
+$ISO_3166_2['KL'] = "Kgatleng";
+$ISO_3166_2['KW'] = "Kweneng";
+$ISO_3166_2['NE'] = "North-East";
+$ISO_3166_2['NW'] = "North-West";
+$ISO_3166_2['SE'] = "South-East";
+$ISO_3166_2['SO'] = "Southern";
 ?>

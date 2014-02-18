@@ -1,12 +1,12 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AN'] = "Annobón";
-$ISO-3166-2['BN'] = "Bioko Norte";
-$ISO-3166-2['BS'] = "Bioko Sur";
-$ISO-3166-2['CS'] = "Centro Sur";
-$ISO-3166-2['KN'] = "Kie-Ntem";
-$ISO-3166-2['LI'] = "Litoral";
-$ISO-3166-2['C'] = "Región Continental";
-$ISO-3166-2['I'] = "Región Insular";
-$ISO-3166-2['WN'] = "Wele-Nzás";
+$ISO_3166_2 = array();
+$ISO_3166_2['AN'] = "Annobón";
+$ISO_3166_2['BN'] = "Bioko Norte";
+$ISO_3166_2['BS'] = "Bioko Sur";
+$ISO_3166_2['CS'] = "Centro Sur";
+$ISO_3166_2['KN'] = "Kie-Ntem";
+$ISO_3166_2['LI'] = "Litoral";
+$ISO_3166_2['C'] = "Región Continental";
+$ISO_3166_2['I'] = "Región Insular";
+$ISO_3166_2['WN'] = "Wele-Nzás";
 ?>

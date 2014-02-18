@@ -1,7 +1,7 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['HH'] = "Hhohho";
-$ISO-3166-2['LU'] = "Lubombo";
-$ISO-3166-2['MA'] = "Manzini";
-$ISO-3166-2['SH'] = "Shiselweni";
+$ISO_3166_2 = array();
+$ISO_3166_2['HH'] = "Hhohho";
+$ISO_3166_2['LU'] = "Lubombo";
+$ISO_3166_2['MA'] = "Manzini";
+$ISO_3166_2['SH'] = "Shiselweni";
 ?>

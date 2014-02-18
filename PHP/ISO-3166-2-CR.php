@@ -1,10 +1,10 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['A'] = "Alajuela";
-$ISO-3166-2['C'] = "Cartago";
-$ISO-3166-2['G'] = "Guanacaste";
-$ISO-3166-2['H'] = "Heredia";
-$ISO-3166-2['L'] = "Limón";
-$ISO-3166-2['P'] = "Puntarenas";
-$ISO-3166-2['SJ'] = "San José";
+$ISO_3166_2 = array();
+$ISO_3166_2['A'] = "Alajuela";
+$ISO_3166_2['C'] = "Cartago";
+$ISO_3166_2['G'] = "Guanacaste";
+$ISO_3166_2['H'] = "Heredia";
+$ISO_3166_2['L'] = "Limón";
+$ISO_3166_2['P'] = "Puntarenas";
+$ISO_3166_2['SJ'] = "San José";
 ?>

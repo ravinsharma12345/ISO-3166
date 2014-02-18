@@ -1,7 +1,7 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['E'] = "Eastern";
-$ISO-3166-2['N'] = "Northern";
-$ISO-3166-2['S'] = "Southern";
-$ISO-3166-2['W'] = "Western Area (Freetown)";
+$ISO_3166_2 = array();
+$ISO_3166_2['E'] = "Eastern";
+$ISO_3166_2['N'] = "Northern";
+$ISO_3166_2['S'] = "Southern";
+$ISO_3166_2['W'] = "Western Area (Freetown)";
 ?>

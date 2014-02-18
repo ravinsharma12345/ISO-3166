@@ -1,5 +1,5 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['P'] = "Príncipe";
-$ISO-3166-2['S'] = "São Tomé";
+$ISO_3166_2 = array();
+$ISO_3166_2['P'] = "Príncipe";
+$ISO_3166_2['S'] = "São Tomé";
 ?>

@@ -1,14 +1,14 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['DEV'] = "Devonshire";
-$ISO-3166-2['HAM'] = "Hamilton";
-$ISO-3166-2['HA'] = "Hamilton municipality";
-$ISO-3166-2['PAG'] = "Paget";
-$ISO-3166-2['PEM'] = "Pembroke";
-$ISO-3166-2['SGE'] = "Saint George";
-$ISO-3166-2['SG'] = "Saint George municipality";
-$ISO-3166-2['SAN'] = "Sandys";
-$ISO-3166-2['SMI'] = "Smiths";
-$ISO-3166-2['SOU'] = "Southampton";
-$ISO-3166-2['WAR'] = "Warwick";
+$ISO_3166_2 = array();
+$ISO_3166_2['DEV'] = "Devonshire";
+$ISO_3166_2['HAM'] = "Hamilton";
+$ISO_3166_2['HA'] = "Hamilton municipality";
+$ISO_3166_2['PAG'] = "Paget";
+$ISO_3166_2['PEM'] = "Pembroke";
+$ISO_3166_2['SGE'] = "Saint George";
+$ISO_3166_2['SG'] = "Saint George municipality";
+$ISO_3166_2['SAN'] = "Sandys";
+$ISO_3166_2['SMI'] = "Smiths";
+$ISO_3166_2['SOU'] = "Southampton";
+$ISO_3166_2['WAR'] = "Warwick";
 ?>

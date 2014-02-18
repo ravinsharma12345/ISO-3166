@@ -1,11 +1,11 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AK'] = "Aakkar";
-$ISO-3166-2['BH'] = "Baalbek-Hermel";
-$ISO-3166-2['BA'] = "Beirut";
-$ISO-3166-2['BI'] = "El Béqaa";
-$ISO-3166-2['JL'] = "Jabal Loubnâne";
-$ISO-3166-2['AS'] = "Loubnâne ech Chemâli";
-$ISO-3166-2['JA'] = "Loubnâne ej Jnoûbi";
-$ISO-3166-2['NA'] = "Nabatîyé";
+$ISO_3166_2 = array();
+$ISO_3166_2['AK'] = "Aakkar";
+$ISO_3166_2['BH'] = "Baalbek-Hermel";
+$ISO_3166_2['BA'] = "Beirut";
+$ISO_3166_2['BI'] = "El Béqaa";
+$ISO_3166_2['JL'] = "Jabal Loubnâne";
+$ISO_3166_2['AS'] = "Loubnâne ech Chemâli";
+$ISO_3166_2['JA'] = "Loubnâne ej Jnoûbi";
+$ISO_3166_2['NA'] = "Nabatîyé";
 ?>

@@ -1,9 +1,9 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['01'] = "Central Singapore";
-$ISO-3166-2['02'] = "North East";
-$ISO-3166-2['03'] = "North West";
-$ISO-3166-2['X1~'] = "Singapore - No State";
-$ISO-3166-2['04'] = "South East";
-$ISO-3166-2['05'] = "South West";
+$ISO_3166_2 = array();
+$ISO_3166_2['01'] = "Central Singapore";
+$ISO_3166_2['02'] = "North East";
+$ISO_3166_2['03'] = "North West";
+$ISO_3166_2['X1~'] = "Singapore - No State";
+$ISO_3166_2['04'] = "South East";
+$ISO_3166_2['05'] = "South West";
 ?>

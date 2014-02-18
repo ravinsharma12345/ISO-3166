@@ -1,15 +1,15 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['AL'] = "Alibori";
-$ISO-3166-2['AK'] = "Atakora";
-$ISO-3166-2['AQ'] = "Atlantique";
-$ISO-3166-2['BO'] = "Borgou";
-$ISO-3166-2['CO'] = "Collines";
-$ISO-3166-2['DO'] = "Donga";
-$ISO-3166-2['KO'] = "Kouffo";
-$ISO-3166-2['LI'] = "Littoral";
-$ISO-3166-2['MO'] = "Mono";
-$ISO-3166-2['OU'] = "Ouémé";
-$ISO-3166-2['PL'] = "Plateau";
-$ISO-3166-2['ZO'] = "Zou";
+$ISO_3166_2 = array();
+$ISO_3166_2['AL'] = "Alibori";
+$ISO_3166_2['AK'] = "Atakora";
+$ISO_3166_2['AQ'] = "Atlantique";
+$ISO_3166_2['BO'] = "Borgou";
+$ISO_3166_2['CO'] = "Collines";
+$ISO_3166_2['DO'] = "Donga";
+$ISO_3166_2['KO'] = "Kouffo";
+$ISO_3166_2['LI'] = "Littoral";
+$ISO_3166_2['MO'] = "Mono";
+$ISO_3166_2['OU'] = "Ouémé";
+$ISO_3166_2['PL'] = "Plateau";
+$ISO_3166_2['ZO'] = "Zou";
 ?>

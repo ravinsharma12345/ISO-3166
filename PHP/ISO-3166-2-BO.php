@@ -1,12 +1,12 @@
 <?php
-$ISO-3166-2 = array();
-$ISO-3166-2['H'] = "Chuquisaca";
-$ISO-3166-2['C'] = "Cochabamba";
-$ISO-3166-2['B'] = "El Beni";
-$ISO-3166-2['L'] = "La Paz";
-$ISO-3166-2['O'] = "Oruro";
-$ISO-3166-2['N'] = "Pando";
-$ISO-3166-2['P'] = "Potosí";
-$ISO-3166-2['S'] = "Santa Cruz";
-$ISO-3166-2['T'] = "Tarija";
+$ISO_3166_2 = array();
+$ISO_3166_2['H'] = "Chuquisaca";
+$ISO_3166_2['C'] = "Cochabamba";
+$ISO_3166_2['B'] = "El Beni";
+$ISO_3166_2['L'] = "La Paz";
+$ISO_3166_2['O'] = "Oruro";
+$ISO_3166_2['N'] = "Pando";
+$ISO_3166_2['P'] = "Potosí";
+$ISO_3166_2['S'] = "Santa Cruz";
+$ISO_3166_2['T'] = "Tarija";
 ?>
