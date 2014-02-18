@@ -1,0 +1,58 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"United States";US;USA;240;"Alabama";state;"AL";18655
+"United States";US;USA;240;"Alaska";state;"AK";18683
+"United States";US;USA;240;"American Samoa (see also separate entry under AS)";outlying area;"AS";19386
+"United States";US;USA;240;"Arizona";state;"AZ";18656
+"United States";US;USA;240;"Arkansas";state;"AR";18684
+"United States";US;USA;240;"California";state;"CA";18657
+"United States";US;USA;240;"Colorado";state;"CO";18685
+"United States";US;USA;240;"Connecticut";state;"CT";18658
+"United States";US;USA;240;"Delaware";state;"DE";18686
+"United States";US;USA;240;"District of Columbia";district;"DC";18659
+"United States";US;USA;240;"Florida";state;"FL";18687
+"United States";US;USA;240;"Georgia";state;"GA";18660
+"United States";US;USA;240;"Guam (see also separate entry under GU)";outlying area;"GU";19388
+"United States";US;USA;240;"Hawaii";state;"HI";18688
+"United States";US;USA;240;"Idaho";state;"ID";18661
+"United States";US;USA;240;"Illinois";state;"IL";18674
+"United States";US;USA;240;"Indiana";state;"IN";18662
+"United States";US;USA;240;"Iowa";state;"IA";18663
+"United States";US;USA;240;"Kansas";state;"KS";18675
+"United States";US;USA;240;"Kentucky";state;"KY";18664
+"United States";US;USA;240;"Louisiana";state;"LA";18676
+"United States";US;USA;240;"Maine";state;"ME";18665
+"United States";US;USA;240;"Maryland";state;"MD";18677
+"United States";US;USA;240;"Massachusetts";state;"MA";18666
+"United States";US;USA;240;"Michigan";state;"MI";18678
+"United States";US;USA;240;"Minnesota";state;"MN";18646
+"United States";US;USA;240;"Mississippi";state;"MS";18679
+"United States";US;USA;240;"Missouri";state;"MO";18647
+"United States";US;USA;240;"Montana";state;"MT";18648
+"United States";US;USA;240;"Nebraska";state;"NE";18680
+"United States";US;USA;240;"Nevada";state;"NV";18649
+"United States";US;USA;240;"New Hampshire";state;"NH";18681
+"United States";US;USA;240;"New Jersey";state;"NJ";18650
+"United States";US;USA;240;"New Mexico";state;"NM";18682
+"United States";US;USA;240;"New York";state;"NY";18651
+"United States";US;USA;240;"North Carolina";state;"NC";18645
+"United States";US;USA;240;"North Dakota";state;"ND";18652
+"United States";US;USA;240;"Northern Mariana Islands (see also separate entry under MP)";outlying area;"MP";19390
+"United States";US;USA;240;"Ohio";state;"OH";18689
+"United States";US;USA;240;"Oklahoma";state;"OK";18653
+"United States";US;USA;240;"Oregon";state;"OR";18654
+"United States";US;USA;240;"Pennsylvania";state;"PA";18644
+"United States";US;USA;240;"Puerto Rico (see also separate entry under PR)";outlying area;"PR";19591
+"United States";US;USA;240;"Rhode Island";state;"RI";18667
+"United States";US;USA;240;"South Carolina";state;"SC";18690
+"United States";US;USA;240;"South Dakota";state;"SD";18668
+"United States";US;USA;240;"Tennessee";state;"TN";18643
+"United States";US;USA;240;"Texas";state;"TX";18669
+"United States";US;USA;240;"United States Minor Outlying Islands (see also separate entry under UM)";outlying area;"UM";19597
+"United States";US;USA;240;"Utah";state;"UT";18642
+"United States";US;USA;240;"Vermont";state;"VT";18670
+"United States";US;USA;240;"U.S. (see also separate entry under VI) Virgin Islands";outlying area;"VI";19593
+"United States";US;USA;240;"Virginia";state;"VA";18641
+"United States";US;USA;240;"Washington";state;"WA";18671
+"United States";US;USA;240;"West Virginia";state;"WV";18640
+"United States";US;USA;240;"Wisconsin";state;"WI";18672
+"United States";US;USA;240;"Wyoming";state;"WY";18673

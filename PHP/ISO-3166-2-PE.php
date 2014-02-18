@@ -1,0 +1,30 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['AMA'] = "Amazonas";
+$ISO-3166-2['ANC'] = "Ancash";
+$ISO-3166-2['APU'] = "Apurímac";
+$ISO-3166-2['ARE'] = "Arequipa";
+$ISO-3166-2['AYA'] = "Ayacucho";
+$ISO-3166-2['CAJ'] = "Cajamarca";
+$ISO-3166-2['CUS'] = "Cusco [Cuzco]";
+$ISO-3166-2['CAL'] = "El Callao";
+$ISO-3166-2['HUV'] = "Huancavelica";
+$ISO-3166-2['HUC'] = "Huánuco";
+$ISO-3166-2['ICA'] = "Ica";
+$ISO-3166-2['JUN'] = "Junín";
+$ISO-3166-2['LAL'] = "La Libertad";
+$ISO-3166-2['LAM'] = "Lambayeque";
+$ISO-3166-2['LIM'] = "Lima";
+$ISO-3166-2['LOR'] = "Loreto";
+$ISO-3166-2['MDD'] = "Madre de Dios";
+$ISO-3166-2['MOQ'] = "Moquegua";
+$ISO-3166-2['LMA'] = "Municipalidad Metropolitana de Lima";
+$ISO-3166-2['X1~'] = "Municipalidad Metropolitana de Lima";
+$ISO-3166-2['PAS'] = "Pasco";
+$ISO-3166-2['PIU'] = "Piura";
+$ISO-3166-2['PUN'] = "Puno";
+$ISO-3166-2['SAM'] = "San Martín";
+$ISO-3166-2['TAC'] = "Tacna";
+$ISO-3166-2['TUM'] = "Tumbes";
+$ISO-3166-2['UCA'] = "Ucayali";
+?>

@@ -1,0 +1,34 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['03'] = "Ardabil";
+$ISO-3166-2['02'] = "Az¯arbayjan-e Gharbi";
+$ISO-3166-2['01'] = "Az¯arbayjan-e Sharqi";
+$ISO-3166-2['06'] = "Bushehr";
+$ISO-3166-2['08'] = "Chahar Mah¸all va Bakhtiari";
+$ISO-3166-2['04'] = "Esfahan";
+$ISO-3166-2['14'] = "Fars";
+$ISO-3166-2['19'] = "Gilan";
+$ISO-3166-2['27'] = "Golestan";
+$ISO-3166-2['24'] = "Hamadan";
+$ISO-3166-2['23'] = "Hormozgan";
+$ISO-3166-2['05'] = "Ilam";
+$ISO-3166-2['15'] = "Kerman";
+$ISO-3166-2['17'] = "Kermanshah";
+$ISO-3166-2['09'] = "Khorasan";
+$ISO-3166-2['29'] = "Khorasan-e Janubi";
+$ISO-3166-2['30'] = "Khorasan-e Razavi";
+$ISO-3166-2['31'] = "Khorasan-e Shemali";
+$ISO-3166-2['10'] = "Khuzestan";
+$ISO-3166-2['18'] = "Kohkiluyeh va Buyer Ahmad";
+$ISO-3166-2['16'] = "Kordestan";
+$ISO-3166-2['20'] = "Lorestan";
+$ISO-3166-2['22'] = "Markazi";
+$ISO-3166-2['21'] = "Mazandaran";
+$ISO-3166-2['28'] = "Qazvin";
+$ISO-3166-2['26'] = "Qom";
+$ISO-3166-2['12'] = "Semnan";
+$ISO-3166-2['13'] = "Sistan va Baluchestan";
+$ISO-3166-2['07'] = "Tehran";
+$ISO-3166-2['25'] = "Yazd";
+$ISO-3166-2['11'] = "Zanjan";
+?>

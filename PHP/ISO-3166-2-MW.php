@@ -1,0 +1,34 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['BA'] = "Balaka";
+$ISO-3166-2['BL'] = "Blantyre";
+$ISO-3166-2['C'] = "Central Region";
+$ISO-3166-2['CK'] = "Chikwawa";
+$ISO-3166-2['CR'] = "Chiradzulu";
+$ISO-3166-2['CT'] = "Chitipa";
+$ISO-3166-2['DE'] = "Dedza";
+$ISO-3166-2['DO'] = "Dowa";
+$ISO-3166-2['KR'] = "Karonga";
+$ISO-3166-2['KS'] = "Kasungu";
+$ISO-3166-2['LK'] = "Likoma";
+$ISO-3166-2['LI'] = "Lilongwe";
+$ISO-3166-2['MH'] = "Machinga";
+$ISO-3166-2['MG'] = "Mangochi";
+$ISO-3166-2['MC'] = "Mchinji";
+$ISO-3166-2['MU'] = "Mulanje";
+$ISO-3166-2['MW'] = "Mwanza";
+$ISO-3166-2['MZ'] = "Mzimba";
+$ISO-3166-2['NE'] = "Neno";
+$ISO-3166-2['NB'] = "Nkhata Bay";
+$ISO-3166-2['NK'] = "Nkhotakota";
+$ISO-3166-2['N'] = "Northern Region";
+$ISO-3166-2['NS'] = "Nsanje";
+$ISO-3166-2['NU'] = "Ntcheu";
+$ISO-3166-2['NI'] = "Ntchisi";
+$ISO-3166-2['PH'] = "Phalombe";
+$ISO-3166-2['RU'] = "Rumphi";
+$ISO-3166-2['SA'] = "Salima";
+$ISO-3166-2['S'] = "Southern Region";
+$ISO-3166-2['TH'] = "Thyolo";
+$ISO-3166-2['ZO'] = "Zomba";
+?>

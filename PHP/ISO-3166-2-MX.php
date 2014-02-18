@@ -1,0 +1,35 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['AGU'] = "Aguascalientes";
+$ISO-3166-2['BCN'] = "Baja California";
+$ISO-3166-2['BCS'] = "Baja California Sur";
+$ISO-3166-2['CAM'] = "Campeche";
+$ISO-3166-2['CHP'] = "Chiapas";
+$ISO-3166-2['CHH'] = "Chihuahua";
+$ISO-3166-2['COA'] = "Coahuila";
+$ISO-3166-2['COL'] = "Colima";
+$ISO-3166-2['DIF'] = "Distrito Federal";
+$ISO-3166-2['DUR'] = "Durango";
+$ISO-3166-2['GUA'] = "Guanajuato";
+$ISO-3166-2['GRO'] = "Guerrero";
+$ISO-3166-2['HID'] = "Hidalgo";
+$ISO-3166-2['JAL'] = "Jalisco";
+$ISO-3166-2['MIC'] = "Michoacán";
+$ISO-3166-2['MOR'] = "Morelos";
+$ISO-3166-2['MEX'] = "México";
+$ISO-3166-2['NAY'] = "Nayarit";
+$ISO-3166-2['NLE'] = "Nuevo León";
+$ISO-3166-2['OAX'] = "Oaxaca";
+$ISO-3166-2['PUE'] = "Puebla";
+$ISO-3166-2['QUE'] = "Querétaro";
+$ISO-3166-2['ROO'] = "Quintana Roo";
+$ISO-3166-2['SLP'] = "San Luis Potosí";
+$ISO-3166-2['SIN'] = "Sinaloa";
+$ISO-3166-2['SON'] = "Sonora";
+$ISO-3166-2['TAB'] = "Tabasco";
+$ISO-3166-2['TAM'] = "Tamaulipas";
+$ISO-3166-2['TLA'] = "Tlaxcala";
+$ISO-3166-2['VER'] = "Veracruz";
+$ISO-3166-2['YUC'] = "Yucatán";
+$ISO-3166-2['ZAC'] = "Zacatecas";
+?>

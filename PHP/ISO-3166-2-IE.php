@@ -1,0 +1,34 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['CW'] = "Carlow";
+$ISO-3166-2['CN'] = "Cavan";
+$ISO-3166-2['CE'] = "Clare";
+$ISO-3166-2['C'] = "Connaught";
+$ISO-3166-2['CO'] = "Cork";
+$ISO-3166-2['C'] = "Cork";
+$ISO-3166-2['DL'] = "Donegal";
+$ISO-3166-2['D'] = "Dublin";
+$ISO-3166-2['G'] = "Galway";
+$ISO-3166-2['KY'] = "Kerry";
+$ISO-3166-2['KE'] = "Kildare";
+$ISO-3166-2['KK'] = "Kilkenny";
+$ISO-3166-2['LS'] = "Laois";
+$ISO-3166-2['L'] = "Leinster";
+$ISO-3166-2['LM'] = "Leitrim";
+$ISO-3166-2['LK'] = "Limerick";
+$ISO-3166-2['LD'] = "Longford";
+$ISO-3166-2['LH'] = "Louth";
+$ISO-3166-2['MO'] = "Mayo";
+$ISO-3166-2['MH'] = "Meath";
+$ISO-3166-2['MN'] = "Monaghan";
+$ISO-3166-2['M'] = "Munster";
+$ISO-3166-2['OY'] = "Offaly";
+$ISO-3166-2['RN'] = "Roscommon";
+$ISO-3166-2['SO'] = "Sligo";
+$ISO-3166-2['TA'] = "Tipperary";
+$ISO-3166-2['U'] = "Ulster";
+$ISO-3166-2['WD'] = "Waterford";
+$ISO-3166-2['WH'] = "Westmeath";
+$ISO-3166-2['WX'] = "Wexford";
+$ISO-3166-2['WW'] = "Wicklow";
+?>

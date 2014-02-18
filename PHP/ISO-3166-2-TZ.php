@@ -1,0 +1,29 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['01'] = "Arusha";
+$ISO-3166-2['02'] = "Dar es Salaam";
+$ISO-3166-2['03'] = "Dodoma";
+$ISO-3166-2['04'] = "Iringa";
+$ISO-3166-2['05'] = "Kagera";
+$ISO-3166-2['06'] = "Kaskazini Pemba";
+$ISO-3166-2['07'] = "Kaskazini Unguja";
+$ISO-3166-2['08'] = "Kigoma";
+$ISO-3166-2['09'] = "Kilimanjaro";
+$ISO-3166-2['10'] = "Kusini Pemba";
+$ISO-3166-2['11'] = "Kusini Unguja";
+$ISO-3166-2['12'] = "Lindi";
+$ISO-3166-2['26'] = "Manyara";
+$ISO-3166-2['13'] = "Mara";
+$ISO-3166-2['14'] = "Mbeya";
+$ISO-3166-2['15'] = "Mjini Magharibi";
+$ISO-3166-2['16'] = "Morogoro";
+$ISO-3166-2['17'] = "Mtwara";
+$ISO-3166-2['18'] = "Mwanza";
+$ISO-3166-2['19'] = "Pwani";
+$ISO-3166-2['20'] = "Rukwa";
+$ISO-3166-2['21'] = "Ruvuma";
+$ISO-3166-2['22'] = "Shinyanga";
+$ISO-3166-2['23'] = "Singida";
+$ISO-3166-2['24'] = "Tabora";
+$ISO-3166-2['25'] = "Tanga";
+?>

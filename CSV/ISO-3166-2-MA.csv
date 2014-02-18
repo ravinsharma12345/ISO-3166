@@ -1,0 +1,86 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"Morocco";MA;MAR;153;"Agadir-Ida-Outanane";prefecture;"AGD";15554
+"Morocco";MA;MAR;153;"Al Haouz";province;"HAO";15543
+"Morocco";MA;MAR;153;"Al Hoceïma";province;"HOC";15516
+"Morocco";MA;MAR;153;"Aousserd";prefecture;"AOU";48475
+"Morocco";MA;MAR;153;"Assa-Zag";province;"ASZ";15541
+"Morocco";MA;MAR;153;"Azilal";province;"AZI";15583
+"Morocco";MA;MAR;153;"Aït Baha";province;"BAH";15518
+"Morocco";MA;MAR;153;"Aït Melloul";;"MEL";15555
+"Morocco";MA;MAR;153;"Ben Slimane";province;"BES";15572
+"Morocco";MA;MAR;153;"Beni Mellal";province;"BEM";15558
+"Morocco";MA;MAR;153;"Berkane";province;"BER";15526
+"Morocco";MA;MAR;153;"Boujdour (EH)";province;"BOD";20173
+"Morocco";MA;MAR;153;"Boulemane";province;"BOM";15576
+"Morocco";MA;MAR;153;"Casablanca [Dar el Beïda]*";prefecture;"CAS";15579
+"Morocco";MA;MAR;153;"Chaouia-Ouardigh";Region;"09";15529
+"Morocco";MA;MAR;153;"Chefchaouen";province;"CHE";15559
+"Morocco";MA;MAR;153;"Chichaoua";province;"CHI";15522
+"Morocco";MA;MAR;153;"Chtouka-Ait Baha";;"CHT";48100
+"Morocco";MA;MAR;153;"Connaught Salé";prefecture;"SAL";48482
+"Morocco";MA;MAR;153;"Doukkala-Abda";Region;"10";15565
+"Morocco";MA;MAR;153;"El Hajeb";province;"HAJ";15524
+"Morocco";MA;MAR;153;"El Jadida";province;"JDI";15575
+"Morocco";MA;MAR;153;"Errachidia";province;"ERR";15547
+"Morocco";MA;MAR;153;"Es Smara (EH)";province;"ESM";20174
+"Morocco";MA;MAR;153;"Essaouira";province;"ESI";15523
+"Morocco";MA;MAR;153;"Fahs-Beni Makada";prefecture;"FAH";48476
+"Morocco";MA;MAR;153;"Fes-Boulemane";Region;"05";15566
+"Morocco";MA;MAR;153;"Figuig";province;"FIG";15549
+"Morocco";MA;MAR;153;"Fès-Dar-Dbibegh";prefecture;"FES";15536
+"Morocco";MA;MAR;153;"Gharb-Chrarda-Beni Hssen";Region;"02";15530
+"Morocco";MA;MAR;153;"Grand Casablanca";Region;"08";15564
+"Morocco";MA;MAR;153;"Guelmim";province;"GUE";15520
+"Morocco";MA;MAR;153;"Guelmim-Es Smar";Region;"14";15567
+"Morocco";MA;MAR;153;"Ifrane";province;"IFR";15525
+"Morocco";MA;MAR;153;"Inezgane-Ait Melloul";prefecture;"INE";48477
+"Morocco";MA;MAR;153;"Jrada";province;"JRA";15550
+"Morocco";MA;MAR;153;"Kelaat es Sraghna";province;"KES";15544
+"Morocco";MA;MAR;153;"Khemisset";province;"KHE";15552
+"Morocco";MA;MAR;153;"Khenifra";province;"KHN";15548
+"Morocco";MA;MAR;153;"Khouribga";province;"KHO";15573
+"Morocco";MA;MAR;153;"Kénitra";province;"KEN";15578
+"Morocco";MA;MAR;153;"L'Oriental";Rerion;"04";15569
+"Morocco";MA;MAR;153;"Laayoune-Boujdour-Sakia El Hamra";Region;"15";21378
+"Morocco";MA;MAR;153;"Laayoune-Boujdour-Sakia El Hamra";;"X1~";48276
+"Morocco";MA;MAR;153;"Larache";province;"LAR";15560
+"Morocco";MA;MAR;153;"Laâyoune*";province;"LAA";20175
+"Morocco";MA;MAR;153;"Marrakech*";;"MAR";15545
+"Morocco";MA;MAR;153;"Marrakech-Medina";prefecture;"MMD";48478
+"Morocco";MA;MAR;153;"Marrakech-Menara";prefecture;"MMN";48479
+"Morocco";MA;MAR;153;"Marrakech-Tensift-Al Haouz";Region;"11";15531
+"Morocco";MA;MAR;153;"Mediouna";province;"MED";15539
+"Morocco";MA;MAR;153;"Meknes-Tafilalet";Region;"06";15568
+"Morocco";MA;MAR;153;"Meknès";prefecture;"MEK";15546
+"Morocco";MA;MAR;153;"Mohammadia";prefecture;"MOH";48480
+"Morocco";MA;MAR;153;"Moulay Yacoub";;"MOU";15537
+"Morocco";MA;MAR;153;"Nador";province;"NAD";15527
+"Morocco";MA;MAR;153;"Nouaceur";province;"NOU";15580
+"Morocco";MA;MAR;153;"Ouarzazate";province;"OUA";15582
+"Morocco";MA;MAR;153;"Oued ed Dahab (EH)";province;"OUD";20176
+"Morocco";MA;MAR;153;"Oued ed Dahab-Lagouira";Region;"16";48474
+"Morocco";MA;MAR;153;"Oujda*";prefecture;"OUJ";15551
+"Morocco";MA;MAR;153;"Rabat";prefecture;"RAB";48481
+"Morocco";MA;MAR;153;"Rabat-Salé*";;"RBA";15532
+"Morocco";MA;MAR;153;"Rabat-Salé-Zemmour-Zaer";Region;"07";48277
+"Morocco";MA;MAR;153;"Safi";province;"SAF";15535
+"Morocco";MA;MAR;153;"Sefrou";;"SEF";15577
+"Morocco";MA;MAR;153;"Settat";province;"SET";15574
+"Morocco";MA;MAR;153;"Sidi Kacem";province;"SIK";15538
+"Morocco";MA;MAR;153;"Sidi Youssef Ben Ali";prefecture;"SYB";48483
+"Morocco";MA;MAR;153;"Skhirate-Témara";prefecture;"SKH";48484
+"Morocco";MA;MAR;153;"Souss-Massa-Draa";Region;"13";15570
+"Morocco";MA;MAR;153;"Tadla-Azilal";Region;"12";15533
+"Morocco";MA;MAR;153;"Tan-Tan";province;"TNT";15542
+"Morocco";MA;MAR;153;"Tanger";;"TNG";15584
+"Morocco";MA;MAR;153;"Tanger-Assilah";prefecture;"TNG";48485
+"Morocco";MA;MAR;153;"Tanger-Tetouan";Region;"01";15571
+"Morocco";MA;MAR;153;"Taounate";province;"TAO";15562
+"Morocco";MA;MAR;153;"Taourirt";province;"TAI";15528
+"Morocco";MA;MAR;153;"Taroudant";province;"TAR";15556
+"Morocco";MA;MAR;153;"Tata";province;"TAT";15521
+"Morocco";MA;MAR;153;"Taza";province;"TAZ";15563
+"Morocco";MA;MAR;153;"Taza-Al Hoceima-Taounate";Region;"03";15534
+"Morocco";MA;MAR;153;"Tiznit";province;"TIZ";15517
+"Morocco";MA;MAR;153;"Tétouan*";;"TET";15561
+"Morocco";MA;MAR;153;"Zagora";province;"ZAG";15557

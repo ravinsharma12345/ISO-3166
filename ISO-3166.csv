@@ -503,18 +503,18 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Bhutan";BT;BTN;29;"Tsirang";District;"21";12725
 "Bhutan";BT;BTN;29;"Wangdue Phodrang";District;"24";12732
 "Bhutan";BT;BTN;29;"Zhemgang";District;"34";12720
-"Bolivia; Plurinational State Of";BO;BOL;30;"Chuquisaca";Department;"H";12739
-"Bolivia; Plurinational State Of";BO;BOL;30;"Cochabamba";Department;"C";12741
-"Bolivia; Plurinational State Of";BO;BOL;30;"El Beni";Department;"B";12740
-"Bolivia; Plurinational State Of";BO;BOL;30;"La Paz";Department;"L";12742
-"Bolivia; Plurinational State Of";BO;BOL;30;"Oruro";Department;"O";12738
-"Bolivia; Plurinational State Of";BO;BOL;30;"Pando";Department;"N";12743
-"Bolivia; Plurinational State Of";BO;BOL;30;"Potosí";Department;"P";12737
-"Bolivia; Plurinational State Of";BO;BOL;30;"Santa Cruz";Department;"S";12744
-"Bolivia; Plurinational State Of";BO;BOL;30;"Tarija";Department;"T";12745
-"Bonaire; Sint Eustatius and Saba";BQ;BES;700;"Bonaire";municipality;"BO";48682
-"Bonaire; Sint Eustatius and Saba";BQ;BES;700;"Saba";municipality;"SA";48683
-"Bonaire; Sint Eustatius and Saba";BQ;BES;700;"Sint Eustatius";municipality;"SE";48684
+"Plurinational State Of Bolivia";BO;BOL;30;"Chuquisaca";Department;"H";12739
+"Plurinational State Of Bolivia";BO;BOL;30;"Cochabamba";Department;"C";12741
+"Plurinational State Of Bolivia";BO;BOL;30;"El Beni";Department;"B";12740
+"Plurinational State Of Bolivia";BO;BOL;30;"La Paz";Department;"L";12742
+"Plurinational State Of Bolivia";BO;BOL;30;"Oruro";Department;"O";12738
+"Plurinational State Of Bolivia";BO;BOL;30;"Pando";Department;"N";12743
+"Plurinational State Of Bolivia";BO;BOL;30;"Potosí";Department;"P";12737
+"Plurinational State Of Bolivia";BO;BOL;30;"Santa Cruz";Department;"S";12744
+"Plurinational State Of Bolivia";BO;BOL;30;"Tarija";Department;"T";12745
+"Sint Eustatius and Saba Bonaire";BQ;BES;700;"Bonaire";municipality;"BO";48682
+"Sint Eustatius and Saba Bonaire";BQ;BES;700;"Saba";municipality;"SA";48683
+"Sint Eustatius and Saba Bonaire";BQ;BES;700;"Sint Eustatius";municipality;"SE";48684
 "Bosnia and Herzegovina";BA;BIH;31;"Bosansko-podrinjski kanton";canton;"05";48161
 "Bosnia and Herzegovina";BA;BIH;31;"Brčko distrikt";District;"BRC";42644
 "Bosnia and Herzegovina";BA;BIH;31;"Federacija Bosna i Hercegovina";Entity;"BIH";12746
@@ -686,7 +686,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Cambodia";KH;KHM;40;"Krong Pailin [Krong Pailin]";autonomous municipality;"24";12908
 "Cambodia";KH;KHM;40;"Krong Preah Sihanouk [Krong Preah Sihanouk]";autonomous municipality;"18";12909
 "Cambodia";KH;KHM;40;"Mondol Kiri [Môndól Kiri]";province;"11";12910
-"Cambodia";KH;KHM;40;"Otdar Mean Chey [Otdâr Méanchey] ";province;"22";12901
+"Cambodia";KH;KHM;40;"Otdar Mean Chey [Otdâr Méanchey]";province;"22";12901
 "Cambodia";KH;KHM;40;"Phnom Penh [Phnum Pénh]";autonomous municipality;"12";12921
 "Cambodia";KH;KHM;40;"Pousaat [Pouthisat]";province;"15";12900
 "Cambodia";KH;KHM;40;"Preah Vihear [Preah Vihéar]";province;"13";12913
@@ -867,7 +867,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Colombia";CO;COL;51;"Putumayo";department;"PUT";13067
 "Colombia";CO;COL;51;"Quindío";department;"QUI";13042
 "Colombia";CO;COL;51;"Risaralda";department;"RIS";13068
-"Colombia";CO;COL;51;"San Andrés; Providencia y Santa Catalina";department;"SAP";13043
+"Colombia";CO;COL;51;"Providencia y Santa Catalina San Andrés";department;"SAP";13043
 "Colombia";CO;COL;51;"Santander";department;"SAN";13069
 "Colombia";CO;COL;51;"Sucre";department;"SUC";13041
 "Colombia";CO;COL;51;"Tolima";department;"TOL";13070
@@ -888,17 +888,17 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Congo";CG;COG;53;"Plateaux";Department;"14";13086
 "Congo";CG;COG;53;"Pool";Department;"12";13084
 "Congo";CG;COG;53;"Sangha";Department;"13";13085
-"Congo; The Democratic Republic Of The";CD;COD;54;"Bandundu";province;"BN";13094
-"Congo; The Democratic Republic Of The";CD;COD;54;"Bas-Congo";province;"BC";13088
-"Congo; The Democratic Republic Of The";CD;COD;54;"Kasai-Occidental";province;"KW";13092
-"Congo; The Democratic Republic Of The";CD;COD;54;"Kasai-Oriental";province;"KE";13090
-"Congo; The Democratic Republic Of The";CD;COD;54;"Katanga";province;"KA";13097
-"Congo; The Democratic Republic Of The";CD;COD;54;"Kinshasa";city;"KN";13091
-"Congo; The Democratic Republic Of The";CD;COD;54;"Maniema";province;"MA";13095
-"Congo; The Democratic Republic Of The";CD;COD;54;"Nord-Kivu";province;"NK";13087
-"Congo; The Democratic Republic Of The";CD;COD;54;"Orientale";province;"OR";13089
-"Congo; The Democratic Republic Of The";CD;COD;54;"Sud-Kivu";province;"SK";13096
-"Congo; The Democratic Republic Of The";CD;COD;54;"Équateur";province;"EQ";13093
+"The Democratic Republic Of The Congo";CD;COD;54;"Bandundu";province;"BN";13094
+"The Democratic Republic Of The Congo";CD;COD;54;"Bas-Congo";province;"BC";13088
+"The Democratic Republic Of The Congo";CD;COD;54;"Kasai-Occidental";province;"KW";13092
+"The Democratic Republic Of The Congo";CD;COD;54;"Kasai-Oriental";province;"KE";13090
+"The Democratic Republic Of The Congo";CD;COD;54;"Katanga";province;"KA";13097
+"The Democratic Republic Of The Congo";CD;COD;54;"Kinshasa";city;"KN";13091
+"The Democratic Republic Of The Congo";CD;COD;54;"Maniema";province;"MA";13095
+"The Democratic Republic Of The Congo";CD;COD;54;"Nord-Kivu";province;"NK";13087
+"The Democratic Republic Of The Congo";CD;COD;54;"Orientale";province;"OR";13089
+"The Democratic Republic Of The Congo";CD;COD;54;"Sud-Kivu";province;"SK";13096
+"The Democratic Republic Of The Congo";CD;COD;54;"Équateur";province;"EQ";13093
 "Costa Rica";CR;CRI;56;"Alajuela";Province;"A";13119
 "Costa Rica";CR;CRI;56;"Cartago";Province;"C";13115
 "Costa Rica";CR;CRI;56;"Guanacaste";Province;"G";13116
@@ -948,61 +948,61 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Cyprus";CY;CYP;60;"Lefkosia";District;"01";19430
 "Cyprus";CY;CYP;60;"Lemesos";District;"02";19431
 "Cyprus";CY;CYP;60;"Pafos";District;"05";19433
-"Czech Republic";CZ;CZE;61;"Benešov ";district;"201 ";13247
-"Czech Republic";CZ;CZE;61;"Beroun ";district;"202 ";13201
-"Czech Republic";CZ;CZE;61;"Blansko ";district;"621 ";13231
-"Czech Republic";CZ;CZE;61;"Brno-město ";district;"622 ";13192
-"Czech Republic";CZ;CZE;61;"Brno-venkov ";district;"623 ";13233
-"Czech Republic";CZ;CZE;61;"Bruntál ";district;"801 ";13180
-"Czech Republic";CZ;CZE;61;"Břeclav ";district;"624 ";13232
-"Czech Republic";CZ;CZE;61;"Cheb ";district;"411 ";13175
-"Czech Republic";CZ;CZE;61;"Chomutov ";district;"422 ";13173
-"Czech Republic";CZ;CZE;61;"Chrudim ";district;"531 ";13240
-"Czech Republic";CZ;CZE;61;"Domažlice ";district;"321 ";13242
-"Czech Republic";CZ;CZE;61;"Děčín ";district;"421 ";13164
-"Czech Republic";CZ;CZE;61;"Frýdek Místek ";district;"802 ";13213
-"Czech Republic";CZ;CZE;61;"Havlíčkův Brod ";district;"611 ";13204
-"Czech Republic";CZ;CZE;61;"Hodonín ";district;"625 ";13174
-"Czech Republic";CZ;CZE;61;"Hradec Králové ";district;"521 ";13237
-"Czech Republic";CZ;CZE;61;"Jablonec nad Nisou ";district;"512 ";13179
-"Czech Republic";CZ;CZE;61;"Jeseník ";district;"711 ";13216
-"Czech Republic";CZ;CZE;61;"Jihlava ";district;"612 ";13205
+"Czech Republic";CZ;CZE;61;"Benešov";district;"201 ";13247
+"Czech Republic";CZ;CZE;61;"Beroun";district;"202 ";13201
+"Czech Republic";CZ;CZE;61;"Blansko";district;"621 ";13231
+"Czech Republic";CZ;CZE;61;"Brno-město";district;"622 ";13192
+"Czech Republic";CZ;CZE;61;"Brno-venkov";district;"623 ";13233
+"Czech Republic";CZ;CZE;61;"Bruntál";district;"801 ";13180
+"Czech Republic";CZ;CZE;61;"Břeclav";district;"624 ";13232
+"Czech Republic";CZ;CZE;61;"Cheb";district;"411 ";13175
+"Czech Republic";CZ;CZE;61;"Chomutov";district;"422 ";13173
+"Czech Republic";CZ;CZE;61;"Chrudim";district;"531 ";13240
+"Czech Republic";CZ;CZE;61;"Domažlice";district;"321 ";13242
+"Czech Republic";CZ;CZE;61;"Děčín";district;"421 ";13164
+"Czech Republic";CZ;CZE;61;"Frýdek Místek";district;"802 ";13213
+"Czech Republic";CZ;CZE;61;"Havlíčkův Brod";district;"611 ";13204
+"Czech Republic";CZ;CZE;61;"Hodonín";district;"625 ";13174
+"Czech Republic";CZ;CZE;61;"Hradec Králové";district;"521 ";13237
+"Czech Republic";CZ;CZE;61;"Jablonec nad Nisou";district;"512 ";13179
+"Czech Republic";CZ;CZE;61;"Jeseník";district;"711 ";13216
+"Czech Republic";CZ;CZE;61;"Jihlava";district;"612 ";13205
 "Czech Republic";CZ;CZE;61;"Jihoceský kraj";Region;"JC";13219
-"Czech Republic";CZ;CZE;61;"Jihomoravský kraj ";Region;"JM";13220
-"Czech Republic";CZ;CZE;61;"Jindřichův Hradec ";district;"313 ";13228
-"Czech Republic";CZ;CZE;61;"Jičín ";district;"522 ";13177
+"Czech Republic";CZ;CZE;61;"Jihomoravský kraj";Region;"JM";13220
+"Czech Republic";CZ;CZE;61;"Jindřichův Hradec";district;"313 ";13228
+"Czech Republic";CZ;CZE;61;"Jičín";district;"522 ";13177
 "Czech Republic";CZ;CZE;61;"Karlovarský kraj";Region;"KA";13183
-"Czech Republic";CZ;CZE;61;"Karlovy Vary ";district;"412 ";13236
-"Czech Republic";CZ;CZE;61;"Karviná ";district;"803 ";13181
-"Czech Republic";CZ;CZE;61;"Kladno ";district;"203 ";13200
-"Czech Republic";CZ;CZE;61;"Klatovy ";district;"322 ";13243
-"Czech Republic";CZ;CZE;61;"Kolín ";district;"204 ";13202
-"Czech Republic";CZ;CZE;61;"Kromĕříž ";district;"721 ";13207
+"Czech Republic";CZ;CZE;61;"Karlovy Vary";district;"412 ";13236
+"Czech Republic";CZ;CZE;61;"Karviná";district;"803 ";13181
+"Czech Republic";CZ;CZE;61;"Kladno";district;"203 ";13200
+"Czech Republic";CZ;CZE;61;"Klatovy";district;"322 ";13243
+"Czech Republic";CZ;CZE;61;"Kolín";district;"204 ";13202
+"Czech Republic";CZ;CZE;61;"Kromĕříž";district;"721 ";13207
 "Czech Republic";CZ;CZE;61;"Královéhradecký kraj";Region;"KR";13221
-"Czech Republic";CZ;CZE;61;"Kutná Hora ";district;"205 ";13165
-"Czech Republic";CZ;CZE;61;"Liberec ";district;"513 ";13211
+"Czech Republic";CZ;CZE;61;"Kutná Hora";district;"205 ";13165
+"Czech Republic";CZ;CZE;61;"Liberec";district;"513 ";13211
 "Czech Republic";CZ;CZE;61;"Liberecký kraj";Region;"LI";13184
-"Czech Republic";CZ;CZE;61;"Litoměřice ";district;"423 ";13248
-"Czech Republic";CZ;CZE;61;"Louny ";district;"424 ";13252
-"Czech Republic";CZ;CZE;61;"Mladá Boleslav ";district;"207 ";13167
+"Czech Republic";CZ;CZE;61;"Litoměřice";district;"423 ";13248
+"Czech Republic";CZ;CZE;61;"Louny";district;"424 ";13252
+"Czech Republic";CZ;CZE;61;"Mladá Boleslav";district;"207 ";13167
 "Czech Republic";CZ;CZE;61;"Moravskoslezský kraj";Region;"MO";13222
-"Czech Republic";CZ;CZE;61;"Most ";district;"425 ";13251
-"Czech Republic";CZ;CZE;61;"Mělník ";district;"206 ";13166
-"Czech Republic";CZ;CZE;61;"Nový Jičín ";district;"804 ";13214
-"Czech Republic";CZ;CZE;61;"Nymburk ";district;"208 ";13168
-"Czech Republic";CZ;CZE;61;"Náchod ";district;"523 ";13238
-"Czech Republic";CZ;CZE;61;"Olomouc ";district;"712 ";13193
+"Czech Republic";CZ;CZE;61;"Most";district;"425 ";13251
+"Czech Republic";CZ;CZE;61;"Mělník";district;"206 ";13166
+"Czech Republic";CZ;CZE;61;"Nový Jičín";district;"804 ";13214
+"Czech Republic";CZ;CZE;61;"Nymburk";district;"208 ";13168
+"Czech Republic";CZ;CZE;61;"Náchod";district;"523 ";13238
+"Czech Republic";CZ;CZE;61;"Olomouc";district;"712 ";13193
 "Czech Republic";CZ;CZE;61;"Olomoucký kraj";Region;"OL";13185
-"Czech Republic";CZ;CZE;61;"Opava ";district;"805 ";13182
-"Czech Republic";CZ;CZE;61;"Ostrava město ";district;"806 ";13215
-"Czech Republic";CZ;CZE;61;"Pardubice ";district;"532 ";13195
+"Czech Republic";CZ;CZE;61;"Opava";district;"805 ";13182
+"Czech Republic";CZ;CZE;61;"Ostrava město";district;"806 ";13215
+"Czech Republic";CZ;CZE;61;"Pardubice";district;"532 ";13195
 "Czech Republic";CZ;CZE;61;"Pardubický kraj";Region;"PA";13223
-"Czech Republic";CZ;CZE;61;"Pelhřimov ";district;"613 ";13253
+"Czech Republic";CZ;CZE;61;"Pelhřimov";district;"613 ";13253
 "Czech Republic";CZ;CZE;61;"Plzenský kraj";Region;"PL";13186
-"Czech Republic";CZ;CZE;61;"Plzeň jih ";district;"324 ";13197
-"Czech Republic";CZ;CZE;61;"Plzeň město ";district;"323 ";13244
-"Czech Republic";CZ;CZE;61;"Plzeň sever ";district;"325 ";13198
-"Czech Republic";CZ;CZE;61;"Prachatice ";district;"315 ";13190
+"Czech Republic";CZ;CZE;61;"Plzeň jih";district;"324 ";13197
+"Czech Republic";CZ;CZE;61;"Plzeň město";district;"323 ";13244
+"Czech Republic";CZ;CZE;61;"Plzeň sever";district;"325 ";13198
+"Czech Republic";CZ;CZE;61;"Prachatice";district;"315 ";13190
 "Czech Republic";CZ;CZE;61;"Praha 1";district;"101";48300
 "Czech Republic";CZ;CZE;61;"Praha 10";district;"10A";48309
 "Czech Republic";CZ;CZE;61;"Praha 11";district;"10B";48310
@@ -1018,41 +1018,41 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Czech Republic";CZ;CZE;61;"Praha 7";district;"107";48306
 "Czech Republic";CZ;CZE;61;"Praha 8";district;"108";48307
 "Czech Republic";CZ;CZE;61;"Praha 9";district;"109";48308
-"Czech Republic";CZ;CZE;61;"Praha východ ";district;"209 ";13170
-"Czech Republic";CZ;CZE;61;"Praha západ ";district;"20A ";13171
-"Czech Republic";CZ;CZE;61;"Praha; hlavní mesto";Region;"PR";13224
-"Czech Republic";CZ;CZE;61;"Prostĕjov ";district;"713 ";13194
-"Czech Republic";CZ;CZE;61;"Písek ";district;"314 ";13229
-"Czech Republic";CZ;CZE;61;"Přerov ";district;"714 ";13217
-"Czech Republic";CZ;CZE;61;"Příbram ";district;"20B ";13169
-"Czech Republic";CZ;CZE;61;"Rakovník ";district;"20C ";13172
-"Czech Republic";CZ;CZE;61;"Rokycany ";district;"326 ";13245
-"Czech Republic";CZ;CZE;61;"Rychnov nad Kněžnou ";district;"524 ";13239
-"Czech Republic";CZ;CZE;61;"Semily ";district;"514 ";13212
-"Czech Republic";CZ;CZE;61;"Sokolov ";district;"413 ";13176
-"Czech Republic";CZ;CZE;61;"Strakonice ";district;"316 ";13230
+"Czech Republic";CZ;CZE;61;"Praha východ";district;"209 ";13170
+"Czech Republic";CZ;CZE;61;"Praha západ";district;"20A ";13171
+"Czech Republic";CZ;CZE;61;"hlavní mesto Praha";Region;"PR";13224
+"Czech Republic";CZ;CZE;61;"Prostĕjov";district;"713 ";13194
+"Czech Republic";CZ;CZE;61;"Písek";district;"314 ";13229
+"Czech Republic";CZ;CZE;61;"Přerov";district;"714 ";13217
+"Czech Republic";CZ;CZE;61;"Příbram";district;"20B ";13169
+"Czech Republic";CZ;CZE;61;"Rakovník";district;"20C ";13172
+"Czech Republic";CZ;CZE;61;"Rokycany";district;"326 ";13245
+"Czech Republic";CZ;CZE;61;"Rychnov nad Kněžnou";district;"524 ";13239
+"Czech Republic";CZ;CZE;61;"Semily";district;"514 ";13212
+"Czech Republic";CZ;CZE;61;"Sokolov";district;"413 ";13176
+"Czech Republic";CZ;CZE;61;"Strakonice";district;"316 ";13230
 "Czech Republic";CZ;CZE;61;"Stredoceský kraj";Region;"ST";13187
-"Czech Republic";CZ;CZE;61;"Svitavy ";district;"533 ";13241
-"Czech Republic";CZ;CZE;61;"Tachov ";district;"327 ";13246
-"Czech Republic";CZ;CZE;61;"Teplice ";district;"426 ";13203
-"Czech Republic";CZ;CZE;61;"Trutnov ";district;"525 ";13178
-"Czech Republic";CZ;CZE;61;"Tábor ";district;"317 ";13191
-"Czech Republic";CZ;CZE;61;"Třebíč ";district;"614 ";13206
-"Czech Republic";CZ;CZE;61;"Uherské Hradištĕ ";district;"722 ";13208
-"Czech Republic";CZ;CZE;61;"Vsetín ";district;"723 ";13163
+"Czech Republic";CZ;CZE;61;"Svitavy";district;"533 ";13241
+"Czech Republic";CZ;CZE;61;"Tachov";district;"327 ";13246
+"Czech Republic";CZ;CZE;61;"Teplice";district;"426 ";13203
+"Czech Republic";CZ;CZE;61;"Trutnov";district;"525 ";13178
+"Czech Republic";CZ;CZE;61;"Tábor";district;"317 ";13191
+"Czech Republic";CZ;CZE;61;"Třebíč";district;"614 ";13206
+"Czech Republic";CZ;CZE;61;"Uherské Hradištĕ";district;"722 ";13208
+"Czech Republic";CZ;CZE;61;"Vsetín";district;"723 ";13163
 "Czech Republic";CZ;CZE;61;"Vysocina";Region;"VY";13188
-"Czech Republic";CZ;CZE;61;"Vyškov ";district;"626 ";13234
-"Czech Republic";CZ;CZE;61;"Zlín ";district;"724 ";13209
+"Czech Republic";CZ;CZE;61;"Vyškov";district;"626 ";13234
+"Czech Republic";CZ;CZE;61;"Zlín";district;"724 ";13209
 "Czech Republic";CZ;CZE;61;"Zlínský kraj";Region;"ZL";13226
-"Czech Republic";CZ;CZE;61;"Znojmo ";district;"627 ";13235
-"Czech Republic";CZ;CZE;61;"Ústecký kraj ";Region;"US";13225
-"Czech Republic";CZ;CZE;61;"Ústí nad Labem ";district;"427 ";13250
-"Czech Republic";CZ;CZE;61;"Ústí nad Orlicí ";district;"534 ";13196
-"Czech Republic";CZ;CZE;61;"Česká Lípa ";district;"511 ";13210
-"Czech Republic";CZ;CZE;61;"České Budějovice ";district;"311 ";13227
-"Czech Republic";CZ;CZE;61;"Český Krumlov ";district;"312 ";13189
-"Czech Republic";CZ;CZE;61;"Šumperk ";district;"715 ";13218
-"Czech Republic";CZ;CZE;61;"Žd’ár nad Sázavou ";district;"615 ";13249
+"Czech Republic";CZ;CZE;61;"Znojmo";district;"627 ";13235
+"Czech Republic";CZ;CZE;61;"Ústecký kraj";Region;"US";13225
+"Czech Republic";CZ;CZE;61;"Ústí nad Labem";district;"427 ";13250
+"Czech Republic";CZ;CZE;61;"Ústí nad Orlicí";district;"534 ";13196
+"Czech Republic";CZ;CZE;61;"Česká Lípa";district;"511 ";13210
+"Czech Republic";CZ;CZE;61;"České Budějovice";district;"311 ";13227
+"Czech Republic";CZ;CZE;61;"Český Krumlov";district;"312 ";13189
+"Czech Republic";CZ;CZE;61;"Šumperk";district;"715 ";13218
+"Czech Republic";CZ;CZE;61;"Žd’ár nad Sázavou";district;"615 ";13249
 "Côte D'Ivoire";CI;CIV;57;"18 Montagnes (Région des)";Region;"06";18974
 "Côte D'Ivoire";CI;CIV;57;"Agnébi (Région de l')";Region;"16";18975
 "Côte D'Ivoire";CI;CIV;57;"Bafing (Région du)";Region;"17";18976
@@ -1286,30 +1286,30 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "France";FR;FRA;78;"Allier";metropolitan department;"03";13717
 "France";FR;FRA;78;"Alpes-de-Haute-Provence";metropolitan department;"04";13738
 "France";FR;FRA;78;"Alpes-Maritimes";metropolitan department;"06";13718
-"France";FR;FRA;78;"Alsace ";Metropolitan regions;"A ";48315
-"France";FR;FRA;78;"Aquitaine ";Metropolitan regions;"B ";48316
+"France";FR;FRA;78;"Alsace";Metropolitan regions;"A ";48315
+"France";FR;FRA;78;"Aquitaine";Metropolitan regions;"B ";48316
 "France";FR;FRA;78;"Ardennes";metropolitan department;"08";13719
 "France";FR;FRA;78;"Ardèche";metropolitan department;"07";13739
 "France";FR;FRA;78;"Ariège";metropolitan department;"09";13740
 "France";FR;FRA;78;"Aube";metropolitan department;"10";13741
 "France";FR;FRA;78;"Aude";metropolitan department;"11";13720
-"France";FR;FRA;78;"Auvergne ";Metropolitan regions;"C ";48317
+"France";FR;FRA;78;"Auvergne";Metropolitan regions;"C ";48317
 "France";FR;FRA;78;"Aveyron";metropolitan department;"12";13742
 "France";FR;FRA;78;"Bas-Rhin";metropolitan department;"67";13721
-"France";FR;FRA;78;"Basse-Normandie ";Metropolitan regions;"P ";48318
+"France";FR;FRA;78;"Basse-Normandie";Metropolitan regions;"P ";48318
 "France";FR;FRA;78;"Bouches-du-Rhône";metropolitan department;"13";13743
-"France";FR;FRA;78;"Bourgogne ";Metropolitan regions;"D ";48319
-"France";FR;FRA;78;"Bretagne ";Metropolitan regions;"E ";48320
+"France";FR;FRA;78;"Bourgogne";Metropolitan regions;"D ";48319
+"France";FR;FRA;78;"Bretagne";Metropolitan regions;"E ";48320
 "France";FR;FRA;78;"Calvados";metropolitan department;"14";13722
 "France";FR;FRA;78;"Cantal";metropolitan department;"15";13744
-"France";FR;FRA;78;"Centre ";Metropolitan regions;"F ";48321
-"France";FR;FRA;78;"Champagne-Ardenne ";Metropolitan regions;"G ";48322
+"France";FR;FRA;78;"Centre";Metropolitan regions;"F ";48321
+"France";FR;FRA;78;"Champagne-Ardenne";Metropolitan regions;"G ";48322
 "France";FR;FRA;78;"Charente";metropolitan department;"16";13723
 "France";FR;FRA;78;"Charente-Maritime";metropolitan department;"17";13745
 "France";FR;FRA;78;"Cher";metropolitan department;"18";13746
 "France";FR;FRA;78;"Clipperton";Dependency;"CP";21344
 "France";FR;FRA;78;"Corrèze";metropolitan department;"19";13791
-"France";FR;FRA;78;"Corse ";Metropolitan regions;"H ";48323
+"France";FR;FRA;78;"Corse";Metropolitan regions;"H ";48323
 "France";FR;FRA;78;"Corse-du-Sud";metropolitan department;"2A";13747
 "France";FR;FRA;78;"Creuse";metropolitan department;"23";13794
 "France";FR;FRA;78;"Côte-d'Or";metropolitan department;"21";13792
@@ -1326,14 +1326,14 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "France";FR;FRA;78;"Gard";metropolitan department;"30";13821
 "France";FR;FRA;78;"Gers";metropolitan department;"32";13822
 "France";FR;FRA;78;"Gironde";metropolitan department;"33";13823
-"France";FR;FRA;78;"Guadeloupe (see also separate entry under GP) ";overseas regions;"GP ";48337
+"France";FR;FRA;78;"Guadeloupe (see also separate entry under GP)";overseas regions;"GP ";48337
 "France";FR;FRA;78;"Guyane (française) (see also separate entry under GF)";overseas regions;"GF ";48338
 "France";FR;FRA;78;"Haut-Rhin";metropolitan department;"68";13753
 "France";FR;FRA;78;"Haute-Corse";metropolitan department;"2B";13748
 "France";FR;FRA;78;"Haute-Garonne";metropolitan department;"31";13824
 "France";FR;FRA;78;"Haute-Loire";metropolitan department;"43";13749
 "France";FR;FRA;78;"Haute-Marne";metropolitan department;"52";13807
-"France";FR;FRA;78;"Haute-Normandie ";Metropolitan regions;"Q ";48325
+"France";FR;FRA;78;"Haute-Normandie";Metropolitan regions;"Q ";48325
 "France";FR;FRA;78;"Haute-Savoie";metropolitan department;"74";13751
 "France";FR;FRA;78;"Haute-Saône";metropolitan department;"70";13808
 "France";FR;FRA;78;"Haute-Vienne";metropolitan department;"87";13809
@@ -1348,20 +1348,20 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "France";FR;FRA;78;"Jura";metropolitan department;"39";13757
 "France";FR;FRA;78;"La Réunion (see also separate entry under RE)";overseas regions;"RE ";48340
 "France";FR;FRA;78;"Landes";metropolitan department;"40";13813
-"France";FR;FRA;78;"Languedoc-Roussillon ";Metropolitan regions;"K ";48327
-"France";FR;FRA;78;"Limousin ";Metropolitan regions;"L ";48328
+"France";FR;FRA;78;"Languedoc-Roussillon";Metropolitan regions;"K ";48327
+"France";FR;FRA;78;"Limousin";Metropolitan regions;"L ";48328
 "France";FR;FRA;78;"Loir-et-Cher";metropolitan department;"41";13760
 "France";FR;FRA;78;"Loire";metropolitan department;"42";13758
 "France";FR;FRA;78;"Loire-Atlantique";metropolitan department;"44";13814
 "France";FR;FRA;78;"Loiret";metropolitan department;"45";13759
-"France";FR;FRA;78;"Lorraine ";Metropolitan regions;"M ";48329
+"France";FR;FRA;78;"Lorraine";Metropolitan regions;"M ";48329
 "France";FR;FRA;78;"Lot";metropolitan department;"46";13815
 "France";FR;FRA;78;"Lot-et-Garonne";metropolitan department;"47";13761
 "France";FR;FRA;78;"Lozère";metropolitan department;"48";13798
 "France";FR;FRA;78;"Maine-et-Loire";metropolitan department;"49";13762
 "France";FR;FRA;78;"Manche";metropolitan department;"50";13799
 "France";FR;FRA;78;"Marne";metropolitan department;"51";13763
-"France";FR;FRA;78;"Martinique (see also separate entry under MQ) ";overseas regions;"MQ ";48339
+"France";FR;FRA;78;"Martinique (see also separate entry under MQ)";overseas regions;"MQ ";48339
 "France";FR;FRA;78;"Mayenne";metropolitan department;"53";13764
 "France";FR;FRA;78;"Mayotte (see also separate entry under YT)";territorial collectivity;"YT";18999
 "France";FR;FRA;78;"Meurthe-et-Moselle";metropolitan department;"54";13800
@@ -1371,15 +1371,15 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "France";FR;FRA;78;"Moselle";metropolitan department;"57";13766
 "France";FR;FRA;78;"Nièvre";metropolitan department;"58";13802
 "France";FR;FRA;78;"Nord";metropolitan department;"59";13767
-"France";FR;FRA;78;"Nord-Pas-de-Calais ";Metropolitan regions;"O ";48331
+"France";FR;FRA;78;"Nord-Pas-de-Calais";Metropolitan regions;"O ";48331
 "France";FR;FRA;78;"Nouvelle-Calédonie (see also separate entry under NC)";overseas territory;"NC";19000
 "France";FR;FRA;78;"Oise";metropolitan department;"60";13768
 "France";FR;FRA;78;"Orne";metropolitan department;"61";13803
 "France";FR;FRA;78;"Paris";metropolitan department;"75";13769
 "France";FR;FRA;78;"Pas-de-Calais";metropolitan department;"62";13804
-"France";FR;FRA;78;"Pays-de-la-Loire ";Metropolitan regions;"R ";48332
-"France";FR;FRA;78;"Picardie ";Metropolitan regions;"S ";48333
-"France";FR;FRA;78;"Poitou-Charentes ";Metropolitan regions;"T ";48334
+"France";FR;FRA;78;"Pays-de-la-Loire";Metropolitan regions;"R ";48332
+"France";FR;FRA;78;"Picardie";Metropolitan regions;"S ";48333
+"France";FR;FRA;78;"Poitou-Charentes";Metropolitan regions;"T ";48334
 "France";FR;FRA;78;"Polynésie française (see also separate entry under PF)";overseas territory;"PF";19001
 "France";FR;FRA;78;"Provence-Alpes-Côte-d'Azur";Metropolitan regions;"U ";48335
 "France";FR;FRA;78;"Puy-de-Dôme";metropolitan department;"63";13770
@@ -1754,11 +1754,11 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Indonesia";ID;IDN;106;"Gorontalo";province;"GO";14711
 "Indonesia";ID;IDN;106;"Jakarta Raya";special district;"JK";14724
 "Indonesia";ID;IDN;106;"Jambi";province;"JA";14712
-"Indonesia";ID;IDN;106;"Jawa ";geographic units;"JW";48462
+"Indonesia";ID;IDN;106;"Jawa";geographic units;"JW";48462
 "Indonesia";ID;IDN;106;"Jawa Barat";province;"JB";14725
 "Indonesia";ID;IDN;106;"Jawa Tengah";province;"JT";14713
 "Indonesia";ID;IDN;106;"Jawa Timur";province;"JI";14726
-"Indonesia";ID;IDN;106;"Kalimantan ";geographic units;"KA";48463
+"Indonesia";ID;IDN;106;"Kalimantan";geographic units;"KA";48463
 "Indonesia";ID;IDN;106;"Kalimantan Barat";province;"KB";14714
 "Indonesia";ID;IDN;106;"Kalimantan Selatan";province;"KS";14715
 "Indonesia";ID;IDN;106;"Kalimantan Tengah";province;"KT";14727
@@ -1768,56 +1768,56 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Indonesia";ID;IDN;106;"Maluku";geographic units;"ML";48905
 "Indonesia";ID;IDN;106;"Maluku";province;"MA";14730
 "Indonesia";ID;IDN;106;"Maluku Utara";province;"MU";14710
-"Indonesia";ID;IDN;106;"Nusa Tenggara ";geographic units;"NU";48465
+"Indonesia";ID;IDN;106;"Nusa Tenggara";geographic units;"NU";48465
 "Indonesia";ID;IDN;106;"Nusa Tenggara Barat";province;"NB";14731
 "Indonesia";ID;IDN;106;"Nusa Tenggara Timur";province;"NT";14709
 "Indonesia";ID;IDN;106;"Papua";province;"PA";14732
-"Indonesia";ID;IDN;106;"Papua ";geographic units;"IJ";48466
+"Indonesia";ID;IDN;106;"Papua";geographic units;"IJ";48466
 "Indonesia";ID;IDN;106;"Papua Barat";;"X1~";48084
 "Indonesia";ID;IDN;106;"Papua Barat";province;"PB";19010
 "Indonesia";ID;IDN;106;"Riau";province;"RI";14708
-"Indonesia";ID;IDN;106;"Sulawesi ";geographic units;"SL";48467
+"Indonesia";ID;IDN;106;"Sulawesi";geographic units;"SL";48467
 "Indonesia";ID;IDN;106;"Sulawesi Barat";province;"SR";19011
 "Indonesia";ID;IDN;106;"Sulawesi Selatan";province;"SN";14707
 "Indonesia";ID;IDN;106;"Sulawesi Tengah";province;"ST";14734
 "Indonesia";ID;IDN;106;"Sulawesi Tenggara";province;"SG";14736
 "Indonesia";ID;IDN;106;"Sulawesi Utara";province;"SA";14716
-"Indonesia";ID;IDN;106;"Sumatera ";geographic units;"SM";48468
+"Indonesia";ID;IDN;106;"Sumatera";geographic units;"SM";48468
 "Indonesia";ID;IDN;106;"Sumatera Barat";province;"SB";14735
 "Indonesia";ID;IDN;106;"Sumatera Selatan";province;"SS";14717
 "Indonesia";ID;IDN;106;"Sumatera Utara";province;"SU";14706
 "Indonesia";ID;IDN;106;"Yogyakarta";special region;"YO";14718
-"Iran; Islamic Republic Of";IR;IRN;107;"Ardabil";Province;"03";14748
-"Iran; Islamic Republic Of";IR;IRN;107;"Az¯arbayjan-e Gharbi";Province;"02";14756
-"Iran; Islamic Republic Of";IR;IRN;107;"Az¯arbayjan-e Sharqi";Province;"01";14749
-"Iran; Islamic Republic Of";IR;IRN;107;"Bushehr";Province;"06";14757
-"Iran; Islamic Republic Of";IR;IRN;107;"Chahar Mah¸all va Bakhtiari";Province;"08";14750
-"Iran; Islamic Republic Of";IR;IRN;107;"Esfahan";Province;"04";14758
-"Iran; Islamic Republic Of";IR;IRN;107;"Fars";Province;"14";14751
-"Iran; Islamic Republic Of";IR;IRN;107;"Gilan";Province;"19";14759
-"Iran; Islamic Republic Of";IR;IRN;107;"Golestan";Province;"27";14760
-"Iran; Islamic Republic Of";IR;IRN;107;"Hamadan";Province;"24";14752
-"Iran; Islamic Republic Of";IR;IRN;107;"Hormozgan";Province;"23";14761
-"Iran; Islamic Republic Of";IR;IRN;107;"Ilam";Province;"05";14753
-"Iran; Islamic Republic Of";IR;IRN;107;"Kerman";Province;"15";14762
-"Iran; Islamic Republic Of";IR;IRN;107;"Kermanshah";Province;"17";14739
-"Iran; Islamic Republic Of";IR;IRN;107;"Khorasan";;"09";14740
-"Iran; Islamic Republic Of";IR;IRN;107;"Khorasan-e Janubi";Province;"29";19012
-"Iran; Islamic Republic Of";IR;IRN;107;"Khorasan-e Razavi";Province;"30";19013
-"Iran; Islamic Republic Of";IR;IRN;107;"Khorasan-e Shemali";Province;"31";19014
-"Iran; Islamic Republic Of";IR;IRN;107;"Khuzestan";Province;"10";14741
-"Iran; Islamic Republic Of";IR;IRN;107;"Kohkiluyeh va Buyer Ahmad";Province;"18";14742
-"Iran; Islamic Republic Of";IR;IRN;107;"Kordestan";Province;"16";14743
-"Iran; Islamic Republic Of";IR;IRN;107;"Lorestan";Province;"20";14744
-"Iran; Islamic Republic Of";IR;IRN;107;"Markazi";Province;"22";14745
-"Iran; Islamic Republic Of";IR;IRN;107;"Mazandaran";Province;"21";14746
-"Iran; Islamic Republic Of";IR;IRN;107;"Qazvin";Province;"28";14747
-"Iran; Islamic Republic Of";IR;IRN;107;"Qom";Province;"26";14738
-"Iran; Islamic Republic Of";IR;IRN;107;"Semnan";Province;"12";14754
-"Iran; Islamic Republic Of";IR;IRN;107;"Sistan va Baluchestan";Province;"13";14764
-"Iran; Islamic Republic Of";IR;IRN;107;"Tehran";Province;"07";14755
-"Iran; Islamic Republic Of";IR;IRN;107;"Yazd";Province;"25";14763
-"Iran; Islamic Republic Of";IR;IRN;107;"Zanjan";Province;"11";14737
+"Islamic Republic Of Iran";IR;IRN;107;"Ardabil";Province;"03";14748
+"Islamic Republic Of Iran";IR;IRN;107;"Az¯arbayjan-e Gharbi";Province;"02";14756
+"Islamic Republic Of Iran";IR;IRN;107;"Az¯arbayjan-e Sharqi";Province;"01";14749
+"Islamic Republic Of Iran";IR;IRN;107;"Bushehr";Province;"06";14757
+"Islamic Republic Of Iran";IR;IRN;107;"Chahar Mah¸all va Bakhtiari";Province;"08";14750
+"Islamic Republic Of Iran";IR;IRN;107;"Esfahan";Province;"04";14758
+"Islamic Republic Of Iran";IR;IRN;107;"Fars";Province;"14";14751
+"Islamic Republic Of Iran";IR;IRN;107;"Gilan";Province;"19";14759
+"Islamic Republic Of Iran";IR;IRN;107;"Golestan";Province;"27";14760
+"Islamic Republic Of Iran";IR;IRN;107;"Hamadan";Province;"24";14752
+"Islamic Republic Of Iran";IR;IRN;107;"Hormozgan";Province;"23";14761
+"Islamic Republic Of Iran";IR;IRN;107;"Ilam";Province;"05";14753
+"Islamic Republic Of Iran";IR;IRN;107;"Kerman";Province;"15";14762
+"Islamic Republic Of Iran";IR;IRN;107;"Kermanshah";Province;"17";14739
+"Islamic Republic Of Iran";IR;IRN;107;"Khorasan";;"09";14740
+"Islamic Republic Of Iran";IR;IRN;107;"Khorasan-e Janubi";Province;"29";19012
+"Islamic Republic Of Iran";IR;IRN;107;"Khorasan-e Razavi";Province;"30";19013
+"Islamic Republic Of Iran";IR;IRN;107;"Khorasan-e Shemali";Province;"31";19014
+"Islamic Republic Of Iran";IR;IRN;107;"Khuzestan";Province;"10";14741
+"Islamic Republic Of Iran";IR;IRN;107;"Kohkiluyeh va Buyer Ahmad";Province;"18";14742
+"Islamic Republic Of Iran";IR;IRN;107;"Kordestan";Province;"16";14743
+"Islamic Republic Of Iran";IR;IRN;107;"Lorestan";Province;"20";14744
+"Islamic Republic Of Iran";IR;IRN;107;"Markazi";Province;"22";14745
+"Islamic Republic Of Iran";IR;IRN;107;"Mazandaran";Province;"21";14746
+"Islamic Republic Of Iran";IR;IRN;107;"Qazvin";Province;"28";14747
+"Islamic Republic Of Iran";IR;IRN;107;"Qom";Province;"26";14738
+"Islamic Republic Of Iran";IR;IRN;107;"Semnan";Province;"12";14754
+"Islamic Republic Of Iran";IR;IRN;107;"Sistan va Baluchestan";Province;"13";14764
+"Islamic Republic Of Iran";IR;IRN;107;"Tehran";Province;"07";14755
+"Islamic Republic Of Iran";IR;IRN;107;"Yazd";Province;"25";14763
+"Islamic Republic Of Iran";IR;IRN;107;"Zanjan";Province;"11";14737
 "Iraq";IQ;IRQ;108;"Al Anbar";Province;"AN";14771
 "Iraq";IQ;IRQ;108;"Al Basrah";Province;"BA";14773
 "Iraq";IQ;IRQ;108;"Al Muthanná";Province;"MU";14777
@@ -1839,7 +1839,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Ireland";IE;IRL;109;"Carlow";County;"CW";14798
 "Ireland";IE;IRL;109;"Cavan";County;"CN";14795
 "Ireland";IE;IRL;109;"Clare";County;"CE";14799
-"Ireland";IE;IRL;109;"Connaught ";province;"C";48469
+"Ireland";IE;IRL;109;"Connaught";province;"C";48469
 "Ireland";IE;IRL;109;"Cork";County;"CO";48897
 "Ireland";IE;IRL;109;"Cork";County;"C";14800
 "Ireland";IE;IRL;109;"Donegal";County;"DL";14796
@@ -1849,7 +1849,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Ireland";IE;IRL;109;"Kildare";County;"KE";14788
 "Ireland";IE;IRL;109;"Kilkenny";County;"KK";14803
 "Ireland";IE;IRL;109;"Laois";County;"LS";14807
-"Ireland";IE;IRL;109;"Leinster ";province;"L";48470
+"Ireland";IE;IRL;109;"Leinster";province;"L";48470
 "Ireland";IE;IRL;109;"Leitrim";County;"LM";14804
 "Ireland";IE;IRL;109;"Limerick";County;"LK";14805
 "Ireland";IE;IRL;109;"Longford";County;"LD";14787
@@ -1857,12 +1857,12 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Ireland";IE;IRL;109;"Mayo";County;"MO";14808
 "Ireland";IE;IRL;109;"Meath";County;"MH";14789
 "Ireland";IE;IRL;109;"Monaghan";County;"MN";14786
-"Ireland";IE;IRL;109;"Munster ";province;"M";48471
+"Ireland";IE;IRL;109;"Munster";province;"M";48471
 "Ireland";IE;IRL;109;"Offaly";County;"OY";14790
 "Ireland";IE;IRL;109;"Roscommon";County;"RN";14809
 "Ireland";IE;IRL;109;"Sligo";County;"SO";14791
 "Ireland";IE;IRL;109;"Tipperary";County;"TA";14792
-"Ireland";IE;IRL;109;"Ulster ";province;"U";48472
+"Ireland";IE;IRL;109;"Ulster";province;"U";48472
 "Ireland";IE;IRL;109;"Waterford";County;"WD";14784
 "Ireland";IE;IRL;109;"Westmeath";County;"WH";14793
 "Ireland";IE;IRL;109;"Wexford";County;"WX";14783
@@ -1917,7 +1917,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Italy";IT;ITA;112;"Forli-Cesena";Province;"FC";19499
 "Italy";IT;ITA;112;"Forlì";;"FO";48085
 "Italy";IT;ITA;112;"Friuli-Venezia Giulia";region;"36";14885
-"Italy";IT;ITA;112;"Frosinone ";Province;"FR";19500
+"Italy";IT;ITA;112;"Frosinone";Province;"FR";19500
 "Italy";IT;ITA;112;"Genova";Province;"GE";19501
 "Italy";IT;ITA;112;"Gorizia";Province;"GO";19502
 "Italy";IT;ITA;112;"Grosseto";Province;"GR";19503
@@ -2108,47 +2108,47 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Kiribati";KI;KIR;119;"Gilbert Islands";Island group;"G";19016
 "Kiribati";KI;KIR;119;"Line Islands";Island group;"L";15018
 "Kiribati";KI;KIR;119;"Phoenix Islands";Island group;"P";15033
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Chagang-do";province;"04";21370
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Chagang-do";province;"CHA";48098
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hamgyong-bukdo";province;"09";21369
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hamgyong-namdo";province;"08";21368
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hamgyongbuk-do";province;"HAB";48096
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hamgyongnam-do";province;"HAN";48095
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hwanghae-bukto";province;"06";21367
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hwanghae-namdo";province;"05";21366
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hwanghaebuk-do";province;"HWB";48092
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Hwanghaenam-do";province;"HWN";48091
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Kaesong-si";special city;"KAE";21373
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Kangwon-do";province;"KAN";48097
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Kangwon-do";province;"07";15053
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Najin Sonbong-si";special city;"NAJ";21374
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Nampo-si";special city;"NAM";21375
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Nason";Special City;"13";21371
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyongan-bukdo";province;"03";21363
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyongan-namdo";province;"02";21364
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyonganbuk-do";province;"PYB";48093
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyongannam-do";province;"PYN";48094
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyongyang";Capital City;"01";21372
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Pyongyang-si";special city;"PYO";48099
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Rason";;"X1~";48089
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Yanggang-do";province;"10";21365
-"Korea; Democratic People's Republic Of";KP;PRK;121;"Yanggang-do";province;"YAN";48090
-"Korea; Republic of";KR;KOR;120;"Busan Gwang'yeogsi [Pusan-Kwangyokshi]";metropolitan city;"26";20247
-"Korea; Republic of";KR;KOR;120;"Chungcheongbugdo [Ch'ungch'ongbuk-do]";province;"43";20255
-"Korea; Republic of";KR;KOR;120;"Chungcheongnamdo [Ch'ungch'ongnam-do]";province;"44";20256
-"Korea; Republic of";KR;KOR;120;"Daegu Gwang'yeogsi [Taegu-Kwangyokshi]";metropolitan city;"27";20248
-"Korea; Republic of";KR;KOR;120;"Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]";metropolitan city;"30";20251
-"Korea; Republic of";KR;KOR;120;"Gang'weondo [Kang-won-do]";province;"42";15042
-"Korea; Republic of";KR;KOR;120;"Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]";metropolitan city;"29";20250
-"Korea; Republic of";KR;KOR;120;"Gyeonggido [Kyonggi-do]";province;"41";20253
-"Korea; Republic of";KR;KOR;120;"Gyeongsangbugdo [Kyongsangbuk-do]";province;"47";20259
-"Korea; Republic of";KR;KOR;120;"Gyeongsangnamdo [Kyongsangnam-do]";province;"48";20260
-"Korea; Republic of";KR;KOR;120;"Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]";metropolitan city;"28";20249
-"Korea; Republic of";KR;KOR;120;"Jejudo [Cheju-do]";province;"49";20261
-"Korea; Republic of";KR;KOR;120;"Jeonrabugdo[Chollabuk-do]";province;"45";20257
-"Korea; Republic of";KR;KOR;120;"Jeonranamdo [Chollanam-do]";province;"46";20258
-"Korea; Republic of";KR;KOR;120;"Seoul Teugbyeolsi [Seoul-T'ukpyolshi]";capital metropolitan city;"11";20246
-"Korea; Republic of";KR;KOR;120;"Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]";metropolitan city;"31";20252
+"Democratic People's Republic Of Korea";KP;PRK;121;"Chagang-do";province;"04";21370
+"Democratic People's Republic Of Korea";KP;PRK;121;"Chagang-do";province;"CHA";48098
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hamgyong-bukdo";province;"09";21369
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hamgyong-namdo";province;"08";21368
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hamgyongbuk-do";province;"HAB";48096
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hamgyongnam-do";province;"HAN";48095
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hwanghae-bukto";province;"06";21367
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hwanghae-namdo";province;"05";21366
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hwanghaebuk-do";province;"HWB";48092
+"Democratic People's Republic Of Korea";KP;PRK;121;"Hwanghaenam-do";province;"HWN";48091
+"Democratic People's Republic Of Korea";KP;PRK;121;"Kaesong-si";special city;"KAE";21373
+"Democratic People's Republic Of Korea";KP;PRK;121;"Kangwon-do";province;"KAN";48097
+"Democratic People's Republic Of Korea";KP;PRK;121;"Kangwon-do";province;"07";15053
+"Democratic People's Republic Of Korea";KP;PRK;121;"Najin Sonbong-si";special city;"NAJ";21374
+"Democratic People's Republic Of Korea";KP;PRK;121;"Nampo-si";special city;"NAM";21375
+"Democratic People's Republic Of Korea";KP;PRK;121;"Nason";Special City;"13";21371
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyongan-bukdo";province;"03";21363
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyongan-namdo";province;"02";21364
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyonganbuk-do";province;"PYB";48093
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyongannam-do";province;"PYN";48094
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyongyang";Capital City;"01";21372
+"Democratic People's Republic Of Korea";KP;PRK;121;"Pyongyang-si";special city;"PYO";48099
+"Democratic People's Republic Of Korea";KP;PRK;121;"Rason";;"X1~";48089
+"Democratic People's Republic Of Korea";KP;PRK;121;"Yanggang-do";province;"10";21365
+"Democratic People's Republic Of Korea";KP;PRK;121;"Yanggang-do";province;"YAN";48090
+"Republic of Korea";KR;KOR;120;"Busan Gwang'yeogsi [Pusan-Kwangyokshi]";metropolitan city;"26";20247
+"Republic of Korea";KR;KOR;120;"Chungcheongbugdo [Ch'ungch'ongbuk-do]";province;"43";20255
+"Republic of Korea";KR;KOR;120;"Chungcheongnamdo [Ch'ungch'ongnam-do]";province;"44";20256
+"Republic of Korea";KR;KOR;120;"Daegu Gwang'yeogsi [Taegu-Kwangyokshi]";metropolitan city;"27";20248
+"Republic of Korea";KR;KOR;120;"Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]";metropolitan city;"30";20251
+"Republic of Korea";KR;KOR;120;"Gang'weondo [Kang-won-do]";province;"42";15042
+"Republic of Korea";KR;KOR;120;"Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]";metropolitan city;"29";20250
+"Republic of Korea";KR;KOR;120;"Gyeonggido [Kyonggi-do]";province;"41";20253
+"Republic of Korea";KR;KOR;120;"Gyeongsangbugdo [Kyongsangbuk-do]";province;"47";20259
+"Republic of Korea";KR;KOR;120;"Gyeongsangnamdo [Kyongsangnam-do]";province;"48";20260
+"Republic of Korea";KR;KOR;120;"Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]";metropolitan city;"28";20249
+"Republic of Korea";KR;KOR;120;"Jejudo [Cheju-do]";province;"49";20261
+"Republic of Korea";KR;KOR;120;"Jeonrabugdo[Chollabuk-do]";province;"45";20257
+"Republic of Korea";KR;KOR;120;"Jeonranamdo [Chollanam-do]";province;"46";20258
+"Republic of Korea";KR;KOR;120;"Seoul Teugbyeolsi [Seoul-T'ukpyolshi]";capital metropolitan city;"11";20246
+"Republic of Korea";KR;KOR;120;"Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]";metropolitan city;"31";20252
 "Kuwait";KW;KWT;122;"Al Ahmadi";Governorate;"AH";15064
 "Kuwait";KW;KWT;122;"Al Farwaniyah";Governorate;"FA";15068
 "Kuwait";KW;KWT;122;"Al Jahrah";Governorate;"JA";15063
@@ -2421,175 +2421,175 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Luxembourg";LU;LUX;132;"Luxembourg (fr)";District;"L";15220
 "Macao";MO;MAC;133;"Ilhas";;"I";48266
 "Macao";MO;MAC;133;"Macau";;"M";48267
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Aerodrom";municipality;"01";48906
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Aerodrom *";Municipality;"AD";20121
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Aracinovo";Municipality;"AR";20122
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Aračinovo";municipality;"02";48907
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Berovo";Municipality;"BR";15224
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Berovo";municipality;"03";48908
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bitola";municipality;"04";48909
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bitola";Municipality;"TL";15225
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bogdanci";municipality;"05";48910
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bogdanci";Municipality;"BG";20123
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bogovinje";municipality;"06";48911
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bogovinje";Municipality;"VJ";20124
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bosilovo";Municipality;"BS";20125
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Bosilovo";municipality;"07";48912
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Brvenica";Municipality;"BN";20126
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Brvenica";municipality;"08";48913
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Butel";municipality;"09";48914
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Butel *";Municipality;"BU";20127
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Cair *";Municipality;"CI";20128
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Caška";Municipality;"CA";20129
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Centar";municipality;"77";48915
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Centar *";Municipality;"CE";20130
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Centar Župa";Municipality;"CZ";20131
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Centar Župa";municipality;"78";48916
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Cešinovo-Obleševo";Municipality;"CH";20132
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Cucer Sandevo";Municipality;"CS";20133
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Debar";Municipality;"DB";15227
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Debar";municipality;"21";48921
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Debarca";municipality;"22";48922
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Debarca";Municipality;"DA";20138
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Delcevo";Municipality;"DL";15228
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Delčevo";municipality;"23";48923
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Demir Hisar";municipality;"25";48924
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Demir Hisar";Municipality;"DM";15229
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Demir Kapija";Municipality;"DK";20134
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Demir Kapija";municipality;"24";48925
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Dojran";Municipality;"SD";20135
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Dojran";municipality;"26";48926
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Dolneni";municipality;"27";48927
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Dolneni";Municipality;"DE";20136
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Drugovo";Municipality;"DR";20137
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Drugovo";municipality;"28";48928
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gazi Baba";municipality;"17";48929
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gazi Baba *";Municipality;"GB";20310
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gevgelija";municipality;"18";48930
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gevgelija";Municipality;"GV";15230
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gjorce Petrov *";Municipality;"GP";20311
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gjorče Petrov";municipality;"29";48931
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gostivar";municipality;"19";48932
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gostivar";Municipality;"GT";15233
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gradsko";Municipality;"GR";20312
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Gradsko";municipality;"20";48933
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Ilinden";Municipality;"IL";20313
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Ilinden";municipality;"34";48934
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Jegunovce";Municipality;"JG";20314
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Jegunovce";municipality;"35";48935
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Karbinci";municipality;"37";48936
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Karbinci";Municipality;"KB";20315
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Karpoš";municipality;"38";48937
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Karpoš *";Municipality;"KX";20316
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kavadarci";municipality;"36";48938
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kavadarci";Municipality;"AV";15231
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kicevo";Municipality;"KH";15234
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kisela Voda";municipality;"39";48940
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kisela Voda *";Municipality;"VD";20139
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kičevo";municipality;"40";48939
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kocani";Municipality;"OC";15232
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Konce";Municipality;"KN";20140
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Konče";municipality;"41";48942
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kočani";municipality;"42";48941
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kratovo";municipality;"43";48943
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kratovo";Municipality;"KY";15235
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kriva Palanka";Municipality;"KZ";15249
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kriva Palanka";municipality;"44";48944
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Krivogaštani";municipality;"45";48945
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Krivogaštani";Municipality;"KG";20141
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kruševo";municipality;"46";48946
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kruševo";Municipality;"KS";15236
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kumanovo";municipality;"47";48947
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Kumanovo";Municipality;"UM";15250
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Lipkovo";Municipality;"LI";20142
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Lipkovo";municipality;"48";48948
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Lozovo";Municipality;"LO";20143
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Lozovo";municipality;"49";48949
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Makedonska Kamenica";municipality;"51";48950
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Makedonska Kamenica";Municipality;"MK";20144
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Makedonski Brod";municipality;"52";48951
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Makedonski Brod";Municipality;"MD";20145
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Mavrovo i Rostuša";municipality;"50";48952
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Mavrovo-i-Rostuša";Municipality;"MR";20146
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Mogila";Municipality;"MG";20147
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Mogila";municipality;"53";48953
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Negotino";municipality;"54";48954
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Negotino";Municipality;"NG";15237
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Novaci";Municipality;"NV";20148
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Novaci";municipality;"55";48955
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Novo Selo";Municipality;"NS";20149
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Novo Selo";municipality;"56";48956
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Ohrid";municipality;"58";48957
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Ohrid";Municipality;"OD";15238
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Oslomej";Municipality;"OS";20150
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Oslomej";municipality;"57";48958
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Pehcevo";Municipality;"PH";20151
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Pehčevo";municipality;"60";48959
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Petrovec";municipality;"59";48960
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Petrovec";Municipality;"PE";20152
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Plasnica";municipality;"61";48961
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Plasnica";Municipality;"PN";20153
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Prilep";Municipality;"PP";15248
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Prilep";municipality;"62";48962
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Probištip";Municipality;"PT";15239
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Probištip";municipality;"63";48963
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Radoviš";Municipality;"RV";15247
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Radoviš";municipality;"64";48964
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Rankovce";Municipality;"RN";20154
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Rankovce";municipality;"65";48965
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Resen";municipality;"66";48966
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Resen";Municipality;"RE";15240
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Rosoman";municipality;"67";48967
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Rosoman";Municipality;"RM";20155
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Saraj";municipality;"68";48968
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Saraj *";Municipality;"AJ";20156
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Skopje";;"X1~";15246
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Sopište";municipality;"70";48969
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Sopište";Municipality;"SS";20157
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Staro Nagoricane";Municipality;"NA";20158
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Staro Nagoričane";municipality;"71";48970
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Struga";Municipality;"UG";15242
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Struga";municipality;"72";48971
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Strumica";municipality;"73";48972
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Strumica";Municipality;"RU";15251
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Studenicani";Municipality;"SU";20159
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Studeničani";municipality;"74";48973
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Sveti Nikole";Municipality;"SL";15243
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Sveti Nikole";municipality;"69";48974
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Tearce";municipality;"75";48977
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Tearce";Municipality;"TR";20160
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Tetovo";Municipality;"ET";15252
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Tetovo";municipality;"76";48978
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Valandovo";municipality;"10";48979
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Valandovo";Municipality;"VA";15244
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vasilevo";municipality;"11";48980
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vasilevo";Municipality;"VL";20161
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Veles";Municipality;"VE";15223
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Veles";municipality;"13";48981
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vevcani";Municipality;"VV";20162
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vevčani";municipality;"12";48982
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vinica";municipality;"14";48983
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vinica";Municipality;"NI";15245
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vraneštica";municipality;"15";48984
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vraneštica";Municipality;"VC";20163
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vrapcište";Municipality;"VH";20164
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Vrapčište";municipality;"16";48985
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zajas";municipality;"31";48986
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zajas";Municipality;"ZA";20165
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zelenikovo";municipality;"32";48987
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zelenikovo";Municipality;"ZK";20166
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zrnovci";municipality;"33";48988
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Zrnovci";Municipality;"ZR";20167
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Čair";municipality;"79";48917
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Čaška";municipality;"80";48918
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Češinovo-Obleševo";municipality;"81";48919
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Čučer Sandevo";municipality;"82";48920
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Štip";municipality;"83";48975
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Štip";Municipality;"ST";15241
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Šuto Orizari";municipality;"84";48976
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Šuto Orizari *";Municipality;"SO";20169
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Želino";municipality;"30";48989
-"Macedonia; the Former Yugoslav Republic Of";MK;MKD;134;"Želino";Municipality;"ZE";20170
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Aerodrom";municipality;"01";48906
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Aerodrom *";Municipality;"AD";20121
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Aracinovo";Municipality;"AR";20122
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Aračinovo";municipality;"02";48907
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Berovo";Municipality;"BR";15224
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Berovo";municipality;"03";48908
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bitola";municipality;"04";48909
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bitola";Municipality;"TL";15225
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bogdanci";municipality;"05";48910
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bogdanci";Municipality;"BG";20123
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bogovinje";municipality;"06";48911
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bogovinje";Municipality;"VJ";20124
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bosilovo";Municipality;"BS";20125
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Bosilovo";municipality;"07";48912
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Brvenica";Municipality;"BN";20126
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Brvenica";municipality;"08";48913
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Butel";municipality;"09";48914
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Butel *";Municipality;"BU";20127
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Cair *";Municipality;"CI";20128
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Caška";Municipality;"CA";20129
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Centar";municipality;"77";48915
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Centar *";Municipality;"CE";20130
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Centar Župa";Municipality;"CZ";20131
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Centar Župa";municipality;"78";48916
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Cešinovo-Obleševo";Municipality;"CH";20132
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Cucer Sandevo";Municipality;"CS";20133
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Debar";Municipality;"DB";15227
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Debar";municipality;"21";48921
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Debarca";municipality;"22";48922
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Debarca";Municipality;"DA";20138
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Delcevo";Municipality;"DL";15228
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Delčevo";municipality;"23";48923
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Demir Hisar";municipality;"25";48924
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Demir Hisar";Municipality;"DM";15229
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Demir Kapija";Municipality;"DK";20134
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Demir Kapija";municipality;"24";48925
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Dojran";Municipality;"SD";20135
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Dojran";municipality;"26";48926
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Dolneni";municipality;"27";48927
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Dolneni";Municipality;"DE";20136
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Drugovo";Municipality;"DR";20137
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Drugovo";municipality;"28";48928
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gazi Baba";municipality;"17";48929
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gazi Baba *";Municipality;"GB";20310
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gevgelija";municipality;"18";48930
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gevgelija";Municipality;"GV";15230
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gjorce Petrov *";Municipality;"GP";20311
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gjorče Petrov";municipality;"29";48931
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gostivar";municipality;"19";48932
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gostivar";Municipality;"GT";15233
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gradsko";Municipality;"GR";20312
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Gradsko";municipality;"20";48933
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Ilinden";Municipality;"IL";20313
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Ilinden";municipality;"34";48934
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Jegunovce";Municipality;"JG";20314
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Jegunovce";municipality;"35";48935
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Karbinci";municipality;"37";48936
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Karbinci";Municipality;"KB";20315
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Karpoš";municipality;"38";48937
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Karpoš *";Municipality;"KX";20316
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kavadarci";municipality;"36";48938
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kavadarci";Municipality;"AV";15231
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kicevo";Municipality;"KH";15234
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kisela Voda";municipality;"39";48940
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kisela Voda *";Municipality;"VD";20139
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kičevo";municipality;"40";48939
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kocani";Municipality;"OC";15232
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Konce";Municipality;"KN";20140
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Konče";municipality;"41";48942
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kočani";municipality;"42";48941
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kratovo";municipality;"43";48943
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kratovo";Municipality;"KY";15235
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kriva Palanka";Municipality;"KZ";15249
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kriva Palanka";municipality;"44";48944
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Krivogaštani";municipality;"45";48945
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Krivogaštani";Municipality;"KG";20141
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kruševo";municipality;"46";48946
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kruševo";Municipality;"KS";15236
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kumanovo";municipality;"47";48947
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Kumanovo";Municipality;"UM";15250
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Lipkovo";Municipality;"LI";20142
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Lipkovo";municipality;"48";48948
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Lozovo";Municipality;"LO";20143
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Lozovo";municipality;"49";48949
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Makedonska Kamenica";municipality;"51";48950
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Makedonska Kamenica";Municipality;"MK";20144
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Makedonski Brod";municipality;"52";48951
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Makedonski Brod";Municipality;"MD";20145
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Mavrovo i Rostuša";municipality;"50";48952
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Mavrovo-i-Rostuša";Municipality;"MR";20146
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Mogila";Municipality;"MG";20147
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Mogila";municipality;"53";48953
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Negotino";municipality;"54";48954
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Negotino";Municipality;"NG";15237
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Novaci";Municipality;"NV";20148
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Novaci";municipality;"55";48955
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Novo Selo";Municipality;"NS";20149
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Novo Selo";municipality;"56";48956
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Ohrid";municipality;"58";48957
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Ohrid";Municipality;"OD";15238
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Oslomej";Municipality;"OS";20150
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Oslomej";municipality;"57";48958
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Pehcevo";Municipality;"PH";20151
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Pehčevo";municipality;"60";48959
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Petrovec";municipality;"59";48960
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Petrovec";Municipality;"PE";20152
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Plasnica";municipality;"61";48961
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Plasnica";Municipality;"PN";20153
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Prilep";Municipality;"PP";15248
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Prilep";municipality;"62";48962
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Probištip";Municipality;"PT";15239
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Probištip";municipality;"63";48963
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Radoviš";Municipality;"RV";15247
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Radoviš";municipality;"64";48964
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Rankovce";Municipality;"RN";20154
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Rankovce";municipality;"65";48965
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Resen";municipality;"66";48966
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Resen";Municipality;"RE";15240
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Rosoman";municipality;"67";48967
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Rosoman";Municipality;"RM";20155
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Saraj";municipality;"68";48968
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Saraj *";Municipality;"AJ";20156
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Skopje";;"X1~";15246
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Sopište";municipality;"70";48969
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Sopište";Municipality;"SS";20157
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Staro Nagoricane";Municipality;"NA";20158
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Staro Nagoričane";municipality;"71";48970
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Struga";Municipality;"UG";15242
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Struga";municipality;"72";48971
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Strumica";municipality;"73";48972
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Strumica";Municipality;"RU";15251
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Studenicani";Municipality;"SU";20159
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Studeničani";municipality;"74";48973
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Sveti Nikole";Municipality;"SL";15243
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Sveti Nikole";municipality;"69";48974
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Tearce";municipality;"75";48977
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Tearce";Municipality;"TR";20160
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Tetovo";Municipality;"ET";15252
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Tetovo";municipality;"76";48978
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Valandovo";municipality;"10";48979
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Valandovo";Municipality;"VA";15244
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vasilevo";municipality;"11";48980
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vasilevo";Municipality;"VL";20161
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Veles";Municipality;"VE";15223
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Veles";municipality;"13";48981
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vevcani";Municipality;"VV";20162
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vevčani";municipality;"12";48982
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vinica";municipality;"14";48983
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vinica";Municipality;"NI";15245
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vraneštica";municipality;"15";48984
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vraneštica";Municipality;"VC";20163
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vrapcište";Municipality;"VH";20164
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Vrapčište";municipality;"16";48985
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zajas";municipality;"31";48986
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zajas";Municipality;"ZA";20165
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zelenikovo";municipality;"32";48987
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zelenikovo";Municipality;"ZK";20166
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zrnovci";municipality;"33";48988
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Zrnovci";Municipality;"ZR";20167
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Čair";municipality;"79";48917
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Čaška";municipality;"80";48918
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Češinovo-Obleševo";municipality;"81";48919
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Čučer Sandevo";municipality;"82";48920
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Štip";municipality;"83";48975
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Štip";Municipality;"ST";15241
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Šuto Orizari";municipality;"84";48976
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Šuto Orizari *";Municipality;"SO";20169
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Želino";municipality;"30";48989
+"the Former Yugoslav Republic Of Macedonia";MK;MKD;134;"Želino";Municipality;"ZE";20170
 "Madagascar";MG;MDG;135;"Antananarivo";Province;"T";15255
 "Madagascar";MG;MDG;135;"Antsiranana";Province;"D";15254
 "Madagascar";MG;MDG;135;"Fianarantsoa";Province;"F";15258
@@ -2770,50 +2770,50 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Mexico";MX;MEX;146;"Veracruz";state;"VER";15410
 "Mexico";MX;MEX;146;"Yucatán";state;"YUC";15402
 "Mexico";MX;MEX;146;"Zacatecas";state;"ZAC";15411
-"Micronesia; Federated States Of";FM;FSM;147;"Chuuk";State;"TRK";15437
-"Micronesia; Federated States Of";FM;FSM;147;"Kosrae";State;"KSA";15436
-"Micronesia; Federated States Of";FM;FSM;147;"Pohnpei";State;"PNI";15434
-"Micronesia; Federated States Of";FM;FSM;147;"Yap";State;"YAP";15438
-"Moldova; Republic of";MD;MDA;148;"Anenii Noi";district;"AN";15471
-"Moldova; Republic of";MD;MDA;148;"Basarabeasca";district;"BS";15454
-"Moldova; Republic of";MD;MDA;148;"Briceni";district;"BR";15472
-"Moldova; Republic of";MD;MDA;148;"Bălţi";city;"BA";15453
-"Moldova; Republic of";MD;MDA;148;"Cahul";district;"CA";15455
-"Moldova; Republic of";MD;MDA;148;"Cantemir";district;"CT";15458
-"Moldova; Republic of";MD;MDA;148;"Chisinau";city;"CU";15459
-"Moldova; Republic of";MD;MDA;148;"Chisinau City";city;"CH";20309
-"Moldova; Republic of";MD;MDA;148;"Cimişlia";district;"CM";15460
-"Moldova; Republic of";MD;MDA;148;"Criuleni";district;"CR";15475
-"Moldova; Republic of";MD;MDA;148;"Călăraşi";district;"CL";15473
-"Moldova; Republic of";MD;MDA;148;"Căuşeni";district;"CS";15474
-"Moldova; Republic of";MD;MDA;148;"Donduşeni";district;"DO";15461
-"Moldova; Republic of";MD;MDA;148;"Drochia";district;"DR";15476
-"Moldova; Republic of";MD;MDA;148;"Dubăsari";district;"DU";15444
-"Moldova; Republic of";MD;MDA;148;"Edinet";district;"ED";15477
-"Moldova; Republic of";MD;MDA;148;"Floreşti";district;"FL";15443
-"Moldova; Republic of";MD;MDA;148;"Făleşti";district;"FA";15445
-"Moldova; Republic of";MD;MDA;148;"Gagauzia; Unitatea teritoriala autonoma (UTAG)";autonomous territorial unit;"GA";15446
-"Moldova; Republic of";MD;MDA;148;"Glodeni";district;"GL";15478
-"Moldova; Republic of";MD;MDA;148;"Hînceşti";district;"HI";15448
-"Moldova; Republic of";MD;MDA;148;"Ialoveni";district;"IA";15442
-"Moldova; Republic of";MD;MDA;148;"Leova";district;"LE";15449
-"Moldova; Republic of";MD;MDA;148;"Lăpuşina";district;"LA";20171
-"Moldova; Republic of";MD;MDA;148;"Nisporeni";district;"NI";15450
-"Moldova; Republic of";MD;MDA;148;"Ocniţa";district;"OC";15479
-"Moldova; Republic of";MD;MDA;148;"Orhei";district;"OR";15451
-"Moldova; Republic of";MD;MDA;148;"Rezina";district;"RE";15441
-"Moldova; Republic of";MD;MDA;148;"Rîşcani";district;"RI";15463
-"Moldova; Republic of";MD;MDA;148;"Soroca";district;"SO";15466
-"Moldova; Republic of";MD;MDA;148;"Străşeni";district;"ST";15467
-"Moldova; Republic of";MD;MDA;148;"Stînga Nistrului; unitatea teritoriala din";territorial unit;"SN";20172
-"Moldova; Republic of";MD;MDA;148;"Sîngerei";district;"SI";15464
-"Moldova; Republic of";MD;MDA;148;"Taraclia";district;"TA";15481
-"Moldova; Republic of";MD;MDA;148;"Teleneşti";district;"TE";15468
-"Moldova; Republic of";MD;MDA;148;"Tighina";city;"BD";15469
-"Moldova; Republic of";MD;MDA;148;"Tighina";district;"TI";48215
-"Moldova; Republic of";MD;MDA;148;"Ungheni";district;"UN";15470
-"Moldova; Republic of";MD;MDA;148;"Şoldăneşti";district;"SD";15465
-"Moldova; Republic of";MD;MDA;148;"Ştefan Vodă";district;"SV";15440
+"Federated States Of Micronesia";FM;FSM;147;"Chuuk";State;"TRK";15437
+"Federated States Of Micronesia";FM;FSM;147;"Kosrae";State;"KSA";15436
+"Federated States Of Micronesia";FM;FSM;147;"Pohnpei";State;"PNI";15434
+"Federated States Of Micronesia";FM;FSM;147;"Yap";State;"YAP";15438
+"Republic of Moldova";MD;MDA;148;"Anenii Noi";district;"AN";15471
+"Republic of Moldova";MD;MDA;148;"Basarabeasca";district;"BS";15454
+"Republic of Moldova";MD;MDA;148;"Briceni";district;"BR";15472
+"Republic of Moldova";MD;MDA;148;"Bălţi";city;"BA";15453
+"Republic of Moldova";MD;MDA;148;"Cahul";district;"CA";15455
+"Republic of Moldova";MD;MDA;148;"Cantemir";district;"CT";15458
+"Republic of Moldova";MD;MDA;148;"Chisinau";city;"CU";15459
+"Republic of Moldova";MD;MDA;148;"Chisinau City";city;"CH";20309
+"Republic of Moldova";MD;MDA;148;"Cimişlia";district;"CM";15460
+"Republic of Moldova";MD;MDA;148;"Criuleni";district;"CR";15475
+"Republic of Moldova";MD;MDA;148;"Călăraşi";district;"CL";15473
+"Republic of Moldova";MD;MDA;148;"Căuşeni";district;"CS";15474
+"Republic of Moldova";MD;MDA;148;"Donduşeni";district;"DO";15461
+"Republic of Moldova";MD;MDA;148;"Drochia";district;"DR";15476
+"Republic of Moldova";MD;MDA;148;"Dubăsari";district;"DU";15444
+"Republic of Moldova";MD;MDA;148;"Edinet";district;"ED";15477
+"Republic of Moldova";MD;MDA;148;"Floreşti";district;"FL";15443
+"Republic of Moldova";MD;MDA;148;"Făleşti";district;"FA";15445
+"Republic of Moldova";MD;MDA;148;"Unitatea teritoriala autonoma (UTAG) Gagauzia";autonomous territorial unit;"GA";15446
+"Republic of Moldova";MD;MDA;148;"Glodeni";district;"GL";15478
+"Republic of Moldova";MD;MDA;148;"Hînceşti";district;"HI";15448
+"Republic of Moldova";MD;MDA;148;"Ialoveni";district;"IA";15442
+"Republic of Moldova";MD;MDA;148;"Leova";district;"LE";15449
+"Republic of Moldova";MD;MDA;148;"Lăpuşina";district;"LA";20171
+"Republic of Moldova";MD;MDA;148;"Nisporeni";district;"NI";15450
+"Republic of Moldova";MD;MDA;148;"Ocniţa";district;"OC";15479
+"Republic of Moldova";MD;MDA;148;"Orhei";district;"OR";15451
+"Republic of Moldova";MD;MDA;148;"Rezina";district;"RE";15441
+"Republic of Moldova";MD;MDA;148;"Rîşcani";district;"RI";15463
+"Republic of Moldova";MD;MDA;148;"Soroca";district;"SO";15466
+"Republic of Moldova";MD;MDA;148;"Străşeni";district;"ST";15467
+"Republic of Moldova";MD;MDA;148;"unitatea teritoriala din Stînga Nistrului";territorial unit;"SN";20172
+"Republic of Moldova";MD;MDA;148;"Sîngerei";district;"SI";15464
+"Republic of Moldova";MD;MDA;148;"Taraclia";district;"TA";15481
+"Republic of Moldova";MD;MDA;148;"Teleneşti";district;"TE";15468
+"Republic of Moldova";MD;MDA;148;"Tighina";city;"BD";15469
+"Republic of Moldova";MD;MDA;148;"Tighina";district;"TI";48215
+"Republic of Moldova";MD;MDA;148;"Ungheni";district;"UN";15470
+"Republic of Moldova";MD;MDA;148;"Şoldăneşti";district;"SD";15465
+"Republic of Moldova";MD;MDA;148;"Ştefan Vodă";district;"SV";15440
 "Monaco";MC;MCO;149;"Fontvieille";quarter;"FO";48841
 "Monaco";MC;MCO;149;"Jardin Exotique";quarter;"JE";48842
 "Monaco";MC;MCO;149;"La Colle";quarter;"CL";48843
@@ -2899,7 +2899,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Morocco";MA;MAR;153;"Errachidia";province;"ERR";15547
 "Morocco";MA;MAR;153;"Es Smara (EH)";province;"ESM";20174
 "Morocco";MA;MAR;153;"Essaouira";province;"ESI";15523
-"Morocco";MA;MAR;153;"Fahs-Beni Makada ";prefecture;"FAH";48476
+"Morocco";MA;MAR;153;"Fahs-Beni Makada";prefecture;"FAH";48476
 "Morocco";MA;MAR;153;"Fes-Boulemane";Region;"05";15566
 "Morocco";MA;MAR;153;"Figuig";province;"FIG";15549
 "Morocco";MA;MAR;153;"Fès-Dar-Dbibegh";prefecture;"FES";15536
@@ -2908,7 +2908,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Morocco";MA;MAR;153;"Guelmim";province;"GUE";15520
 "Morocco";MA;MAR;153;"Guelmim-Es Smar";Region;"14";15567
 "Morocco";MA;MAR;153;"Ifrane";province;"IFR";15525
-"Morocco";MA;MAR;153;"Inezgane-Ait Melloul ";prefecture;"INE";48477
+"Morocco";MA;MAR;153;"Inezgane-Ait Melloul";prefecture;"INE";48477
 "Morocco";MA;MAR;153;"Jrada";province;"JRA";15550
 "Morocco";MA;MAR;153;"Kelaat es Sraghna";province;"KES";15544
 "Morocco";MA;MAR;153;"Khemisset";province;"KHE";15552
@@ -2921,13 +2921,13 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Morocco";MA;MAR;153;"Larache";province;"LAR";15560
 "Morocco";MA;MAR;153;"Laâyoune*";province;"LAA";20175
 "Morocco";MA;MAR;153;"Marrakech*";;"MAR";15545
-"Morocco";MA;MAR;153;"Marrakech-Medina ";prefecture;"MMD";48478
-"Morocco";MA;MAR;153;"Marrakech-Menara ";prefecture;"MMN";48479
+"Morocco";MA;MAR;153;"Marrakech-Medina";prefecture;"MMD";48478
+"Morocco";MA;MAR;153;"Marrakech-Menara";prefecture;"MMN";48479
 "Morocco";MA;MAR;153;"Marrakech-Tensift-Al Haouz";Region;"11";15531
 "Morocco";MA;MAR;153;"Mediouna";province;"MED";15539
 "Morocco";MA;MAR;153;"Meknes-Tafilalet";Region;"06";15568
 "Morocco";MA;MAR;153;"Meknès";prefecture;"MEK";15546
-"Morocco";MA;MAR;153;"Mohammadia ";prefecture;"MOH";48480
+"Morocco";MA;MAR;153;"Mohammadia";prefecture;"MOH";48480
 "Morocco";MA;MAR;153;"Moulay Yacoub";;"MOU";15537
 "Morocco";MA;MAR;153;"Nador";province;"NAD";15527
 "Morocco";MA;MAR;153;"Nouaceur";province;"NOU";15580
@@ -2942,13 +2942,13 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Morocco";MA;MAR;153;"Sefrou";;"SEF";15577
 "Morocco";MA;MAR;153;"Settat";province;"SET";15574
 "Morocco";MA;MAR;153;"Sidi Kacem";province;"SIK";15538
-"Morocco";MA;MAR;153;"Sidi Youssef Ben Ali ";prefecture;"SYB";48483
+"Morocco";MA;MAR;153;"Sidi Youssef Ben Ali";prefecture;"SYB";48483
 "Morocco";MA;MAR;153;"Skhirate-Témara";prefecture;"SKH";48484
 "Morocco";MA;MAR;153;"Souss-Massa-Draa";Region;"13";15570
 "Morocco";MA;MAR;153;"Tadla-Azilal";Region;"12";15533
 "Morocco";MA;MAR;153;"Tan-Tan";province;"TNT";15542
 "Morocco";MA;MAR;153;"Tanger";;"TNG";15584
-"Morocco";MA;MAR;153;"Tanger-Assilah ";prefecture;"TNG";48485
+"Morocco";MA;MAR;153;"Tanger-Assilah";prefecture;"TNG";48485
 "Morocco";MA;MAR;153;"Tanger-Tetouan";Region;"01";15571
 "Morocco";MA;MAR;153;"Taounate";province;"TAO";15562
 "Morocco";MA;MAR;153;"Taourirt";province;"TAI";15528
@@ -3188,22 +3188,22 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Palau";PW;PLW;172;"Ngiwal";State;"228";15896
 "Palau";PW;PLW;172;"Peleliu";State;"350";15897
 "Palau";PW;PLW;172;"Sonsorol";State;"370";15884
-"Palestinian Territory; Occupied";PS;PSE;173;"Bethlehem Bayt Laḩm";governorates;"BTH";48863
-"Palestinian Territory; Occupied";PS;PSE;173;"Deir El Balah Dayr al Balaḩ";governorates;"DEB";48864
-"Palestinian Territory; Occupied";PS;PSE;173;"Gaza Ghazzah";governorates;"GZA";48865
-"Palestinian Territory; Occupied";PS;PSE;173;"Hebron Al Khalīl";governorates;"HBN";48866
-"Palestinian Territory; Occupied";PS;PSE;173;"Jenin Janīn";governorates;"JEN";48867
-"Palestinian Territory; Occupied";PS;PSE;173;"Jericho – Al Aghwar Arīḩā wa al Aghwār";governorates;"JRH";48868
-"Palestinian Territory; Occupied";PS;PSE;173;"Jerusalem Al Quds";governorates;"JEM";48869
-"Palestinian Territory; Occupied";PS;PSE;173;"Khan Yunis Khān Yūnis";governorates;"KYS";48870
-"Palestinian Territory; Occupied";PS;PSE;173;"Nablus Nāblus";governorates;"NBS";48871
-"Palestinian Territory; Occupied";PS;PSE;173;"North Gaza Shamāl Ghazzah";governorates;"NGZ";48872
-"Palestinian Territory; Occupied";PS;PSE;173;"Qalqilya Qalqīlyah";governorates;"QQA";48873
-"Palestinian Territory; Occupied";PS;PSE;173;"Rafah Rafaḩ";governorates;"RFH";48874
-"Palestinian Territory; Occupied";PS;PSE;173;"Ramallah Rām Allāh wa al Bīrah";governorates;"RBH";48875
-"Palestinian Territory; Occupied";PS;PSE;173;"Salfit Salfīt";governorates;"SLT";48876
-"Palestinian Territory; Occupied";PS;PSE;173;"Tubas Ţūbās";governorates;"TBS";48877
-"Palestinian Territory; Occupied";PS;PSE;173;"Tulkarm Ţūlkarm";governorates;"TKM";48878
+"Occupied Palestinian Territory";PS;PSE;173;"Bethlehem Bayt Laḩm";governorates;"BTH";48863
+"Occupied Palestinian Territory";PS;PSE;173;"Deir El Balah Dayr al Balaḩ";governorates;"DEB";48864
+"Occupied Palestinian Territory";PS;PSE;173;"Gaza Ghazzah";governorates;"GZA";48865
+"Occupied Palestinian Territory";PS;PSE;173;"Hebron Al Khalīl";governorates;"HBN";48866
+"Occupied Palestinian Territory";PS;PSE;173;"Jenin Janīn";governorates;"JEN";48867
+"Occupied Palestinian Territory";PS;PSE;173;"Jericho – Al Aghwar Arīḩā wa al Aghwār";governorates;"JRH";48868
+"Occupied Palestinian Territory";PS;PSE;173;"Jerusalem Al Quds";governorates;"JEM";48869
+"Occupied Palestinian Territory";PS;PSE;173;"Khan Yunis Khān Yūnis";governorates;"KYS";48870
+"Occupied Palestinian Territory";PS;PSE;173;"Nablus Nāblus";governorates;"NBS";48871
+"Occupied Palestinian Territory";PS;PSE;173;"North Gaza Shamāl Ghazzah";governorates;"NGZ";48872
+"Occupied Palestinian Territory";PS;PSE;173;"Qalqilya Qalqīlyah";governorates;"QQA";48873
+"Occupied Palestinian Territory";PS;PSE;173;"Rafah Rafaḩ";governorates;"RFH";48874
+"Occupied Palestinian Territory";PS;PSE;173;"Ramallah Rām Allāh wa al Bīrah";governorates;"RBH";48875
+"Occupied Palestinian Territory";PS;PSE;173;"Salfit Salfīt";governorates;"SLT";48876
+"Occupied Palestinian Territory";PS;PSE;173;"Tubas Ţūbās";governorates;"TBS";48877
+"Occupied Palestinian Territory";PS;PSE;173;"Tulkarm Ţūlkarm";governorates;"TKM";48878
 "Panama";PA;PAN;175;"Bocas del Toro";province;"1";15928
 "Panama";PA;PAN;175;"Chiriquí";province;"4";15920
 "Panama";PA;PAN;175;"Coclé";province;"2";15929
@@ -3472,40 +3472,40 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Romania";RO;ROU;189;"Vaslui";County;"VS";17816
 "Romania";RO;ROU;189;"Vrancea";County;"VN";17781
 "Romania";RO;ROU;189;"Vâlcea";County;"VL";17818
-"Russian Federation";RU;RUS;190;"Adygeya; Respublika";republic;"AD";17879
+"Russian Federation";RU;RUS;190;"Respublika Adygeya";republic;"AD";17879
 "Russian Federation";RU;RUS;190;"Aginskiy Buryatskiy avtonomnyy okrug";autonomous district;"AGB";17880
-"Russian Federation";RU;RUS;190;"Altay; Respublika";republic;"AL";17857
+"Russian Federation";RU;RUS;190;"Respublika Altay";republic;"AL";17857
 "Russian Federation";RU;RUS;190;"Altayskiy kray";administrative territory;"ALT";17881
 "Russian Federation";RU;RUS;190;"Amurskaya oblast'";administrative region;"AMU";17882
 "Russian Federation";RU;RUS;190;"Arkhangel'skaya oblast'";administrative region;"ARK";17853
 "Russian Federation";RU;RUS;190;"Astrakhanskaya oblast'";administrative region;"AST";17883
-"Russian Federation";RU;RUS;190;"Bashkortostan; Respublika";republic;"BA";17884
+"Russian Federation";RU;RUS;190;"Respublika Bashkortostan";republic;"BA";17884
 "Russian Federation";RU;RUS;190;"Belgorodskaya oblast'";administrative region;"BEL";17854
 "Russian Federation";RU;RUS;190;"Bryanskaya oblast'";administrative region;"BRY";17885
-"Russian Federation";RU;RUS;190;"Buryatiya; Respublika";republic;"BU";17886
+"Russian Federation";RU;RUS;190;"Respublika Buryatiya";republic;"BU";17886
 "Russian Federation";RU;RUS;190;"Chechenskaya Respublika";republic;"CE";17855
 "Russian Federation";RU;RUS;190;"Chelyabinskaya oblast'";administrative region;"CHE";17887
 "Russian Federation";RU;RUS;190;"Chitinskaya oblast'";administrative region;"CHI";17888
 "Russian Federation";RU;RUS;190;"Chukotskiy avtonomnyy okrug";autonomous district;"CHU";17889
 "Russian Federation";RU;RUS;190;"Chuvashskaya Respublika";republic;"CU";17856
-"Russian Federation";RU;RUS;190;"Dagestan; Respublika";republic;"DA";17890
+"Russian Federation";RU;RUS;190;"Respublika Dagestan";republic;"DA";17890
 "Russian Federation";RU;RUS;190;"Evenkiyskiy avtonomnyy okrug";autonomous district;"EVE";17891
 "Russian Federation";RU;RUS;190;"Ingushskaya Respublika [Respublika Ingushetiya]";republic;"IN";17894
 "Russian Federation";RU;RUS;190;"Irkutskaya oblast'";administrative region;"IRK";17895
 "Russian Federation";RU;RUS;190;"Ivanovskaya oblast'";administrative region;"IVA";17859
 "Russian Federation";RU;RUS;190;"Kabardino-Balkarskaya Respublika";republic;"KB";17899
 "Russian Federation";RU;RUS;190;"Kaliningradskaya oblast'";administrative region;"KGD";17900
-"Russian Federation";RU;RUS;190;"Kalmykiya; Respublika";republic;"KL";17901
+"Russian Federation";RU;RUS;190;"Respublika Kalmykiya";republic;"KL";17901
 "Russian Federation";RU;RUS;190;"Kaluzhskaya oblast'";administrative region;"KLU";17902
 "Russian Federation";RU;RUS;190;"Kamchatskaya oblast'";administrative territory;"KAM";17903
 "Russian Federation";RU;RUS;190;"Karachayevo-Cherkesskaya Respublika";republic;"KC";17904
-"Russian Federation";RU;RUS;190;"Kareliya; Respublika";republic;"KR";17905
+"Russian Federation";RU;RUS;190;"Respublika Kareliya";republic;"KR";17905
 "Russian Federation";RU;RUS;190;"Kemerovskaya oblast'";administrative region;"KEM";17843
 "Russian Federation";RU;RUS;190;"Khabarovskiy kray";administrative territory;"KHA";17892
-"Russian Federation";RU;RUS;190;"Khakasiya; Respublika";republic;"KK";17893
+"Russian Federation";RU;RUS;190;"Respublika Khakasiya";republic;"KK";17893
 "Russian Federation";RU;RUS;190;"Khanty-Mansiyskiy avtonomnyy okrug [Yugra]";autonomous district;"KHM";17858
 "Russian Federation";RU;RUS;190;"Kirovskaya oblast'";administrative region;"KIR";17844
-"Russian Federation";RU;RUS;190;"Komi; Respublika";republic;"KO";17845
+"Russian Federation";RU;RUS;190;"Respublika Komi";republic;"KO";17845
 "Russian Federation";RU;RUS;190;"Komi-Permyak";;"X1~";17846
 "Russian Federation";RU;RUS;190;"Koryakskiy avtonomnyy okrug";autonomous district;"KOR";17860
 "Russian Federation";RU;RUS;190;"Kostromskaya oblast'";administrative region;"KOS";17847
@@ -3516,8 +3516,8 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Russian Federation";RU;RUS;190;"Leningradskaya oblast'";administrative region;"LEN";17850
 "Russian Federation";RU;RUS;190;"Lipetskaya oblast'";administrative region;"LIP";17863
 "Russian Federation";RU;RUS;190;"Magadanskaya oblast'";administrative region;"MAG";17851
-"Russian Federation";RU;RUS;190;"Mariy El; Respublika";republic;"ME";17834
-"Russian Federation";RU;RUS;190;"Mordoviya; Respublika";republic;"MO";17864
+"Russian Federation";RU;RUS;190;"Respublika Mariy El";republic;"ME";17834
+"Russian Federation";RU;RUS;190;"Respublika Mordoviya";republic;"MO";17864
 "Russian Federation";RU;RUS;190;"Moskovskaya oblast'";administrative region;"MOS";17836
 "Russian Federation";RU;RUS;190;"Moskva";autonomous city;"MOW";17835
 "Russian Federation";RU;RUS;190;"Murmanskaya oblast'";administrative region;"MUR";17865
@@ -3534,23 +3534,23 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Russian Federation";RU;RUS;190;"Pskovskaya oblast'";administrative region;"PSK";17869
 "Russian Federation";RU;RUS;190;"Rostovskaya oblast'";administrative region;"ROS";17870
 "Russian Federation";RU;RUS;190;"Ryazanskaya oblast'";administrative region;"RYA";17826
-"Russian Federation";RU;RUS;190;"Sakha; Respublika [Yakutiya]";republic;"SA";17827
+"Russian Federation";RU;RUS;190;"Respublika [Yakutiya] Sakha";republic;"SA";17827
 "Russian Federation";RU;RUS;190;"Sakhalinskaya oblast'";administrative region;"SAK";17828
 "Russian Federation";RU;RUS;190;"Samarskaya oblast'";administrative region;"SAM";17871
 "Russian Federation";RU;RUS;190;"Sankt-Peterburg";autonomous city;"SPE";17829
 "Russian Federation";RU;RUS;190;"Saratovskaya oblast'";administrative region;"SAR";17872
-"Russian Federation";RU;RUS;190;"Severnaya Osetiya; Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]";republic;"SE";17852
+"Russian Federation";RU;RUS;190;"Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya] Severnaya Osetiya";republic;"SE";17852
 "Russian Federation";RU;RUS;190;"Smolenskaya oblast'";administrative region;"SMO";17830
 "Russian Federation";RU;RUS;190;"Stavropol'skiy kray";administrative territory;"STA";17831
 "Russian Federation";RU;RUS;190;"Sverdlovskaya oblast'";administrative region;"SVE";17832
 "Russian Federation";RU;RUS;190;"Tambovskaya oblast'";administrative region;"TAM";17833
-"Russian Federation";RU;RUS;190;"Tatarstan; Respublika";republic;"TA";17824
+"Russian Federation";RU;RUS;190;"Respublika Tatarstan";republic;"TA";17824
 "Russian Federation";RU;RUS;190;"Taymyrskiy (Dolgano-Nenetskiy) avtonomnyy okrug";autonomous district;"TAY";17873
 "Russian Federation";RU;RUS;190;"Tomskaya oblast'";administrative region;"TOM";17906
 "Russian Federation";RU;RUS;190;"Tul'skaya oblast'";administrative region;"TUL";17875
 "Russian Federation";RU;RUS;190;"Tverskaya oblast'";administrative region;"TVE";17910
 "Russian Federation";RU;RUS;190;"Tyumenskaya oblast'";administrative region;"TYU";17874
-"Russian Federation";RU;RUS;190;"Tyva; Respublika [Tuva]";republic;"TY";17909
+"Russian Federation";RU;RUS;190;"Respublika [Tuva] Tyva";republic;"TY";17909
 "Russian Federation";RU;RUS;190;"Udmurtskaya Respublika";republic;"UD";17876
 "Russian Federation";RU;RUS;190;"Ul'yanovskaya oblast'";administrative region;"ULY";17908
 "Russian Federation";RU;RUS;190;"Ust'-Ordynskiy Buryatskiy avtonomnyy okrug";autonomous district;"UOB";17911
@@ -3567,12 +3567,12 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Rwanda";RW;RWA;191;"Ouest";province;"04";19065
 "Rwanda";RW;RWA;191;"Sud";province;"05";17912
 "Rwanda";RW;RWA;191;"Ville de Kigali";province;"01";17923
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Ascension";dependency;"AC";17926
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Ascension";geographical entities;"AC";48879
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Saint Helena";geographical entities;"HL";48880
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Saint Helena";administrative area;"SH";17930
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Tristan da Cunha";geographical entities;"TA";48881
-"Saint Helena; Ascension and Tristan Da Cunha";SH;SHN;192;"Tristan da Cunha";dependency;"TA";17925
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Ascension";dependency;"AC";17926
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Ascension";geographical entities;"AC";48879
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Saint Helena";geographical entities;"HL";48880
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Saint Helena";administrative area;"SH";17930
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Tristan da Cunha";geographical entities;"TA";48881
+"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Tristan da Cunha";dependency;"TA";17925
 "Saint Kitts And Nevis";KN;KNA;193;"Christ Church Nichola Town";Parish;"01";17933
 "Saint Kitts And Nevis";KN;KNA;193;"Nevis";state;"N";48461
 "Saint Kitts And Nevis";KN;KNA;193;"Saint Anne Sandy Point";Parish;"02";17940
@@ -3981,7 +3981,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Spain";ES;ESP;212;"Almería";province;"AL";18138
 "Spain";ES;ESP;212;"Andalucía";;"AN";19572
 "Spain";ES;ESP;212;"Asturias";province;"O";18122
-"Spain";ES;ESP;212;"Asturias; Principado de";autonomous community;"AS";47901
+"Spain";ES;ESP;212;"Principado de Asturias";autonomous community;"AS";47901
 "Spain";ES;ESP;212;"Badajoz";province;"BA";18140
 "Spain";ES;ESP;212;"Baleares";province;"PM";18123
 "Spain";ES;ESP;212;"Barcelona";province;"B";18141
@@ -4015,13 +4015,13 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Spain";ES;ESP;212;"Lleida";province;"L";18134
 "Spain";ES;ESP;212;"Lugo";province;"LU";18145
 "Spain";ES;ESP;212;"Madrid";province;"M";18159
-"Spain";ES;ESP;212;"Madrid; Comunidad de";autonomous community;"MD";42628
+"Spain";ES;ESP;212;"Comunidad de Madrid";autonomous community;"MD";42628
 "Spain";ES;ESP;212;"Melilla";Autonomous city;"ML";42627
 "Spain";ES;ESP;212;"Murcia";province;"MU";18160
-"Spain";ES;ESP;212;"Murcia; Región de";autonomous community;"MC";47866
+"Spain";ES;ESP;212;"Región de Murcia";autonomous community;"MC";47866
 "Spain";ES;ESP;212;"Málaga";province;"MA";18146
 "Spain";ES;ESP;212;"Navarra";province;"NA";18148
-"Spain";ES;ESP;212;"Navarra; Comunidad Foral de";autonomous community;"NC";42626
+"Spain";ES;ESP;212;"Comunidad Foral de Navarra";autonomous community;"NC";42626
 "Spain";ES;ESP;212;"Ourense";province;"OR";18116
 "Spain";ES;ESP;212;"Palencia";province;"P";18149
 "Spain";ES;ESP;212;"País Vasco";autonomous community;"PV";19580
@@ -4035,7 +4035,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Spain";ES;ESP;212;"Teruel";province;"TE";18118
 "Spain";ES;ESP;212;"Toledo";province;"TO";18119
 "Spain";ES;ESP;212;"Valencia";province;"V";18111
-"Spain";ES;ESP;212;"Valenciana; Comunidad";autonomous community;"VC";42625
+"Spain";ES;ESP;212;"Comunidad Valenciana";autonomous community;"VC";42625
 "Spain";ES;ESP;212;"Valladolid";province;"VA";18120
 "Spain";ES;ESP;212;"Vizcaya";province;"BI";18113
 "Spain";ES;ESP;212;"Zamora";province;"ZA";18114
@@ -4196,59 +4196,59 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Syrian Arab Republic";SY;SYR;220;"Idlib";Province;"ID";18294
 "Syrian Arab Republic";SY;SYR;220;"Rif Dimashq";Province;"RD";18287
 "Syrian Arab Republic";SY;SYR;220;"Tartus";Province;"TA";18281
-"Taiwan; Province Of China";TW;TWN;221;"Changhua";district;"CHA";18312
-"Taiwan; Province Of China";TW;TWN;221;"Chiayi";district;"CYQ";18313
-"Taiwan; Province Of China";TW;TWN;221;"Chiayi Municipality";municipality;"CYI";18308
-"Taiwan; Province Of China";TW;TWN;221;"Hsinchu";district;"HSQ";18310
-"Taiwan; Province Of China";TW;TWN;221;"Hsinchu Municipality";municipality;"HSZ";18309
-"Taiwan; Province Of China";TW;TWN;221;"Hualien";district;"HUA";18314
-"Taiwan; Province Of China";TW;TWN;221;"Ilan";district;"ILA";18311
-"Taiwan; Province Of China";TW;TWN;221;"Kaohsiung";district;"KHQ";18315
-"Taiwan; Province Of China";TW;TWN;221;"Kaohsiung Special Municipality";special municipality;"KHH";18320
-"Taiwan; Province Of China";TW;TWN;221;"Keelung Municipality";municipality;"KEE";18316
-"Taiwan; Province Of China";TW;TWN;221;"Miaoli";district;"MIA";18317
-"Taiwan; Province Of China";TW;TWN;221;"Nantou";district;"NAN";18323
-"Taiwan; Province Of China";TW;TWN;221;"Penghu";district;"PEN";18324
-"Taiwan; Province Of China";TW;TWN;221;"Pingtung";district;"PIF";18318
-"Taiwan; Province Of China";TW;TWN;221;"Taichung";district;"TXQ";18307
-"Taiwan; Province Of China";TW;TWN;221;"Taichung Municipality";municipality;"TXG";18325
-"Taiwan; Province Of China";TW;TWN;221;"Tainan";district;"TNQ";18306
-"Taiwan; Province Of China";TW;TWN;221;"Tainan Municipality";municipality;"TNN";18319
-"Taiwan; Province Of China";TW;TWN;221;"Taipei";district;"TPQ";18305
-"Taiwan; Province Of China";TW;TWN;221;"Taipei Special Municipality";special municipality;"TPE";18326
-"Taiwan; Province Of China";TW;TWN;221;"Taitung";district;"TTT";18304
-"Taiwan; Province Of China";TW;TWN;221;"Taoyuan";district;"TAO";18303
-"Taiwan; Province Of China";TW;TWN;221;"Yunlin";district;"YUN";18302
+"Province Of China Taiwan";TW;TWN;221;"Changhua";district;"CHA";18312
+"Province Of China Taiwan";TW;TWN;221;"Chiayi";district;"CYQ";18313
+"Province Of China Taiwan";TW;TWN;221;"Chiayi Municipality";municipality;"CYI";18308
+"Province Of China Taiwan";TW;TWN;221;"Hsinchu";district;"HSQ";18310
+"Province Of China Taiwan";TW;TWN;221;"Hsinchu Municipality";municipality;"HSZ";18309
+"Province Of China Taiwan";TW;TWN;221;"Hualien";district;"HUA";18314
+"Province Of China Taiwan";TW;TWN;221;"Ilan";district;"ILA";18311
+"Province Of China Taiwan";TW;TWN;221;"Kaohsiung";district;"KHQ";18315
+"Province Of China Taiwan";TW;TWN;221;"Kaohsiung Special Municipality";special municipality;"KHH";18320
+"Province Of China Taiwan";TW;TWN;221;"Keelung Municipality";municipality;"KEE";18316
+"Province Of China Taiwan";TW;TWN;221;"Miaoli";district;"MIA";18317
+"Province Of China Taiwan";TW;TWN;221;"Nantou";district;"NAN";18323
+"Province Of China Taiwan";TW;TWN;221;"Penghu";district;"PEN";18324
+"Province Of China Taiwan";TW;TWN;221;"Pingtung";district;"PIF";18318
+"Province Of China Taiwan";TW;TWN;221;"Taichung";district;"TXQ";18307
+"Province Of China Taiwan";TW;TWN;221;"Taichung Municipality";municipality;"TXG";18325
+"Province Of China Taiwan";TW;TWN;221;"Tainan";district;"TNQ";18306
+"Province Of China Taiwan";TW;TWN;221;"Tainan Municipality";municipality;"TNN";18319
+"Province Of China Taiwan";TW;TWN;221;"Taipei";district;"TPQ";18305
+"Province Of China Taiwan";TW;TWN;221;"Taipei Special Municipality";special municipality;"TPE";18326
+"Province Of China Taiwan";TW;TWN;221;"Taitung";district;"TTT";18304
+"Province Of China Taiwan";TW;TWN;221;"Taoyuan";district;"TAO";18303
+"Province Of China Taiwan";TW;TWN;221;"Yunlin";district;"YUN";18302
 "Tajikistan";TJ;TJK;222;"Gorno-Badakhshan";autonomous region;"GB";18331
 "Tajikistan";TJ;TJK;222;"Khatlon";region;"KT";18327
 "Tajikistan";TJ;TJK;222;"Sughd";region;"SU";18330
 "Tajikistan";TJ;TJK;222;"";city;"X1~";18329
-"Tanzania; United Republic of";TZ;TZA;223;"Arusha";Region;"01";18349
-"Tanzania; United Republic of";TZ;TZA;223;"Dar es Salaam";Region;"02";18350
-"Tanzania; United Republic of";TZ;TZA;223;"Dodoma";Region;"03";18351
-"Tanzania; United Republic of";TZ;TZA;223;"Iringa";Region;"04";18352
-"Tanzania; United Republic of";TZ;TZA;223;"Kagera";Region;"05";18338
-"Tanzania; United Republic of";TZ;TZA;223;"Kaskazini Pemba";Region;"06";18333
-"Tanzania; United Republic of";TZ;TZA;223;"Kaskazini Unguja";Region;"07";19095
-"Tanzania; United Republic of";TZ;TZA;223;"Kigoma";Region;"08";18339
-"Tanzania; United Republic of";TZ;TZA;223;"Kilimanjaro";Region;"09";18340
-"Tanzania; United Republic of";TZ;TZA;223;"Kusini Pemba";Region;"10";19096
-"Tanzania; United Republic of";TZ;TZA;223;"Kusini Unguja";Region;"11";19097
-"Tanzania; United Republic of";TZ;TZA;223;"Lindi";Region;"12";18353
-"Tanzania; United Republic of";TZ;TZA;223;"Manyara";Region;"26";18341
-"Tanzania; United Republic of";TZ;TZA;223;"Mara";Region;"13";18342
-"Tanzania; United Republic of";TZ;TZA;223;"Mbeya";Region;"14";18337
-"Tanzania; United Republic of";TZ;TZA;223;"Mjini Magharibi";Region;"15";19098
-"Tanzania; United Republic of";TZ;TZA;223;"Morogoro";Region;"16";18343
-"Tanzania; United Republic of";TZ;TZA;223;"Mtwara";Region;"17";18354
-"Tanzania; United Republic of";TZ;TZA;223;"Mwanza";Region;"18";18344
-"Tanzania; United Republic of";TZ;TZA;223;"Pwani";Region;"19";18345
-"Tanzania; United Republic of";TZ;TZA;223;"Rukwa";Region;"20";18336
-"Tanzania; United Republic of";TZ;TZA;223;"Ruvuma";Region;"21";18346
-"Tanzania; United Republic of";TZ;TZA;223;"Shinyanga";Region;"22";18347
-"Tanzania; United Republic of";TZ;TZA;223;"Singida";Region;"23";18335
-"Tanzania; United Republic of";TZ;TZA;223;"Tabora";Region;"24";18348
-"Tanzania; United Republic of";TZ;TZA;223;"Tanga";Region;"25";18334
+"United Republic of Tanzania";TZ;TZA;223;"Arusha";Region;"01";18349
+"United Republic of Tanzania";TZ;TZA;223;"Dar es Salaam";Region;"02";18350
+"United Republic of Tanzania";TZ;TZA;223;"Dodoma";Region;"03";18351
+"United Republic of Tanzania";TZ;TZA;223;"Iringa";Region;"04";18352
+"United Republic of Tanzania";TZ;TZA;223;"Kagera";Region;"05";18338
+"United Republic of Tanzania";TZ;TZA;223;"Kaskazini Pemba";Region;"06";18333
+"United Republic of Tanzania";TZ;TZA;223;"Kaskazini Unguja";Region;"07";19095
+"United Republic of Tanzania";TZ;TZA;223;"Kigoma";Region;"08";18339
+"United Republic of Tanzania";TZ;TZA;223;"Kilimanjaro";Region;"09";18340
+"United Republic of Tanzania";TZ;TZA;223;"Kusini Pemba";Region;"10";19096
+"United Republic of Tanzania";TZ;TZA;223;"Kusini Unguja";Region;"11";19097
+"United Republic of Tanzania";TZ;TZA;223;"Lindi";Region;"12";18353
+"United Republic of Tanzania";TZ;TZA;223;"Manyara";Region;"26";18341
+"United Republic of Tanzania";TZ;TZA;223;"Mara";Region;"13";18342
+"United Republic of Tanzania";TZ;TZA;223;"Mbeya";Region;"14";18337
+"United Republic of Tanzania";TZ;TZA;223;"Mjini Magharibi";Region;"15";19098
+"United Republic of Tanzania";TZ;TZA;223;"Morogoro";Region;"16";18343
+"United Republic of Tanzania";TZ;TZA;223;"Mtwara";Region;"17";18354
+"United Republic of Tanzania";TZ;TZA;223;"Mwanza";Region;"18";18344
+"United Republic of Tanzania";TZ;TZA;223;"Pwani";Region;"19";18345
+"United Republic of Tanzania";TZ;TZA;223;"Rukwa";Region;"20";18336
+"United Republic of Tanzania";TZ;TZA;223;"Ruvuma";Region;"21";18346
+"United Republic of Tanzania";TZ;TZA;223;"Shinyanga";Region;"22";18347
+"United Republic of Tanzania";TZ;TZA;223;"Singida";Region;"23";18335
+"United Republic of Tanzania";TZ;TZA;223;"Tabora";Region;"24";18348
+"United Republic of Tanzania";TZ;TZA;223;"Tanga";Region;"25";18334
 "Thailand";TH;THA;224;"Amnat Charoen";province;"37";18402
 "Thailand";TH;THA;224;"Ang Thong";province;"15";18403
 "Thailand";TH;THA;224;"Buri Ram";province;"31";18421
@@ -4631,7 +4631,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Brent";borough;"BEN";19181
 "United Kingdom";GB;GBR;239;"Bridgend [Pen-y-bont ar Ogwr GB-POG]";unitary authority (Wales);"BGE";47955
 "United Kingdom";GB;GBR;239;"Brighton and Hove";unitary authority;"BNH";47929
-"United Kingdom";GB;GBR;239;"Bristol; City of";unitary authority;"BST";47928
+"United Kingdom";GB;GBR;239;"City of Bristol";unitary authority;"BST";47928
 "United Kingdom";GB;GBR;239;"Bromley";borough;"BRY";19185
 "United Kingdom";GB;GBR;239;"Buckinghamshire";two-tier county;"BKM";47927
 "United Kingdom";GB;GBR;239;"Bury";metropolitan district;"BUR";19187
@@ -4675,7 +4675,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"East Renfrewshire";council area (Scotland);"ERW";47979
 "United Kingdom";GB;GBR;239;"East Riding of Yorkshire";unitary authority;"ERY";47916
 "United Kingdom";GB;GBR;239;"East Sussex";two-tier county;"ESX";47915
-"United Kingdom";GB;GBR;239;"Edinburgh; City of";council area (Scotland);"EDH";47978
+"United Kingdom";GB;GBR;239;"City of Edinburgh";council area (Scotland);"EDH";47978
 "United Kingdom";GB;GBR;239;"Eilean Siar";council area (Scotland);"ELS";47977
 "United Kingdom";GB;GBR;239;"Enfield";borough;"ENF";19230
 "United Kingdom";GB;GBR;239;"Essex";two-tier county;"ESS";47914
@@ -4696,7 +4696,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Harrow";borough;"HRW";19246
 "United Kingdom";GB;GBR;239;"Hartlepool";unitary authority;"HPL";47909
 "United Kingdom";GB;GBR;239;"Havering";borough;"HAV";19248
-"United Kingdom";GB;GBR;239;"Herefordshire; County of";unitary authority;"HEF";47908
+"United Kingdom";GB;GBR;239;"County of Herefordshire";unitary authority;"HEF";47908
 "United Kingdom";GB;GBR;239;"Hertfordshire";two-tier county;"HRT";47907
 "United Kingdom";GB;GBR;239;"Highland";council area (Scotland);"HLD";47973
 "United Kingdom";GB;GBR;239;"Hillingdon";borough;"HIL";19252
@@ -4708,7 +4708,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Islington";borough;"ISL";19258
 "United Kingdom";GB;GBR;239;"Kensington and Chelsea";borough;"KEC";19259
 "United Kingdom";GB;GBR;239;"Kent";two-tier county;"KEN";47905
-"United Kingdom";GB;GBR;239;"Kingston upon Hull; City of";unitary authority;"KHL";47904
+"United Kingdom";GB;GBR;239;"City of Kingston upon Hull";unitary authority;"KHL";47904
 "United Kingdom";GB;GBR;239;"Kingston upon Thames";borough;"KTT";19262
 "United Kingdom";GB;GBR;239;"Kirklees";metropolitan district;"KIR";19263
 "United Kingdom";GB;GBR;239;"Knowsley";metropolitan district;"KWL";19264
@@ -4723,7 +4723,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Lincolnshire";two-tier county;"LIN";48067
 "United Kingdom";GB;GBR;239;"Lisburn";district council area (Northern Ireland);"LSB";47998
 "United Kingdom";GB;GBR;239;"Liverpool";metropolitan district;"LIV";19275
-"United Kingdom";GB;GBR;239;"London; City of";city corporation;"LND";47912
+"United Kingdom";GB;GBR;239;"City of London";city corporation;"LND";47912
 "United Kingdom";GB;GBR;239;"Luton";unitary authority;"LUT";48065
 "United Kingdom";GB;GBR;239;"Magherafelt";district council area (Northern Ireland);"MFT";47996
 "United Kingdom";GB;GBR;239;"Manchester";metropolitan district;"MAN";48066
@@ -4770,14 +4770,14 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Redbridge";borough;"RDB";19320
 "United Kingdom";GB;GBR;239;"Redcar and Cleveland";unitary authority;"RCC";48045
 "United Kingdom";GB;GBR;239;"Renfrewshire";council area (Scotland);"RFW";47965
-"United Kingdom";GB;GBR;239;"Rhondda; Cynon; Taff [Rhondda; Cynon;Taf]";unitary authority (Wales);"RCT";47940
+"United Kingdom";GB;GBR;239;"Cynon Rhondda";unitary authority (Wales);"RCT";47940
 "United Kingdom";GB;GBR;239;"Richmond upon Thames";borough;"RIC";19324
 "United Kingdom";GB;GBR;239;"Rochdale";metropolitan district;"RCH";19325
 "United Kingdom";GB;GBR;239;"Rotherham";metropolitan district;"ROT";19326
 "United Kingdom";GB;GBR;239;"Rutland";unitary authority;"RUT";48044
 "United Kingdom";GB;GBR;239;"Salford";metropolitan district;"SLF";19328
 "United Kingdom";GB;GBR;239;"Sandwell";metropolitan district;"SAW";19329
-"United Kingdom";GB;GBR;239;"Scottish Borders; The";council area (Scotland);"SCB";47964
+"United Kingdom";GB;GBR;239;"The Scottish Borders";council area (Scotland);"SCB";47964
 "United Kingdom";GB;GBR;239;"Sefton";metropolitan district;"SFT";19331
 "United Kingdom";GB;GBR;239;"Sheffield";metropolitan district;"SHF";19332
 "United Kingdom";GB;GBR;239;"Shetland Islands";council area (Scotland);"ZET";47963
@@ -4812,7 +4812,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United Kingdom";GB;GBR;239;"Torfaen [Tor-faen]";unitary authority (Wales);"TOF";47938
 "United Kingdom";GB;GBR;239;"Tower Hamlets";borough;"TWH";19363
 "United Kingdom";GB;GBR;239;"Trafford";metropolitan district;"TRF";19364
-"United Kingdom";GB;GBR;239;"Vale of Glamorgan; The [Bro Morgannwg GB-BMG]";unitary authority (Wales);"VGL";47937
+"United Kingdom";GB;GBR;239;"The [Bro Morgannwg GB-BMG] Vale of Glamorgan";unitary authority (Wales);"VGL";47937
 "United Kingdom";GB;GBR;239;"Wakefield";metropolitan district;"WKF";19366
 "United Kingdom";GB;GBR;239;"Walsall";metropolitan district;"WLL";19367
 "United Kingdom";GB;GBR;239;"Waltham Forest";borough;"WFT";19368
@@ -4884,7 +4884,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "United States";US;USA;240;"United States Minor Outlying Islands (see also separate entry under UM)";outlying area;"UM";19597
 "United States";US;USA;240;"Utah";state;"UT";18642
 "United States";US;USA;240;"Vermont";state;"VT";18670
-"United States";US;USA;240;"Virgin Islands; U.S. (see also separate entry under VI)";outlying area;"VI";19593
+"United States";US;USA;240;"U.S. (see also separate entry under VI) Virgin Islands";outlying area;"VI";19593
 "United States";US;USA;240;"Virginia";state;"VA";18641
 "United States";US;USA;240;"Washington";state;"WA";18671
 "United States";US;USA;240;"West Virginia";state;"WV";18640
@@ -4938,31 +4938,31 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Vanuatu";VU;VUT;244;"Shéfa";Province;"SEE";18727
 "Vanuatu";VU;VUT;244;"Taféa";Province;"TAE";18725
 "Vanuatu";VU;VUT;244;"Torba";Province;"TOB";18729
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Amazonas";state;"Z";18735
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Anzoátegui";state;"B";18745
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Apure";state;"C";18746
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Aragua";state;"D";18736
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Barinas";state;"E";18747
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Bolívar";state;"F";18737
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Carabobo";state;"G";18748
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Cojedes";state;"H";18749
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Delta Amacuro";state;"Y";18738
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Dependencias Federales";federal dependency;"W";18750
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Distrito Federal";federal district;"A";18739
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Falcón";state;"I";18751
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Guárico";state;"J";18740
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Lara";state;"K";18741
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Miranda";state;"M";18743
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Monagas";state;"N";18744
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Mérida";state;"L";18742
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Nueva Esparta";state;"O";18734
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Portuguesa";state;"P";18752
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Sucre";state;"R";18733
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Trujillo";state;"T";20682
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Táchira";state;"S";20681
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Vargas";state;"X";20683
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Yaracuy";state;"U";20680
-"Venezuela; Bolivarian Republic of";VE;VEN;245;"Zulia";state;"V";20684
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Amazonas";state;"Z";18735
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Anzoátegui";state;"B";18745
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Apure";state;"C";18746
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Aragua";state;"D";18736
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Barinas";state;"E";18747
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Bolívar";state;"F";18737
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Carabobo";state;"G";18748
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Cojedes";state;"H";18749
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Delta Amacuro";state;"Y";18738
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Dependencias Federales";federal dependency;"W";18750
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Distrito Federal";federal district;"A";18739
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Falcón";state;"I";18751
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Guárico";state;"J";18740
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Lara";state;"K";18741
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Miranda";state;"M";18743
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Monagas";state;"N";18744
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Mérida";state;"L";18742
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Nueva Esparta";state;"O";18734
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Portuguesa";state;"P";18752
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Sucre";state;"R";18733
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Trujillo";state;"T";20682
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Táchira";state;"S";20681
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Vargas";state;"X";20683
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Yaracuy";state;"U";20680
+"Bolivarian Republic of Venezuela";VE;VEN;245;"Zulia";state;"V";20684
 "Viet Nam";VN;VNM;247;"An Giang";Province;"44";18753
 "Viet Nam";VN;VNM;247;"Ba Ria-Vung Tau";Province;"43";18756
 "Viet Nam";VN;VNM;247;"Bac Can";Province;"53";18755
@@ -4979,7 +4979,7 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Viet Nam";VN;VNM;247;"Can Tho";Province;"48";20620
 "Viet Nam";VN;VNM;247;"Cao Bang";Province;"04";20587
 "Viet Nam";VN;VNM;247;"Da Nang";municipality;"DN";48892
-"Viet Nam";VN;VNM;247;"Da Nang; thanh pho";Province;"60";20629
+"Viet Nam";VN;VNM;247;"thanh pho Da Nang";Province;"60";20629
 "Viet Nam";VN;VNM;247;"Dac Lac";Province;"33";20609
 "Viet Nam";VN;VNM;247;"Dak Nong";Province;"72";20640
 "Viet Nam";VN;VNM;247;"Dien Bien";Province;"71";20639
@@ -4989,15 +4989,15 @@ COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION
 "Viet Nam";VN;VNM;247;"Ha Giang";Province;"03";20586
 "Viet Nam";VN;VNM;247;"Ha Nam";Province;"63";20632
 "Viet Nam";VN;VNM;247;"Ha Noi";municipality;"HN";48893
-"Viet Nam";VN;VNM;247;"Ha Noi; thu do";Province;"64";20633
+"Viet Nam";VN;VNM;247;"thu do Ha Noi";Province;"64";20633
 "Viet Nam";VN;VNM;247;"Ha Tay";Province;"15";20594
 "Viet Nam";VN;VNM;247;"Ha Tinh";Province;"23";20599
 "Viet Nam";VN;VNM;247;"Hai Duong";Province;"61";20630
 "Viet Nam";VN;VNM;247;"Hai Phong";municipality;"HP";48894
-"Viet Nam";VN;VNM;247;"Hai Phong; thanh pho";Province;"62";20631
+"Viet Nam";VN;VNM;247;"thanh pho Hai Phong";Province;"62";20631
 "Viet Nam";VN;VNM;247;"Hau Giang";Province;"73";20641
 "Viet Nam";VN;VNM;247;"Ho Chi Minh [Sai Gon]";municipality;"SG";48895
-"Viet Nam";VN;VNM;247;"Ho Chi Minh; thanh pho [Sai Gon]";Province;"65";20634
+"Viet Nam";VN;VNM;247;"thanh pho [Sai Gon] Ho Chi Minh";Province;"65";20634
 "Viet Nam";VN;VNM;247;"Hoa Binh";Province;"14";20593
 "Viet Nam";VN;VNM;247;"Hung Yen";Province;"66";20635
 "Viet Nam";VN;VNM;247;"Khanh Hoa";Province;"34";20610

@@ -1,0 +1,36 @@
+<?php
+$ISO-3166-2 = array();
+$ISO-3166-2['AMA'] = "Amazonas";
+$ISO-3166-2['ANT'] = "Antioquia";
+$ISO-3166-2['ARA'] = "Arauca";
+$ISO-3166-2['ATL'] = "Atlántico";
+$ISO-3166-2['BOL'] = "Bolívar";
+$ISO-3166-2['BOY'] = "Boyacá";
+$ISO-3166-2['CAL'] = "Caldas";
+$ISO-3166-2['CAQ'] = "Caquetá";
+$ISO-3166-2['CAS'] = "Casanare";
+$ISO-3166-2['CAU'] = "Cauca";
+$ISO-3166-2['CES'] = "Cesar";
+$ISO-3166-2['CHO'] = "Chocó";
+$ISO-3166-2['CUN'] = "Cundinamarca";
+$ISO-3166-2['COR'] = "Córdoba";
+$ISO-3166-2['DC'] = "Distrito Capital de Bogotá";
+$ISO-3166-2['GUA'] = "Guainía";
+$ISO-3166-2['GUV'] = "Guaviare";
+$ISO-3166-2['HUI'] = "Huila";
+$ISO-3166-2['LAG'] = "La Guajira";
+$ISO-3166-2['MAG'] = "Magdalena";
+$ISO-3166-2['MET'] = "Meta";
+$ISO-3166-2['NAR'] = "Nariño";
+$ISO-3166-2['NSA'] = "Norte de Santander";
+$ISO-3166-2['PUT'] = "Putumayo";
+$ISO-3166-2['QUI'] = "Quindío";
+$ISO-3166-2['RIS'] = "Risaralda";
+$ISO-3166-2['SAP'] = "Providencia y Santa Catalina San Andrés";
+$ISO-3166-2['SAN'] = "Santander";
+$ISO-3166-2['SUC'] = "Sucre";
+$ISO-3166-2['TOL'] = "Tolima";
+$ISO-3166-2['VAC'] = "Valle del Cauca";
+$ISO-3166-2['VAU'] = "Vaupés";
+$ISO-3166-2['VID'] = "Vichada";
+?>

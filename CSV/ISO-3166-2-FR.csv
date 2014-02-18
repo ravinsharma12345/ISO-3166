@@ -1,0 +1,132 @@
+COUNTRY NAME; COUNTRY SHORT CODE; COUNTRY LONG CODE; COUNTRY NUMBER CODE; REGION NAME; REGION TYPE; REGIONAL CODE; REGIONAL NUMBER CODE
+"France";FR;FRA;78;"Ain";metropolitan department;"01";13736
+"France";FR;FRA;78;"Aisne";metropolitan department;"02";13737
+"France";FR;FRA;78;"Allier";metropolitan department;"03";13717
+"France";FR;FRA;78;"Alpes-de-Haute-Provence";metropolitan department;"04";13738
+"France";FR;FRA;78;"Alpes-Maritimes";metropolitan department;"06";13718
+"France";FR;FRA;78;"Alsace";Metropolitan regions;"A ";48315
+"France";FR;FRA;78;"Aquitaine";Metropolitan regions;"B ";48316
+"France";FR;FRA;78;"Ardennes";metropolitan department;"08";13719
+"France";FR;FRA;78;"Ardèche";metropolitan department;"07";13739
+"France";FR;FRA;78;"Ariège";metropolitan department;"09";13740
+"France";FR;FRA;78;"Aube";metropolitan department;"10";13741
+"France";FR;FRA;78;"Aude";metropolitan department;"11";13720
+"France";FR;FRA;78;"Auvergne";Metropolitan regions;"C ";48317
+"France";FR;FRA;78;"Aveyron";metropolitan department;"12";13742
+"France";FR;FRA;78;"Bas-Rhin";metropolitan department;"67";13721
+"France";FR;FRA;78;"Basse-Normandie";Metropolitan regions;"P ";48318
+"France";FR;FRA;78;"Bouches-du-Rhône";metropolitan department;"13";13743
+"France";FR;FRA;78;"Bourgogne";Metropolitan regions;"D ";48319
+"France";FR;FRA;78;"Bretagne";Metropolitan regions;"E ";48320
+"France";FR;FRA;78;"Calvados";metropolitan department;"14";13722
+"France";FR;FRA;78;"Cantal";metropolitan department;"15";13744
+"France";FR;FRA;78;"Centre";Metropolitan regions;"F ";48321
+"France";FR;FRA;78;"Champagne-Ardenne";Metropolitan regions;"G ";48322
+"France";FR;FRA;78;"Charente";metropolitan department;"16";13723
+"France";FR;FRA;78;"Charente-Maritime";metropolitan department;"17";13745
+"France";FR;FRA;78;"Cher";metropolitan department;"18";13746
+"France";FR;FRA;78;"Clipperton";Dependency;"CP";21344
+"France";FR;FRA;78;"Corrèze";metropolitan department;"19";13791
+"France";FR;FRA;78;"Corse";Metropolitan regions;"H ";48323
+"France";FR;FRA;78;"Corse-du-Sud";metropolitan department;"2A";13747
+"France";FR;FRA;78;"Creuse";metropolitan department;"23";13794
+"France";FR;FRA;78;"Côte-d'Or";metropolitan department;"21";13792
+"France";FR;FRA;78;"Côtes-d'Armor";metropolitan department;"22";13793
+"France";FR;FRA;78;"Deux-Sèvres";metropolitan department;"79";13795
+"France";FR;FRA;78;"Dordogne";metropolitan department;"24";13796
+"France";FR;FRA;78;"Doubs";metropolitan department;"25";13797
+"France";FR;FRA;78;"Drôme";metropolitan department;"26";13816
+"France";FR;FRA;78;"Essonne";metropolitan department;"91";13817
+"France";FR;FRA;78;"Eure";metropolitan department;"27";13818
+"France";FR;FRA;78;"Eure-et-Loir";metropolitan department;"28";13819
+"France";FR;FRA;78;"Finistère";metropolitan department;"29";13820
+"France";FR;FRA;78;"Franche-Comté";Metropolitan regions;"I ";48324
+"France";FR;FRA;78;"Gard";metropolitan department;"30";13821
+"France";FR;FRA;78;"Gers";metropolitan department;"32";13822
+"France";FR;FRA;78;"Gironde";metropolitan department;"33";13823
+"France";FR;FRA;78;"Guadeloupe (see also separate entry under GP)";overseas regions;"GP ";48337
+"France";FR;FRA;78;"Guyane (française) (see also separate entry under GF)";overseas regions;"GF ";48338
+"France";FR;FRA;78;"Haut-Rhin";metropolitan department;"68";13753
+"France";FR;FRA;78;"Haute-Corse";metropolitan department;"2B";13748
+"France";FR;FRA;78;"Haute-Garonne";metropolitan department;"31";13824
+"France";FR;FRA;78;"Haute-Loire";metropolitan department;"43";13749
+"France";FR;FRA;78;"Haute-Marne";metropolitan department;"52";13807
+"France";FR;FRA;78;"Haute-Normandie";Metropolitan regions;"Q ";48325
+"France";FR;FRA;78;"Haute-Savoie";metropolitan department;"74";13751
+"France";FR;FRA;78;"Haute-Saône";metropolitan department;"70";13808
+"France";FR;FRA;78;"Haute-Vienne";metropolitan department;"87";13809
+"France";FR;FRA;78;"Hautes-Alpes";metropolitan department;"05";13750
+"France";FR;FRA;78;"Hautes-Pyrénées";metropolitan department;"65";13752
+"France";FR;FRA;78;"Hauts-de-Seine";metropolitan department;"92";13810
+"France";FR;FRA;78;"Hérault";metropolitan department;"34";13754
+"France";FR;FRA;78;"Ille-et-Vilaine";metropolitan department;"35";13811
+"France";FR;FRA;78;"Indre";metropolitan department;"36";13755
+"France";FR;FRA;78;"Indre-et-Loire";metropolitan department;"37";13756
+"France";FR;FRA;78;"Isère";metropolitan department;"38";13812
+"France";FR;FRA;78;"Jura";metropolitan department;"39";13757
+"France";FR;FRA;78;"La Réunion (see also separate entry under RE)";overseas regions;"RE ";48340
+"France";FR;FRA;78;"Landes";metropolitan department;"40";13813
+"France";FR;FRA;78;"Languedoc-Roussillon";Metropolitan regions;"K ";48327
+"France";FR;FRA;78;"Limousin";Metropolitan regions;"L ";48328
+"France";FR;FRA;78;"Loir-et-Cher";metropolitan department;"41";13760
+"France";FR;FRA;78;"Loire";metropolitan department;"42";13758
+"France";FR;FRA;78;"Loire-Atlantique";metropolitan department;"44";13814
+"France";FR;FRA;78;"Loiret";metropolitan department;"45";13759
+"France";FR;FRA;78;"Lorraine";Metropolitan regions;"M ";48329
+"France";FR;FRA;78;"Lot";metropolitan department;"46";13815
+"France";FR;FRA;78;"Lot-et-Garonne";metropolitan department;"47";13761
+"France";FR;FRA;78;"Lozère";metropolitan department;"48";13798
+"France";FR;FRA;78;"Maine-et-Loire";metropolitan department;"49";13762
+"France";FR;FRA;78;"Manche";metropolitan department;"50";13799
+"France";FR;FRA;78;"Marne";metropolitan department;"51";13763
+"France";FR;FRA;78;"Martinique (see also separate entry under MQ)";overseas regions;"MQ ";48339
+"France";FR;FRA;78;"Mayenne";metropolitan department;"53";13764
+"France";FR;FRA;78;"Mayotte (see also separate entry under YT)";territorial collectivity;"YT";18999
+"France";FR;FRA;78;"Meurthe-et-Moselle";metropolitan department;"54";13800
+"France";FR;FRA;78;"Meuse";metropolitan department;"55";13765
+"France";FR;FRA;78;"Midi-Pyrénées";Metropolitan regions;"N ";48330
+"France";FR;FRA;78;"Morbihan";metropolitan department;"56";13801
+"France";FR;FRA;78;"Moselle";metropolitan department;"57";13766
+"France";FR;FRA;78;"Nièvre";metropolitan department;"58";13802
+"France";FR;FRA;78;"Nord";metropolitan department;"59";13767
+"France";FR;FRA;78;"Nord-Pas-de-Calais";Metropolitan regions;"O ";48331
+"France";FR;FRA;78;"Nouvelle-Calédonie (see also separate entry under NC)";overseas territory;"NC";19000
+"France";FR;FRA;78;"Oise";metropolitan department;"60";13768
+"France";FR;FRA;78;"Orne";metropolitan department;"61";13803
+"France";FR;FRA;78;"Paris";metropolitan department;"75";13769
+"France";FR;FRA;78;"Pas-de-Calais";metropolitan department;"62";13804
+"France";FR;FRA;78;"Pays-de-la-Loire";Metropolitan regions;"R ";48332
+"France";FR;FRA;78;"Picardie";Metropolitan regions;"S ";48333
+"France";FR;FRA;78;"Poitou-Charentes";Metropolitan regions;"T ";48334
+"France";FR;FRA;78;"Polynésie française (see also separate entry under PF)";overseas territory;"PF";19001
+"France";FR;FRA;78;"Provence-Alpes-Côte-d'Azur";Metropolitan regions;"U ";48335
+"France";FR;FRA;78;"Puy-de-Dôme";metropolitan department;"63";13770
+"France";FR;FRA;78;"Pyrénées-Atlantiques";metropolitan department;"64";13805
+"France";FR;FRA;78;"Pyrénées-Orientales";metropolitan department;"66";13771
+"France";FR;FRA;78;"Rhône";metropolitan department;"69";13772
+"France";FR;FRA;78;"Rhône-Alpes";Metropolitan regions;"V ";48336
+"France";FR;FRA;78;"Saint-Barthélemy (see also separate entry under BL)";Overseas territorial collectivity;"BL";21345
+"France";FR;FRA;78;"Saint-Martin (see also separate entry under MF)";Overseas territorial collectivity;"MF";21346
+"France";FR;FRA;78;"Saint-Pierre-et-Miquelon (see also separate entry under PM)";territorial collectivity;"PM";19002
+"France";FR;FRA;78;"Sarthe";metropolitan department;"72";13773
+"France";FR;FRA;78;"Savoie";metropolitan department;"73";13714
+"France";FR;FRA;78;"Saône-et-Loire";metropolitan department;"71";13806
+"France";FR;FRA;78;"Seine-et-Marne";metropolitan department;"77";13774
+"France";FR;FRA;78;"Seine-Maritime";metropolitan department;"76";13710
+"France";FR;FRA;78;"Seine-Saint-Denis";metropolitan department;"93";13775
+"France";FR;FRA;78;"Somme";metropolitan department;"80";13711
+"France";FR;FRA;78;"Tarn";metropolitan department;"81";13776
+"France";FR;FRA;78;"Tarn-et-Garonne";metropolitan department;"82";13712
+"France";FR;FRA;78;"Terres Australes Françaises (see also separate entry under TF)";overseas territory;"TF";19003
+"France";FR;FRA;78;"Territoire de Belfort";metropolitan department;"90";13777
+"France";FR;FRA;78;"Val-d'Oise";metropolitan department;"95";13709
+"France";FR;FRA;78;"Val-de-Marne";metropolitan department;"94";13778
+"France";FR;FRA;78;"Var";metropolitan department;"83";13779
+"France";FR;FRA;78;"Vaucluse";metropolitan department;"84";13713
+"France";FR;FRA;78;"Vendée";metropolitan department;"85";13780
+"France";FR;FRA;78;"Vienne";metropolitan department;"86";13781
+"France";FR;FRA;78;"Vosges";metropolitan department;"88";13708
+"France";FR;FRA;78;"Wallis et Futuna (see also separate entry under WF)";overseas territory;"WF";19004
+"France";FR;FRA;78;"Yonne";metropolitan department;"89";13782
+"France";FR;FRA;78;"Yvelines";metropolitan department;"78";13707
+"France";FR;FRA;78;"Île-de-France";Metropolitan regions;"J ";48326

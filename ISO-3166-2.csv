@@ -686,7 +686,7 @@ KH;"Krong Kaeb [Krong Kêb]";autonomous municipality;"23";12907
 KH;"Krong Pailin [Krong Pailin]";autonomous municipality;"24";12908
 KH;"Krong Preah Sihanouk [Krong Preah Sihanouk]";autonomous municipality;"18";12909
 KH;"Mondol Kiri [Môndól Kiri]";province;"11";12910
-KH;"Otdar Mean Chey [Otdâr Méanchey] ";province;"22";12901
+KH;"Otdar Mean Chey [Otdâr Méanchey]";province;"22";12901
 KH;"Phnom Penh [Phnum Pénh]";autonomous municipality;"12";12921
 KH;"Pousaat [Pouthisat]";province;"15";12900
 KH;"Preah Vihear [Preah Vihéar]";province;"13";12913
@@ -867,7 +867,7 @@ CO;"Norte de Santander";department;"NSA";13066
 CO;"Putumayo";department;"PUT";13067
 CO;"Quindío";department;"QUI";13042
 CO;"Risaralda";department;"RIS";13068
-CO;"San Andrés; Providencia y Santa Catalina";department;"SAP";13043
+CO;"Providencia y Santa Catalina San Andrés";department;"SAP";13043
 CO;"Santander";department;"SAN";13069
 CO;"Sucre";department;"SUC";13041
 CO;"Tolima";department;"TOL";13070
@@ -948,61 +948,61 @@ CY;"Larnaka";District;"03";19429
 CY;"Lefkosia";District;"01";19430
 CY;"Lemesos";District;"02";19431
 CY;"Pafos";District;"05";19433
-CZ;"Benešov ";district;"201 ";13247
-CZ;"Beroun ";district;"202 ";13201
-CZ;"Blansko ";district;"621 ";13231
-CZ;"Brno-město ";district;"622 ";13192
-CZ;"Brno-venkov ";district;"623 ";13233
-CZ;"Bruntál ";district;"801 ";13180
-CZ;"Břeclav ";district;"624 ";13232
-CZ;"Cheb ";district;"411 ";13175
-CZ;"Chomutov ";district;"422 ";13173
-CZ;"Chrudim ";district;"531 ";13240
-CZ;"Domažlice ";district;"321 ";13242
-CZ;"Děčín ";district;"421 ";13164
-CZ;"Frýdek Místek ";district;"802 ";13213
-CZ;"Havlíčkův Brod ";district;"611 ";13204
-CZ;"Hodonín ";district;"625 ";13174
-CZ;"Hradec Králové ";district;"521 ";13237
-CZ;"Jablonec nad Nisou ";district;"512 ";13179
-CZ;"Jeseník ";district;"711 ";13216
-CZ;"Jihlava ";district;"612 ";13205
+CZ;"Benešov";district;"201 ";13247
+CZ;"Beroun";district;"202 ";13201
+CZ;"Blansko";district;"621 ";13231
+CZ;"Brno-město";district;"622 ";13192
+CZ;"Brno-venkov";district;"623 ";13233
+CZ;"Bruntál";district;"801 ";13180
+CZ;"Břeclav";district;"624 ";13232
+CZ;"Cheb";district;"411 ";13175
+CZ;"Chomutov";district;"422 ";13173
+CZ;"Chrudim";district;"531 ";13240
+CZ;"Domažlice";district;"321 ";13242
+CZ;"Děčín";district;"421 ";13164
+CZ;"Frýdek Místek";district;"802 ";13213
+CZ;"Havlíčkův Brod";district;"611 ";13204
+CZ;"Hodonín";district;"625 ";13174
+CZ;"Hradec Králové";district;"521 ";13237
+CZ;"Jablonec nad Nisou";district;"512 ";13179
+CZ;"Jeseník";district;"711 ";13216
+CZ;"Jihlava";district;"612 ";13205
 CZ;"Jihoceský kraj";Region;"JC";13219
-CZ;"Jihomoravský kraj ";Region;"JM";13220
-CZ;"Jindřichův Hradec ";district;"313 ";13228
-CZ;"Jičín ";district;"522 ";13177
+CZ;"Jihomoravský kraj";Region;"JM";13220
+CZ;"Jindřichův Hradec";district;"313 ";13228
+CZ;"Jičín";district;"522 ";13177
 CZ;"Karlovarský kraj";Region;"KA";13183
-CZ;"Karlovy Vary ";district;"412 ";13236
-CZ;"Karviná ";district;"803 ";13181
-CZ;"Kladno ";district;"203 ";13200
-CZ;"Klatovy ";district;"322 ";13243
-CZ;"Kolín ";district;"204 ";13202
-CZ;"Kromĕříž ";district;"721 ";13207
+CZ;"Karlovy Vary";district;"412 ";13236
+CZ;"Karviná";district;"803 ";13181
+CZ;"Kladno";district;"203 ";13200
+CZ;"Klatovy";district;"322 ";13243
+CZ;"Kolín";district;"204 ";13202
+CZ;"Kromĕříž";district;"721 ";13207
 CZ;"Královéhradecký kraj";Region;"KR";13221
-CZ;"Kutná Hora ";district;"205 ";13165
-CZ;"Liberec ";district;"513 ";13211
+CZ;"Kutná Hora";district;"205 ";13165
+CZ;"Liberec";district;"513 ";13211
 CZ;"Liberecký kraj";Region;"LI";13184
-CZ;"Litoměřice ";district;"423 ";13248
-CZ;"Louny ";district;"424 ";13252
-CZ;"Mladá Boleslav ";district;"207 ";13167
+CZ;"Litoměřice";district;"423 ";13248
+CZ;"Louny";district;"424 ";13252
+CZ;"Mladá Boleslav";district;"207 ";13167
 CZ;"Moravskoslezský kraj";Region;"MO";13222
-CZ;"Most ";district;"425 ";13251
-CZ;"Mělník ";district;"206 ";13166
-CZ;"Nový Jičín ";district;"804 ";13214
-CZ;"Nymburk ";district;"208 ";13168
-CZ;"Náchod ";district;"523 ";13238
-CZ;"Olomouc ";district;"712 ";13193
+CZ;"Most";district;"425 ";13251
+CZ;"Mělník";district;"206 ";13166
+CZ;"Nový Jičín";district;"804 ";13214
+CZ;"Nymburk";district;"208 ";13168
+CZ;"Náchod";district;"523 ";13238
+CZ;"Olomouc";district;"712 ";13193
 CZ;"Olomoucký kraj";Region;"OL";13185
-CZ;"Opava ";district;"805 ";13182
-CZ;"Ostrava město ";district;"806 ";13215
-CZ;"Pardubice ";district;"532 ";13195
+CZ;"Opava";district;"805 ";13182
+CZ;"Ostrava město";district;"806 ";13215
+CZ;"Pardubice";district;"532 ";13195
 CZ;"Pardubický kraj";Region;"PA";13223
-CZ;"Pelhřimov ";district;"613 ";13253
+CZ;"Pelhřimov";district;"613 ";13253
 CZ;"Plzenský kraj";Region;"PL";13186
-CZ;"Plzeň jih ";district;"324 ";13197
-CZ;"Plzeň město ";district;"323 ";13244
-CZ;"Plzeň sever ";district;"325 ";13198
-CZ;"Prachatice ";district;"315 ";13190
+CZ;"Plzeň jih";district;"324 ";13197
+CZ;"Plzeň město";district;"323 ";13244
+CZ;"Plzeň sever";district;"325 ";13198
+CZ;"Prachatice";district;"315 ";13190
 CZ;"Praha 1";district;"101";48300
 CZ;"Praha 10";district;"10A";48309
 CZ;"Praha 11";district;"10B";48310
@@ -1018,41 +1018,41 @@ CZ;"Praha 6";district;"106";48305
 CZ;"Praha 7";district;"107";48306
 CZ;"Praha 8";district;"108";48307
 CZ;"Praha 9";district;"109";48308
-CZ;"Praha východ ";district;"209 ";13170
-CZ;"Praha západ ";district;"20A ";13171
-CZ;"Praha; hlavní mesto";Region;"PR";13224
-CZ;"Prostĕjov ";district;"713 ";13194
-CZ;"Písek ";district;"314 ";13229
-CZ;"Přerov ";district;"714 ";13217
-CZ;"Příbram ";district;"20B ";13169
-CZ;"Rakovník ";district;"20C ";13172
-CZ;"Rokycany ";district;"326 ";13245
-CZ;"Rychnov nad Kněžnou ";district;"524 ";13239
-CZ;"Semily ";district;"514 ";13212
-CZ;"Sokolov ";district;"413 ";13176
-CZ;"Strakonice ";district;"316 ";13230
+CZ;"Praha východ";district;"209 ";13170
+CZ;"Praha západ";district;"20A ";13171
+CZ;"hlavní mesto Praha";Region;"PR";13224
+CZ;"Prostĕjov";district;"713 ";13194
+CZ;"Písek";district;"314 ";13229
+CZ;"Přerov";district;"714 ";13217
+CZ;"Příbram";district;"20B ";13169
+CZ;"Rakovník";district;"20C ";13172
+CZ;"Rokycany";district;"326 ";13245
+CZ;"Rychnov nad Kněžnou";district;"524 ";13239
+CZ;"Semily";district;"514 ";13212
+CZ;"Sokolov";district;"413 ";13176
+CZ;"Strakonice";district;"316 ";13230
 CZ;"Stredoceský kraj";Region;"ST";13187
-CZ;"Svitavy ";district;"533 ";13241
-CZ;"Tachov ";district;"327 ";13246
-CZ;"Teplice ";district;"426 ";13203
-CZ;"Trutnov ";district;"525 ";13178
-CZ;"Tábor ";district;"317 ";13191
-CZ;"Třebíč ";district;"614 ";13206
-CZ;"Uherské Hradištĕ ";district;"722 ";13208
-CZ;"Vsetín ";district;"723 ";13163
+CZ;"Svitavy";district;"533 ";13241
+CZ;"Tachov";district;"327 ";13246
+CZ;"Teplice";district;"426 ";13203
+CZ;"Trutnov";district;"525 ";13178
+CZ;"Tábor";district;"317 ";13191
+CZ;"Třebíč";district;"614 ";13206
+CZ;"Uherské Hradištĕ";district;"722 ";13208
+CZ;"Vsetín";district;"723 ";13163
 CZ;"Vysocina";Region;"VY";13188
-CZ;"Vyškov ";district;"626 ";13234
-CZ;"Zlín ";district;"724 ";13209
+CZ;"Vyškov";district;"626 ";13234
+CZ;"Zlín";district;"724 ";13209
 CZ;"Zlínský kraj";Region;"ZL";13226
-CZ;"Znojmo ";district;"627 ";13235
-CZ;"Ústecký kraj ";Region;"US";13225
-CZ;"Ústí nad Labem ";district;"427 ";13250
-CZ;"Ústí nad Orlicí ";district;"534 ";13196
-CZ;"Česká Lípa ";district;"511 ";13210
-CZ;"České Budějovice ";district;"311 ";13227
-CZ;"Český Krumlov ";district;"312 ";13189
-CZ;"Šumperk ";district;"715 ";13218
-CZ;"Žd’ár nad Sázavou ";district;"615 ";13249
+CZ;"Znojmo";district;"627 ";13235
+CZ;"Ústecký kraj";Region;"US";13225
+CZ;"Ústí nad Labem";district;"427 ";13250
+CZ;"Ústí nad Orlicí";district;"534 ";13196
+CZ;"Česká Lípa";district;"511 ";13210
+CZ;"České Budějovice";district;"311 ";13227
+CZ;"Český Krumlov";district;"312 ";13189
+CZ;"Šumperk";district;"715 ";13218
+CZ;"Žd’ár nad Sázavou";district;"615 ";13249
 CI;"18 Montagnes (Région des)";Region;"06";18974
 CI;"Agnébi (Région de l')";Region;"16";18975
 CI;"Bafing (Région du)";Region;"17";18976
@@ -1286,30 +1286,30 @@ FR;"Aisne";metropolitan department;"02";13737
 FR;"Allier";metropolitan department;"03";13717
 FR;"Alpes-de-Haute-Provence";metropolitan department;"04";13738
 FR;"Alpes-Maritimes";metropolitan department;"06";13718
-FR;"Alsace ";Metropolitan regions;"A ";48315
-FR;"Aquitaine ";Metropolitan regions;"B ";48316
+FR;"Alsace";Metropolitan regions;"A ";48315
+FR;"Aquitaine";Metropolitan regions;"B ";48316
 FR;"Ardennes";metropolitan department;"08";13719
 FR;"Ardèche";metropolitan department;"07";13739
 FR;"Ariège";metropolitan department;"09";13740
 FR;"Aube";metropolitan department;"10";13741
 FR;"Aude";metropolitan department;"11";13720
-FR;"Auvergne ";Metropolitan regions;"C ";48317
+FR;"Auvergne";Metropolitan regions;"C ";48317
 FR;"Aveyron";metropolitan department;"12";13742
 FR;"Bas-Rhin";metropolitan department;"67";13721
-FR;"Basse-Normandie ";Metropolitan regions;"P ";48318
+FR;"Basse-Normandie";Metropolitan regions;"P ";48318
 FR;"Bouches-du-Rhône";metropolitan department;"13";13743
-FR;"Bourgogne ";Metropolitan regions;"D ";48319
-FR;"Bretagne ";Metropolitan regions;"E ";48320
+FR;"Bourgogne";Metropolitan regions;"D ";48319
+FR;"Bretagne";Metropolitan regions;"E ";48320
 FR;"Calvados";metropolitan department;"14";13722
 FR;"Cantal";metropolitan department;"15";13744
-FR;"Centre ";Metropolitan regions;"F ";48321
-FR;"Champagne-Ardenne ";Metropolitan regions;"G ";48322
+FR;"Centre";Metropolitan regions;"F ";48321
+FR;"Champagne-Ardenne";Metropolitan regions;"G ";48322
 FR;"Charente";metropolitan department;"16";13723
 FR;"Charente-Maritime";metropolitan department;"17";13745
 FR;"Cher";metropolitan department;"18";13746
 FR;"Clipperton";Dependency;"CP";21344
 FR;"Corrèze";metropolitan department;"19";13791
-FR;"Corse ";Metropolitan regions;"H ";48323
+FR;"Corse";Metropolitan regions;"H ";48323
 FR;"Corse-du-Sud";metropolitan department;"2A";13747
 FR;"Creuse";metropolitan department;"23";13794
 FR;"Côte-d'Or";metropolitan department;"21";13792
@@ -1326,14 +1326,14 @@ FR;"Franche-Comté";Metropolitan regions;"I ";48324
 FR;"Gard";metropolitan department;"30";13821
 FR;"Gers";metropolitan department;"32";13822
 FR;"Gironde";metropolitan department;"33";13823
-FR;"Guadeloupe (see also separate entry under GP) ";overseas regions;"GP ";48337
+FR;"Guadeloupe (see also separate entry under GP)";overseas regions;"GP ";48337
 FR;"Guyane (française) (see also separate entry under GF)";overseas regions;"GF ";48338
 FR;"Haut-Rhin";metropolitan department;"68";13753
 FR;"Haute-Corse";metropolitan department;"2B";13748
 FR;"Haute-Garonne";metropolitan department;"31";13824
 FR;"Haute-Loire";metropolitan department;"43";13749
 FR;"Haute-Marne";metropolitan department;"52";13807
-FR;"Haute-Normandie ";Metropolitan regions;"Q ";48325
+FR;"Haute-Normandie";Metropolitan regions;"Q ";48325
 FR;"Haute-Savoie";metropolitan department;"74";13751
 FR;"Haute-Saône";metropolitan department;"70";13808
 FR;"Haute-Vienne";metropolitan department;"87";13809
@@ -1348,20 +1348,20 @@ FR;"Isère";metropolitan department;"38";13812
 FR;"Jura";metropolitan department;"39";13757
 FR;"La Réunion (see also separate entry under RE)";overseas regions;"RE ";48340
 FR;"Landes";metropolitan department;"40";13813
-FR;"Languedoc-Roussillon ";Metropolitan regions;"K ";48327
-FR;"Limousin ";Metropolitan regions;"L ";48328
+FR;"Languedoc-Roussillon";Metropolitan regions;"K ";48327
+FR;"Limousin";Metropolitan regions;"L ";48328
 FR;"Loir-et-Cher";metropolitan department;"41";13760
 FR;"Loire";metropolitan department;"42";13758
 FR;"Loire-Atlantique";metropolitan department;"44";13814
 FR;"Loiret";metropolitan department;"45";13759
-FR;"Lorraine ";Metropolitan regions;"M ";48329
+FR;"Lorraine";Metropolitan regions;"M ";48329
 FR;"Lot";metropolitan department;"46";13815
 FR;"Lot-et-Garonne";metropolitan department;"47";13761
 FR;"Lozère";metropolitan department;"48";13798
 FR;"Maine-et-Loire";metropolitan department;"49";13762
 FR;"Manche";metropolitan department;"50";13799
 FR;"Marne";metropolitan department;"51";13763
-FR;"Martinique (see also separate entry under MQ) ";overseas regions;"MQ ";48339
+FR;"Martinique (see also separate entry under MQ)";overseas regions;"MQ ";48339
 FR;"Mayenne";metropolitan department;"53";13764
 FR;"Mayotte (see also separate entry under YT)";territorial collectivity;"YT";18999
 FR;"Meurthe-et-Moselle";metropolitan department;"54";13800
@@ -1371,15 +1371,15 @@ FR;"Morbihan";metropolitan department;"56";13801
 FR;"Moselle";metropolitan department;"57";13766
 FR;"Nièvre";metropolitan department;"58";13802
 FR;"Nord";metropolitan department;"59";13767
-FR;"Nord-Pas-de-Calais ";Metropolitan regions;"O ";48331
+FR;"Nord-Pas-de-Calais";Metropolitan regions;"O ";48331
 FR;"Nouvelle-Calédonie (see also separate entry under NC)";overseas territory;"NC";19000
 FR;"Oise";metropolitan department;"60";13768
 FR;"Orne";metropolitan department;"61";13803
 FR;"Paris";metropolitan department;"75";13769
 FR;"Pas-de-Calais";metropolitan department;"62";13804
-FR;"Pays-de-la-Loire ";Metropolitan regions;"R ";48332
-FR;"Picardie ";Metropolitan regions;"S ";48333
-FR;"Poitou-Charentes ";Metropolitan regions;"T ";48334
+FR;"Pays-de-la-Loire";Metropolitan regions;"R ";48332
+FR;"Picardie";Metropolitan regions;"S ";48333
+FR;"Poitou-Charentes";Metropolitan regions;"T ";48334
 FR;"Polynésie française (see also separate entry under PF)";overseas territory;"PF";19001
 FR;"Provence-Alpes-Côte-d'Azur";Metropolitan regions;"U ";48335
 FR;"Puy-de-Dôme";metropolitan department;"63";13770
@@ -1754,11 +1754,11 @@ ID;"Bengkulu";province;"BE";14722
 ID;"Gorontalo";province;"GO";14711
 ID;"Jakarta Raya";special district;"JK";14724
 ID;"Jambi";province;"JA";14712
-ID;"Jawa ";geographic units;"JW";48462
+ID;"Jawa";geographic units;"JW";48462
 ID;"Jawa Barat";province;"JB";14725
 ID;"Jawa Tengah";province;"JT";14713
 ID;"Jawa Timur";province;"JI";14726
-ID;"Kalimantan ";geographic units;"KA";48463
+ID;"Kalimantan";geographic units;"KA";48463
 ID;"Kalimantan Barat";province;"KB";14714
 ID;"Kalimantan Selatan";province;"KS";14715
 ID;"Kalimantan Tengah";province;"KT";14727
@@ -1768,21 +1768,21 @@ ID;"Lampung";province;"LA";14729
 ID;"Maluku";geographic units;"ML";48905
 ID;"Maluku";province;"MA";14730
 ID;"Maluku Utara";province;"MU";14710
-ID;"Nusa Tenggara ";geographic units;"NU";48465
+ID;"Nusa Tenggara";geographic units;"NU";48465
 ID;"Nusa Tenggara Barat";province;"NB";14731
 ID;"Nusa Tenggara Timur";province;"NT";14709
 ID;"Papua";province;"PA";14732
-ID;"Papua ";geographic units;"IJ";48466
+ID;"Papua";geographic units;"IJ";48466
 ID;"Papua Barat";;"X1~";48084
 ID;"Papua Barat";province;"PB";19010
 ID;"Riau";province;"RI";14708
-ID;"Sulawesi ";geographic units;"SL";48467
+ID;"Sulawesi";geographic units;"SL";48467
 ID;"Sulawesi Barat";province;"SR";19011
 ID;"Sulawesi Selatan";province;"SN";14707
 ID;"Sulawesi Tengah";province;"ST";14734
 ID;"Sulawesi Tenggara";province;"SG";14736
 ID;"Sulawesi Utara";province;"SA";14716
-ID;"Sumatera ";geographic units;"SM";48468
+ID;"Sumatera";geographic units;"SM";48468
 ID;"Sumatera Barat";province;"SB";14735
 ID;"Sumatera Selatan";province;"SS";14717
 ID;"Sumatera Utara";province;"SU";14706
@@ -1839,7 +1839,7 @@ IQ;"Wasit";Province;"WA";14780
 IE;"Carlow";County;"CW";14798
 IE;"Cavan";County;"CN";14795
 IE;"Clare";County;"CE";14799
-IE;"Connaught ";province;"C";48469
+IE;"Connaught";province;"C";48469
 IE;"Cork";County;"CO";48897
 IE;"Cork";County;"C";14800
 IE;"Donegal";County;"DL";14796
@@ -1849,7 +1849,7 @@ IE;"Kerry";County;"KY";14802
 IE;"Kildare";County;"KE";14788
 IE;"Kilkenny";County;"KK";14803
 IE;"Laois";County;"LS";14807
-IE;"Leinster ";province;"L";48470
+IE;"Leinster";province;"L";48470
 IE;"Leitrim";County;"LM";14804
 IE;"Limerick";County;"LK";14805
 IE;"Longford";County;"LD";14787
@@ -1857,12 +1857,12 @@ IE;"Louth";County;"LH";14806
 IE;"Mayo";County;"MO";14808
 IE;"Meath";County;"MH";14789
 IE;"Monaghan";County;"MN";14786
-IE;"Munster ";province;"M";48471
+IE;"Munster";province;"M";48471
 IE;"Offaly";County;"OY";14790
 IE;"Roscommon";County;"RN";14809
 IE;"Sligo";County;"SO";14791
 IE;"Tipperary";County;"TA";14792
-IE;"Ulster ";province;"U";48472
+IE;"Ulster";province;"U";48472
 IE;"Waterford";County;"WD";14784
 IE;"Westmeath";County;"WH";14793
 IE;"Wexford";County;"WX";14783
@@ -1917,7 +1917,7 @@ IT;"Foggia";Province;"FG";19498
 IT;"Forli-Cesena";Province;"FC";19499
 IT;"Forlì";;"FO";48085
 IT;"Friuli-Venezia Giulia";region;"36";14885
-IT;"Frosinone ";Province;"FR";19500
+IT;"Frosinone";Province;"FR";19500
 IT;"Genova";Province;"GE";19501
 IT;"Gorizia";Province;"GO";19502
 IT;"Grosseto";Province;"GR";19503
@@ -2792,7 +2792,7 @@ MD;"Dubăsari";district;"DU";15444
 MD;"Edinet";district;"ED";15477
 MD;"Floreşti";district;"FL";15443
 MD;"Făleşti";district;"FA";15445
-MD;"Gagauzia; Unitatea teritoriala autonoma (UTAG)";autonomous territorial unit;"GA";15446
+MD;"Unitatea teritoriala autonoma (UTAG) Gagauzia";autonomous territorial unit;"GA";15446
 MD;"Glodeni";district;"GL";15478
 MD;"Hînceşti";district;"HI";15448
 MD;"Ialoveni";district;"IA";15442
@@ -2805,7 +2805,7 @@ MD;"Rezina";district;"RE";15441
 MD;"Rîşcani";district;"RI";15463
 MD;"Soroca";district;"SO";15466
 MD;"Străşeni";district;"ST";15467
-MD;"Stînga Nistrului; unitatea teritoriala din";territorial unit;"SN";20172
+MD;"unitatea teritoriala din Stînga Nistrului";territorial unit;"SN";20172
 MD;"Sîngerei";district;"SI";15464
 MD;"Taraclia";district;"TA";15481
 MD;"Teleneşti";district;"TE";15468
@@ -2899,7 +2899,7 @@ MA;"El Jadida";province;"JDI";15575
 MA;"Errachidia";province;"ERR";15547
 MA;"Es Smara (EH)";province;"ESM";20174
 MA;"Essaouira";province;"ESI";15523
-MA;"Fahs-Beni Makada ";prefecture;"FAH";48476
+MA;"Fahs-Beni Makada";prefecture;"FAH";48476
 MA;"Fes-Boulemane";Region;"05";15566
 MA;"Figuig";province;"FIG";15549
 MA;"Fès-Dar-Dbibegh";prefecture;"FES";15536
@@ -2908,7 +2908,7 @@ MA;"Grand Casablanca";Region;"08";15564
 MA;"Guelmim";province;"GUE";15520
 MA;"Guelmim-Es Smar";Region;"14";15567
 MA;"Ifrane";province;"IFR";15525
-MA;"Inezgane-Ait Melloul ";prefecture;"INE";48477
+MA;"Inezgane-Ait Melloul";prefecture;"INE";48477
 MA;"Jrada";province;"JRA";15550
 MA;"Kelaat es Sraghna";province;"KES";15544
 MA;"Khemisset";province;"KHE";15552
@@ -2921,13 +2921,13 @@ MA;"Laayoune-Boujdour-Sakia El Hamra";;"X1~";48276
 MA;"Larache";province;"LAR";15560
 MA;"Laâyoune*";province;"LAA";20175
 MA;"Marrakech*";;"MAR";15545
-MA;"Marrakech-Medina ";prefecture;"MMD";48478
-MA;"Marrakech-Menara ";prefecture;"MMN";48479
+MA;"Marrakech-Medina";prefecture;"MMD";48478
+MA;"Marrakech-Menara";prefecture;"MMN";48479
 MA;"Marrakech-Tensift-Al Haouz";Region;"11";15531
 MA;"Mediouna";province;"MED";15539
 MA;"Meknes-Tafilalet";Region;"06";15568
 MA;"Meknès";prefecture;"MEK";15546
-MA;"Mohammadia ";prefecture;"MOH";48480
+MA;"Mohammadia";prefecture;"MOH";48480
 MA;"Moulay Yacoub";;"MOU";15537
 MA;"Nador";province;"NAD";15527
 MA;"Nouaceur";province;"NOU";15580
@@ -2942,13 +2942,13 @@ MA;"Safi";province;"SAF";15535
 MA;"Sefrou";;"SEF";15577
 MA;"Settat";province;"SET";15574
 MA;"Sidi Kacem";province;"SIK";15538
-MA;"Sidi Youssef Ben Ali ";prefecture;"SYB";48483
+MA;"Sidi Youssef Ben Ali";prefecture;"SYB";48483
 MA;"Skhirate-Témara";prefecture;"SKH";48484
 MA;"Souss-Massa-Draa";Region;"13";15570
 MA;"Tadla-Azilal";Region;"12";15533
 MA;"Tan-Tan";province;"TNT";15542
 MA;"Tanger";;"TNG";15584
-MA;"Tanger-Assilah ";prefecture;"TNG";48485
+MA;"Tanger-Assilah";prefecture;"TNG";48485
 MA;"Tanger-Tetouan";Region;"01";15571
 MA;"Taounate";province;"TAO";15562
 MA;"Taourirt";province;"TAI";15528
@@ -3472,40 +3472,40 @@ RO;"Tulcea";County;"TL";17815
 RO;"Vaslui";County;"VS";17816
 RO;"Vrancea";County;"VN";17781
 RO;"Vâlcea";County;"VL";17818
-RU;"Adygeya; Respublika";republic;"AD";17879
+RU;"Respublika Adygeya";republic;"AD";17879
 RU;"Aginskiy Buryatskiy avtonomnyy okrug";autonomous district;"AGB";17880
-RU;"Altay; Respublika";republic;"AL";17857
+RU;"Respublika Altay";republic;"AL";17857
 RU;"Altayskiy kray";administrative territory;"ALT";17881
 RU;"Amurskaya oblast'";administrative region;"AMU";17882
 RU;"Arkhangel'skaya oblast'";administrative region;"ARK";17853
 RU;"Astrakhanskaya oblast'";administrative region;"AST";17883
-RU;"Bashkortostan; Respublika";republic;"BA";17884
+RU;"Respublika Bashkortostan";republic;"BA";17884
 RU;"Belgorodskaya oblast'";administrative region;"BEL";17854
 RU;"Bryanskaya oblast'";administrative region;"BRY";17885
-RU;"Buryatiya; Respublika";republic;"BU";17886
+RU;"Respublika Buryatiya";republic;"BU";17886
 RU;"Chechenskaya Respublika";republic;"CE";17855
 RU;"Chelyabinskaya oblast'";administrative region;"CHE";17887
 RU;"Chitinskaya oblast'";administrative region;"CHI";17888
 RU;"Chukotskiy avtonomnyy okrug";autonomous district;"CHU";17889
 RU;"Chuvashskaya Respublika";republic;"CU";17856
-RU;"Dagestan; Respublika";republic;"DA";17890
+RU;"Respublika Dagestan";republic;"DA";17890
 RU;"Evenkiyskiy avtonomnyy okrug";autonomous district;"EVE";17891
 RU;"Ingushskaya Respublika [Respublika Ingushetiya]";republic;"IN";17894
 RU;"Irkutskaya oblast'";administrative region;"IRK";17895
 RU;"Ivanovskaya oblast'";administrative region;"IVA";17859
 RU;"Kabardino-Balkarskaya Respublika";republic;"KB";17899
 RU;"Kaliningradskaya oblast'";administrative region;"KGD";17900
-RU;"Kalmykiya; Respublika";republic;"KL";17901
+RU;"Respublika Kalmykiya";republic;"KL";17901
 RU;"Kaluzhskaya oblast'";administrative region;"KLU";17902
 RU;"Kamchatskaya oblast'";administrative territory;"KAM";17903
 RU;"Karachayevo-Cherkesskaya Respublika";republic;"KC";17904
-RU;"Kareliya; Respublika";republic;"KR";17905
+RU;"Respublika Kareliya";republic;"KR";17905
 RU;"Kemerovskaya oblast'";administrative region;"KEM";17843
 RU;"Khabarovskiy kray";administrative territory;"KHA";17892
-RU;"Khakasiya; Respublika";republic;"KK";17893
+RU;"Respublika Khakasiya";republic;"KK";17893
 RU;"Khanty-Mansiyskiy avtonomnyy okrug [Yugra]";autonomous district;"KHM";17858
 RU;"Kirovskaya oblast'";administrative region;"KIR";17844
-RU;"Komi; Respublika";republic;"KO";17845
+RU;"Respublika Komi";republic;"KO";17845
 RU;"Komi-Permyak";;"X1~";17846
 RU;"Koryakskiy avtonomnyy okrug";autonomous district;"KOR";17860
 RU;"Kostromskaya oblast'";administrative region;"KOS";17847
@@ -3516,8 +3516,8 @@ RU;"Kurskaya oblast'";administrative region;"KRS";17862
 RU;"Leningradskaya oblast'";administrative region;"LEN";17850
 RU;"Lipetskaya oblast'";administrative region;"LIP";17863
 RU;"Magadanskaya oblast'";administrative region;"MAG";17851
-RU;"Mariy El; Respublika";republic;"ME";17834
-RU;"Mordoviya; Respublika";republic;"MO";17864
+RU;"Respublika Mariy El";republic;"ME";17834
+RU;"Respublika Mordoviya";republic;"MO";17864
 RU;"Moskovskaya oblast'";administrative region;"MOS";17836
 RU;"Moskva";autonomous city;"MOW";17835
 RU;"Murmanskaya oblast'";administrative region;"MUR";17865
@@ -3534,23 +3534,23 @@ RU;"Primorskiy kray";administrative territory;"PRI";17825
 RU;"Pskovskaya oblast'";administrative region;"PSK";17869
 RU;"Rostovskaya oblast'";administrative region;"ROS";17870
 RU;"Ryazanskaya oblast'";administrative region;"RYA";17826
-RU;"Sakha; Respublika [Yakutiya]";republic;"SA";17827
+RU;"Respublika [Yakutiya] Sakha";republic;"SA";17827
 RU;"Sakhalinskaya oblast'";administrative region;"SAK";17828
 RU;"Samarskaya oblast'";administrative region;"SAM";17871
 RU;"Sankt-Peterburg";autonomous city;"SPE";17829
 RU;"Saratovskaya oblast'";administrative region;"SAR";17872
-RU;"Severnaya Osetiya; Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]";republic;"SE";17852
+RU;"Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya] Severnaya Osetiya";republic;"SE";17852
 RU;"Smolenskaya oblast'";administrative region;"SMO";17830
 RU;"Stavropol'skiy kray";administrative territory;"STA";17831
 RU;"Sverdlovskaya oblast'";administrative region;"SVE";17832
 RU;"Tambovskaya oblast'";administrative region;"TAM";17833
-RU;"Tatarstan; Respublika";republic;"TA";17824
+RU;"Respublika Tatarstan";republic;"TA";17824
 RU;"Taymyrskiy (Dolgano-Nenetskiy) avtonomnyy okrug";autonomous district;"TAY";17873
 RU;"Tomskaya oblast'";administrative region;"TOM";17906
 RU;"Tul'skaya oblast'";administrative region;"TUL";17875
 RU;"Tverskaya oblast'";administrative region;"TVE";17910
 RU;"Tyumenskaya oblast'";administrative region;"TYU";17874
-RU;"Tyva; Respublika [Tuva]";republic;"TY";17909
+RU;"Respublika [Tuva] Tyva";republic;"TY";17909
 RU;"Udmurtskaya Respublika";republic;"UD";17876
 RU;"Ul'yanovskaya oblast'";administrative region;"ULY";17908
 RU;"Ust'-Ordynskiy Buryatskiy avtonomnyy okrug";autonomous district;"UOB";17911
@@ -3981,7 +3981,7 @@ ES;"Alicante";province;"A";18136
 ES;"Almería";province;"AL";18138
 ES;"Andalucía";;"AN";19572
 ES;"Asturias";province;"O";18122
-ES;"Asturias; Principado de";autonomous community;"AS";47901
+ES;"Principado de Asturias";autonomous community;"AS";47901
 ES;"Badajoz";province;"BA";18140
 ES;"Baleares";province;"PM";18123
 ES;"Barcelona";province;"B";18141
@@ -4015,13 +4015,13 @@ ES;"León";province;"LE";18158
 ES;"Lleida";province;"L";18134
 ES;"Lugo";province;"LU";18145
 ES;"Madrid";province;"M";18159
-ES;"Madrid; Comunidad de";autonomous community;"MD";42628
+ES;"Comunidad de Madrid";autonomous community;"MD";42628
 ES;"Melilla";Autonomous city;"ML";42627
 ES;"Murcia";province;"MU";18160
-ES;"Murcia; Región de";autonomous community;"MC";47866
+ES;"Región de Murcia";autonomous community;"MC";47866
 ES;"Málaga";province;"MA";18146
 ES;"Navarra";province;"NA";18148
-ES;"Navarra; Comunidad Foral de";autonomous community;"NC";42626
+ES;"Comunidad Foral de Navarra";autonomous community;"NC";42626
 ES;"Ourense";province;"OR";18116
 ES;"Palencia";province;"P";18149
 ES;"País Vasco";autonomous community;"PV";19580
@@ -4035,7 +4035,7 @@ ES;"Tarragona";province;"T";18112
 ES;"Teruel";province;"TE";18118
 ES;"Toledo";province;"TO";18119
 ES;"Valencia";province;"V";18111
-ES;"Valenciana; Comunidad";autonomous community;"VC";42625
+ES;"Comunidad Valenciana";autonomous community;"VC";42625
 ES;"Valladolid";province;"VA";18120
 ES;"Vizcaya";province;"BI";18113
 ES;"Zamora";province;"ZA";18114
@@ -4631,7 +4631,7 @@ GB;"Bradford";metropolitan district;"BRD";19180
 GB;"Brent";borough;"BEN";19181
 GB;"Bridgend [Pen-y-bont ar Ogwr GB-POG]";unitary authority (Wales);"BGE";47955
 GB;"Brighton and Hove";unitary authority;"BNH";47929
-GB;"Bristol; City of";unitary authority;"BST";47928
+GB;"City of Bristol";unitary authority;"BST";47928
 GB;"Bromley";borough;"BRY";19185
 GB;"Buckinghamshire";two-tier county;"BKM";47927
 GB;"Bury";metropolitan district;"BUR";19187
@@ -4675,7 +4675,7 @@ GB;"East Lothian";council area (Scotland);"ELN";47980
 GB;"East Renfrewshire";council area (Scotland);"ERW";47979
 GB;"East Riding of Yorkshire";unitary authority;"ERY";47916
 GB;"East Sussex";two-tier county;"ESX";47915
-GB;"Edinburgh; City of";council area (Scotland);"EDH";47978
+GB;"City of Edinburgh";council area (Scotland);"EDH";47978
 GB;"Eilean Siar";council area (Scotland);"ELS";47977
 GB;"Enfield";borough;"ENF";19230
 GB;"Essex";two-tier county;"ESS";47914
@@ -4696,7 +4696,7 @@ GB;"Haringey";borough;"HRY";19245
 GB;"Harrow";borough;"HRW";19246
 GB;"Hartlepool";unitary authority;"HPL";47909
 GB;"Havering";borough;"HAV";19248
-GB;"Herefordshire; County of";unitary authority;"HEF";47908
+GB;"County of Herefordshire";unitary authority;"HEF";47908
 GB;"Hertfordshire";two-tier county;"HRT";47907
 GB;"Highland";council area (Scotland);"HLD";47973
 GB;"Hillingdon";borough;"HIL";19252
@@ -4708,7 +4708,7 @@ GB;"Isles of Scilly";;"IOS";19257
 GB;"Islington";borough;"ISL";19258
 GB;"Kensington and Chelsea";borough;"KEC";19259
 GB;"Kent";two-tier county;"KEN";47905
-GB;"Kingston upon Hull; City of";unitary authority;"KHL";47904
+GB;"City of Kingston upon Hull";unitary authority;"KHL";47904
 GB;"Kingston upon Thames";borough;"KTT";19262
 GB;"Kirklees";metropolitan district;"KIR";19263
 GB;"Knowsley";metropolitan district;"KWL";19264
@@ -4723,7 +4723,7 @@ GB;"Limavady";district council area (Northern Ireland);"LMV";47999
 GB;"Lincolnshire";two-tier county;"LIN";48067
 GB;"Lisburn";district council area (Northern Ireland);"LSB";47998
 GB;"Liverpool";metropolitan district;"LIV";19275
-GB;"London; City of";city corporation;"LND";47912
+GB;"City of London";city corporation;"LND";47912
 GB;"Luton";unitary authority;"LUT";48065
 GB;"Magherafelt";district council area (Northern Ireland);"MFT";47996
 GB;"Manchester";metropolitan district;"MAN";48066
@@ -4770,14 +4770,14 @@ GB;"Reading";unitary authority;"RDG";48046
 GB;"Redbridge";borough;"RDB";19320
 GB;"Redcar and Cleveland";unitary authority;"RCC";48045
 GB;"Renfrewshire";council area (Scotland);"RFW";47965
-GB;"Rhondda; Cynon; Taff [Rhondda; Cynon;Taf]";unitary authority (Wales);"RCT";47940
+GB;"Cynon Rhondda";unitary authority (Wales);"RCT";47940
 GB;"Richmond upon Thames";borough;"RIC";19324
 GB;"Rochdale";metropolitan district;"RCH";19325
 GB;"Rotherham";metropolitan district;"ROT";19326
 GB;"Rutland";unitary authority;"RUT";48044
 GB;"Salford";metropolitan district;"SLF";19328
 GB;"Sandwell";metropolitan district;"SAW";19329
-GB;"Scottish Borders; The";council area (Scotland);"SCB";47964
+GB;"The Scottish Borders";council area (Scotland);"SCB";47964
 GB;"Sefton";metropolitan district;"SFT";19331
 GB;"Sheffield";metropolitan district;"SHF";19332
 GB;"Shetland Islands";council area (Scotland);"ZET";47963
@@ -4812,7 +4812,7 @@ GB;"Torbay";unitary authority;"TOB";48028
 GB;"Torfaen [Tor-faen]";unitary authority (Wales);"TOF";47938
 GB;"Tower Hamlets";borough;"TWH";19363
 GB;"Trafford";metropolitan district;"TRF";19364
-GB;"Vale of Glamorgan; The [Bro Morgannwg GB-BMG]";unitary authority (Wales);"VGL";47937
+GB;"The [Bro Morgannwg GB-BMG] Vale of Glamorgan";unitary authority (Wales);"VGL";47937
 GB;"Wakefield";metropolitan district;"WKF";19366
 GB;"Walsall";metropolitan district;"WLL";19367
 GB;"Waltham Forest";borough;"WFT";19368
@@ -4884,7 +4884,7 @@ US;"Texas";state;"TX";18669
 US;"United States Minor Outlying Islands (see also separate entry under UM)";outlying area;"UM";19597
 US;"Utah";state;"UT";18642
 US;"Vermont";state;"VT";18670
-US;"Virgin Islands; U.S. (see also separate entry under VI)";outlying area;"VI";19593
+US;"U.S. (see also separate entry under VI) Virgin Islands";outlying area;"VI";19593
 US;"Virginia";state;"VA";18641
 US;"Washington";state;"WA";18671
 US;"West Virginia";state;"WV";18640
@@ -4979,7 +4979,7 @@ VN;"Can Tho";municipality;"CT";48708
 VN;"Can Tho";Province;"48";20620
 VN;"Cao Bang";Province;"04";20587
 VN;"Da Nang";municipality;"DN";48892
-VN;"Da Nang; thanh pho";Province;"60";20629
+VN;"thanh pho Da Nang";Province;"60";20629
 VN;"Dac Lac";Province;"33";20609
 VN;"Dak Nong";Province;"72";20640
 VN;"Dien Bien";Province;"71";20639
@@ -4989,15 +4989,15 @@ VN;"Gia Lai";Province;"30";20606
 VN;"Ha Giang";Province;"03";20586
 VN;"Ha Nam";Province;"63";20632
 VN;"Ha Noi";municipality;"HN";48893
-VN;"Ha Noi; thu do";Province;"64";20633
+VN;"thu do Ha Noi";Province;"64";20633
 VN;"Ha Tay";Province;"15";20594
 VN;"Ha Tinh";Province;"23";20599
 VN;"Hai Duong";Province;"61";20630
 VN;"Hai Phong";municipality;"HP";48894
-VN;"Hai Phong; thanh pho";Province;"62";20631
+VN;"thanh pho Hai Phong";Province;"62";20631
 VN;"Hau Giang";Province;"73";20641
 VN;"Ho Chi Minh [Sai Gon]";municipality;"SG";48895
-VN;"Ho Chi Minh; thanh pho [Sai Gon]";Province;"65";20634
+VN;"thanh pho [Sai Gon] Ho Chi Minh";Province;"65";20634
 VN;"Hoa Binh";Province;"14";20593
 VN;"Hung Yen";Province;"66";20635
 VN;"Khanh Hoa";Province;"34";20610
