@@ -23,15 +23,7 @@ $ISO_3166_2['GB']['LND'] = "City of London";
 CSV files included:
 ------
 
-* ISO-3166.csv: All information about ISO Country codes and Region codes splitted with semicolon. Columns in file: 
-  *COUNTRY NAME
-  *COUNTRY SHORT CODE
-  *COUNTRY LONG CODE
-  *COUNTRY NUMBER CODE
-  *REGION NAME
-  *REGION TYPE
-  *REGIONAL CODE
-  *REGIONAL NUMBER CODE
+* ISO-3166.csv: All information about ISO Country codes and Region codes splitted with semicolon. Columns in file: COUNTRY NAME, COUNTRY SHORT CODE, COUNTRY LONG CODE, COUNTRY NUMBER CODE, REGION NAME, REGION TYPE, REGIONAL CODE, REGIONAL NUMBER CODE.
 * ISO-3166-1.csv: Only information about Country codes, columns in file: COUNTRY NAME, COUNTRY SHORT CODE, COUNTRY LONG CODE, COUNTRY NUMBER CODE.
 * ISO-3166-2.csv: Only information aboun Region codes, columns in file: COUNTRY SHORT CODE, REGION NAME, REGION TYPE, REGIONAL CODE, REGIONAL NUMBER CODE.
 * ISO folder: Individual csv files per region, same format as ISO-3166.csv.
