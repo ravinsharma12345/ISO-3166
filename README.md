@@ -29,3 +29,6 @@ CSV files included:
 * **ISO folder**: Individual csv files per region, same format as ISO-3166.csv.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fran-diaz/iso-3166/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fran-diaz/iso-3166/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
